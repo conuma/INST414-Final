@@ -1,0 +1,1518 @@
+,company,rating,location,headquarters,company_size,revenue,glassdoor_awards,other_awards,interview_difficulty
+0,Google,4.4,"['CA', 'MI', 'TX', 'CA', 'CA', 'MA', 'IL', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA', 'CA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA']","Mountain View, CA",10000+ employees, $10+ billion (USD) per year,1,1,3.3
+1,Microsoft,4.3,"['WA', 'WA', 'WA', 'MA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'CA', 'NC', 'WA', 'WA', 'WA', 'CA', 'CA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'WA']","Redmond, WA",10000+ employees, $10+ billion (USD) per year,1,1,3.1
+2,Cisco Systems,4.2,"['NC', 'CA', 'CA', 'NC', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']","San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+3,Intel Corporation,4.1,"['OR', 'OR', 'CA', 'AZ', 'CA', 'CA', 'AZ', 'Mexico', 'OR', 'AZ', 'CA', 'CA', 'OR', 'CA', 'AZ', 'OR', 'AZ', 'NM', 'CA', 'CA', 'Costa Rica', 'CA', 'AZ', 'CA', 'AZ']","Santa Clara, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+4,Apple,4.1,"['TX', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'TX', 'CA', 'CA', 'CA', 'CA']","Cupertino, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+5,Amazon,3.9,"['WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'VA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA']","Seattle, WA",10000+ employees, $10+ billion (USD) per year,1,1,3
+6,IBM,3.8,"['VA', 'VA', 'VA', 'MD', 'VA', 'VA', 'VA', 'VA', 'MD', 'MD', 'MD', 'VA', 'MD', 'VA', 'VA', 'MD', 'NY', 'NC', 'VA', 'MD', 'MD', 'VA', 'VA', 'DC', 'VA']","Armonk, NY",10000+ employees, $10+ billion (USD) per year,0,1,2.8
+7,Tata Consultancy Services,3.7,"['GA', 'NJ', 'IL', 'NJ', 'NY', 'NC', 'IL', 'OH', 'OH', 'NJ', 'NJ', 'NJ', 'TX', 'FL', 'NJ', 'NJ', 'NJ', 'MN', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NJ', 'AZ', 'NJ', 'NJ', 'TX', 'CA', 'IL', 'NJ', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ']",Mumbai (India),10000+ employees, $10+ billion (USD) per year,1,1,2.7
+8,Infosys,3.1,"['NY', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'MS', 'PA', 'TN', 'TX', 'NJ', 'NY', 'NY', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'CA', 'NY']",Bengaluru (India),10000+ employees, $10+ billion (USD) per year,1,1,2.6
+9,Wipro,2.9,"['GA', 'MA', 'OH', 'CA', 'OH', 'TX', 'TX', 'CA', 'MN', 'CA', 'NY', 'CA', 'MA', 'MN', 'VA', 'CA', 'CA', 'CA', 'CA', 'CA']",Bengaluru (India),10000+ employees, $5 to $10 billion (USD) per year,1,1,2.8
+10,Oracle,3.6,"['TX', 'PA', 'WA', 'CA', 'MT', 'CA', 'MA', 'MA', 'CO', 'CA', 'CA', 'CA', 'PA', 'CA', 'GA', 'CA', 'FL', 'CA', 'CA', 'CA', 'OR', 'TX', 'VA', 'CA', 'CA', 'CA', 'CA', 'Canada', 'VA', 'CA', 'CA']","Redwood City, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.9
+11,HubSpot,4.7,"['MA', 'NH']","Cambridge, MA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,1,1,3.3
+12,DocuSign,4.6,"['NC', 'IL', 'NY', 'CA', 'WA', 'Canada', 'CA', 'IL']","San Francisco, CA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,1,1,2.8
+13,SAP,4.5,"['WA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA']","Walldorf, Baden-Württemberg (Germany)",10000+ employees, $10+ billion (USD) per year,1,1,2.9
+14,NVIDIA,4.6,"['TX', 'OR', 'WA', 'NC', 'OR', 'WA', 'MO', 'CA', 'CA', 'CA', 'Canada', 'MA']","Santa Clara, CA",10000+ employees, $5 to $10 billion (USD) per year,1,1,3.2
+15,Ultimate Software,4.4,"['GA', 'GA', 'MO', 'NY', 'CA', 'CA', 'AZ', 'FL']","Weston, FL",5001 to 10000 employees, $1 to $2 billion (USD) per year,1,1,2.8
+16,Paycom,4.4,"['GA', 'TX', 'MA', 'IL', 'TX', 'CO', 'TX', 'TX', 'CA', 'TX', 'CA', 'FL', 'WI', 'LA', 'NY', 'OK', 'NJ', 'CA', 'AZ', 'OR', 'CA', 'CA', 'WA', 'CT', 'CA', 'OK']","Oklahoma City, OK",1001 to 5000 employees, $500 million to $1 billion (USD) per year,1,1,3
+17,MathWorks,4.4,"['MA', 'MI', 'MA', 'CA', 'MA', 'MI']","Natick, MA",1001 to 5000 employees, $1 to $2 billion (USD) per year,1,1,2.8
+18,Intuit,4.4,"['CA', 'ID', 'CA', 'CA', 'TX', 'ID', 'Canada', 'VA', 'TX', 'CA', 'CA', 'Canada', 'CA', 'NY', 'CA', 'TX', 'NV', 'CA', 'CA', 'CA', 'CA', 'CA', 'AZ', 'DC', 'CA', 'CA', 'CA']","Mountain View, CA",5001 to 10000 employees, $2 to $5 billion (USD) per year,1,1,3
+19,Salesforce,4.4,"['VA', 'VA', 'VA', 'IN', 'NJ', 'NY', 'CA', 'VA', 'CA', 'CA', 'CA', 'Canada', 'DC']","San Francisco, CA",10000+ employees, $10+ billion (USD) per year,1,1,3.3
+20,Patni Computer Systems,4.3,"['GA', 'IL', 'MA', 'OH', 'NY']",Mumbai (India),5001 to 10000 employees, $500 million to $1 billion (USD) per year,0,0,3.1
+21,Marlabs,4.4,"['NJ', 'Canada', 'NJ', 'NY', 'NJ', 'NJ', 'NJ']","Piscataway, NJ",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.4
+22,Facebook,4.4,"['VA', 'GA', 'TX', 'WA', 'MA', 'IL', 'CA', 'CA', 'CA', 'CA', 'NY', 'WA', 'CA', 'WA', 'CA', 'DC']","Menlo Park, CA",10000+ employees, $10+ billion (USD) per year,1,1,3.1
+23,LinkedIn,4.3,"['CA', 'IL', 'MI', 'CA', 'CA', 'NY', 'CA', 'NE', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'Canada']","Sunnyvale, CA",10000+ employees, $5 to $10 billion (USD) per year,1,1,3
+24,VMware,4.2,"['GA', 'VA', 'GA', 'TX', 'WA', 'MA', 'CO', 'MA', 'CA', 'CA', 'CO', 'CA', 'CA', 'CA', 'CA', 'VA', 'CA', 'GA', 'GA', 'CA', 'WA', 'CA', 'DC']","Palo Alto, CA",10000+ employees, $5 to $10 billion (USD) per year,1,1,3.1
+25,Adobe,4.1,"['CO', 'CA', 'CA', 'UT', 'VA', 'NY', 'UT', 'UT', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'DC']","San Jose, CA",10000+ employees, $5 to $10 billion (USD) per year,1,1,3.1
+26,World Wide Technology,4.2,"['IL', 'WA', 'NC', 'CA', 'CO', 'IL', 'IL', 'CA', 'MO', 'CA', 'MO', 'NY', 'MO', 'AZ', 'CA', 'VA', 'MO', 'MO', 'CA', 'CA', 'WA', 'MO', 'FL', 'DC']","Maryland Heights, MO",5001 to 10000 employees, $10+ billion (USD) per year,1,1,2.8
+27,Twitter,4.1,"['GA', 'MA', 'CO', 'MA', 'IL', 'CA', 'NY', 'CA', 'WA', 'Canada', 'DC']","San Francisco, CA",1001 to 5000 employees, $2 to $5 billion (USD) per year,1,1,3
+28,Dell Technologies,4.1,"['CA', 'TX', 'MA', 'MA', 'VA', 'MA', 'KY', 'MA', 'TX', 'MA', 'MA', 'NC', 'TX', 'MA', 'TX', 'FL', 'TX', 'TX', 'MA', 'TX', 'TX', 'FL', 'MA']","Round Rock, TX",10000+ employees, $10+ billion (USD) per year,1,1,2.9
+29,UST Global,4.1,"['CA', 'CA', 'GA', 'AR', 'MA', 'CA', 'IL', 'Mexico', 'TX', 'Mexico', 'TN', 'IN', 'CA', 'MO', 'CA', 'OH', 'NJ', 'NY', 'CA', 'VA', 'VA', 'CA', 'OR', 'VA', 'TX', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA', 'PA', 'NC', 'CA']","Aliso Viejo, CA",10000+ employees, $1 to $2 billion (USD) per year,1,1,2.9
+30,HP Inc.,4.1,"['ID', 'OR', 'CO', 'Mexico', 'TX', 'CA', 'OR', 'CA', 'CA', 'TX', 'CA', 'Mexico', 'WA', 'Mexico']","Palo Alto, CA",10000+ employees, Unknown / Non-Applicable,1,1,2.8
+31,AMD,4.0,"['MA', 'MA', 'TX', 'TX', 'WA', 'MA', 'MA', 'MA', 'CO', 'Canada', 'Canada', 'MA', 'NY', 'FL', 'CA', 'CA', 'CA', 'CA', 'Canada', 'Canada']","Santa Clara, CA",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1,3
+32,Epic,4.0,"['WI', 'WI', 'WI', 'WI']","Verona, WI",5001 to 10000 employees, $2 to $5 billion (USD) per year,1,1,2.9
+33,Autodesk,4.1,"['MA', 'CO', 'MI', 'TX', 'OR', 'NH', 'Canada', 'CA', 'MI', 'CA', 'OR', 'CA', 'CA', 'Canada', 'MA']","San Rafael, CA",10000+ employees, $2 to $5 billion (USD) per year,1,1,2.9
+34,Yahoo,4.0,"['MA', 'CA', 'IL', 'OR', 'NY', 'CA', 'NY', 'NE', 'TX', 'CA', 'CA', 'CA', 'CA', 'CA']","Sunnyvale, CA",5001 to 10000 employees, $2 to $5 billion (USD) per year,1,1,3
+35,NetApp,4.0,"['NC', 'MA', 'CO', 'NC', 'PA', 'PA', 'CA', 'NC', 'NC', 'CA', 'PA', 'NC', 'NC', 'CA', 'CA', 'CA', 'MA', 'KS']","Sunnyvale, CA",10000+ employees, $5 to $10 billion (USD) per year,1,1,3
+36,Bloomberg L.P.,4.0,"['NY', 'NY', 'NJ', 'NJ', 'NY', 'NJ', 'NY', 'NJ', 'NJ', 'NJ', 'NY', 'CA', 'NJ', 'DC']","New York, NY",10000+ employees, Unknown / Non-Applicable,1,1,3
+37,Workday,4.0,"['GA', 'CA', 'MA', 'CO', 'IL', 'TX', 'CA', 'CA', 'CA', 'VA', 'MN', 'NY', 'NY', 'CA', 'CA', 'UT', 'CA', 'CA', 'CA', 'CA', 'DC']","Pleasanton, CA",10000+ employees, $2 to $5 billion (USD) per year,1,1,2.8
+38,Avanade,3.9,"['VA', 'GA', 'TX', 'WA', 'MA', 'Canada', 'NC', 'IL', 'TX', 'CO', 'Canada', 'TX', 'CA', 'WA', 'CA', 'MN', 'Canada', 'NY', 'Canada', 'AZ', 'NC', 'WA', 'CA', 'CA', 'WA', 'Canada', 'Canada', 'DC']","Seattle, WA",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.9
+39,Citrix,3.9,"['GA', 'MD', 'FL', 'MA', 'MA', 'FL', 'CA', 'NJ', 'FL', 'NY', 'FL', 'NJ', 'NC', 'CA', 'CA', 'CA', 'CA', 'DC']","Fort Lauderdale, FL",5001 to 10000 employees, $2 to $5 billion (USD) per year,1,1,3
+40,Qualcomm,3.9,"['GA', 'TX', 'CO', 'MA', 'NJ', 'CA', 'CA', 'CA', 'Canada', 'CA', 'CA', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'Canada']","San Diego, CA",10000+ employees, $10+ billion (USD) per year,1,1,3.1
+41,Collabera,3.9,"['GA', 'NJ', 'NC', 'IL', 'OH', 'TX', 'NC', 'IL', 'TX', 'NJ', 'TX', 'IN', 'CA', 'TX', 'NJ', 'IL', 'TX', 'CA', 'NJ', 'NC', 'NJ', 'NY', 'AZ', 'TX', 'WA', 'TX', 'VA', 'CA', 'CA', 'IL', 'WA', 'IL', 'NJ']","Basking Ridge, NJ",10000+ employees, $500 million to $1 billion (USD) per year,0,1,2.6
+42,Thomson Reuters,3.7,"['MI', 'MA', 'TX', 'MN', 'NY', 'Canada']","Toronto, ON (Canada)",10000+ employees, $10+ billion (USD) per year,0,1,2.8
+43,CDW,3.9,"['AZ', 'NJ', 'IL', 'IL', 'NJ', 'IL', 'IL', 'NY', 'PA', 'VA', 'IL', 'CT', 'FL', 'IL']","Lincolnshire, IL",5001 to 10000 employees, $10+ billion (USD) per year,1,1,2.7
+44,PayPal,3.9,"['AZ', 'PA', 'CA', 'NE', 'NE', 'AZ', 'NE', 'NE', 'AZ', 'CA', 'CA', 'CA', 'AZ', 'AZ', 'DE']","San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.9
+45,GE,3.9,"['OH', 'WI', 'OH', 'KY', 'OH', 'MA', 'WI', 'GA', 'KY', 'FL', 'WI', 'WI', 'WI', 'WI', 'WI']","Boston, MA",10000+ employees, $10+ billion (USD) per year,1,1,2.9
+46,Netflix,3.8,"['CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'UT', 'CA', 'CA', 'CA']","Los Gatos, CA",1001 to 5000 employees, $5 to $10 billion (USD) per year,1,1,2.9
+47,GoDaddy,3.8,"['TX', 'MA', 'MA', 'CA', 'IA', 'AZ', 'AZ', 'IA', 'WA', 'AZ', 'AZ', 'CA', 'CA', 'AZ', 'WA', 'CA', 'AZ']","Scottsdale, AZ",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1,2.6
+48,Expedia Group,3.8,"['WA', 'WA', 'IL', 'TX', 'FL', 'WA', 'HI', 'HI', 'FL', 'Canada', 'HI', 'CA', 'WA', 'MO', 'Canada']","Seattle, WA",10000+ employees, $5 to $10 billion (USD) per year,1,1,2.9
+49,CA Technologies,3.8,"['TX', 'Canada', 'MA', 'NY']","San Jose, CA",10000+ employees, Unknown / Non-Applicable,0,1,2.9
+50,GoDaddy,3.8,"['TX', 'MA', 'MA', 'CA', 'IA', 'AZ', 'AZ', 'IA', 'WA', 'AZ', 'AZ', 'CA', 'CA', 'AZ', 'WA', 'CA', 'AZ']","Scottsdale, AZ",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1,2.6
+51,Paychex,3.8,"['NM', 'PA', 'NY', 'LA', 'NY', 'IL', 'CO', 'NJ', 'NJ', 'IL', 'NC', 'NY', 'NY', 'IN', 'NJ', 'NY', 'ME', 'FL', 'OH', 'FL', 'IL', 'TN', 'NY', 'NJ', 'OK', 'NY', 'AZ', 'NJ', 'NY', 'FL', 'IL', 'AZ', 'IL', 'NY', 'NY', 'FL']","Rochester, NY",10000+ employees, $2 to $5 billion (USD) per year,1,1,3
+52,Honeywell,3.8,"['GA', 'AZ', 'NC', 'SC', 'GA', 'SC', 'AZ', 'AZ', 'KS', 'MO', 'AZ', 'GA', 'NJ', 'NJ', 'NY', 'GA', 'KS', 'AZ', 'AZ', 'AZ', 'KS', 'AZ']","Charlotte, NC",10000+ employees, $10+ billion (USD) per year,0,1,2.9
+53,Uber,3.8,"['VA', 'ID', 'VA', 'GA', 'TX', 'MA', 'Canada', 'IL', 'Mexico', 'CA', 'MD', 'MD', 'VA', 'MD', 'VA', 'Costa Rica', 'KY', 'NY', 'CA', 'CO', 'FL', 'Canada', 'IL', 'IL', 'NY', 'GA', 'Canada', 'CA', 'AZ', 'PA', 'PA', 'CA', 'CA', 'CA', 'WA', 'MD', 'CA', 'AZ', 'Canada', 'Canada', 'MA', 'DC', 'PA']","San Francisco, CA",10000+ employees, Unknown / Non-Applicable,0,0,2.9
+54,Amdocs,3.8,"['GA', 'GA', 'IL', 'MO', 'IL', 'TX', 'Mexico', 'Canada', 'NJ', 'Canada', 'PA', 'TX', 'MO', 'CA', 'WA', 'Canada', 'Mexico']","Chesterfield, MO",10000+ employees, $2 to $5 billion (USD) per year,0,0,3
+55,Hewlett Packard Enterprise | HPE,3.8,"['CA', 'TX', 'TX', 'CA', 'CA', 'TX', 'CA', 'CA', 'CA', 'TX', 'TX', 'CA', 'TX', 'TX']","Palo Alto, CA",10000+ employees, Unknown / Non-Applicable,0,1,2.8
+56,IGATE,3.8,"['GA', 'IL', 'MA', 'NJ', 'NJ', 'MA', 'IL', 'OH', 'CA', 'TX', 'CA', 'WI', 'MN', 'NY', 'KS', 'CA']","Bridgewater, NJ",10000+ employees, $1 to $2 billion (USD) per year,0,1,2.8
+57,J. Crew,3.8,"['NC', 'VA', 'NY']","New York, NY",10000+ employees, $2 to $5 billion (USD) per year,1,1,2.2
+58,Geek Squad,3.8,United States,"Minneapolis, MN",10000+ employees, $100 to $500 million (USD) per year,0,0,2.4
+59,Motorola Solutions,3.7,"['IL', 'IL', 'AL', 'IL', 'MD', 'TX', 'IL', 'IL', 'FL', 'IL', 'IL', 'MD', 'FL', 'UT', 'IL', 'FL', 'UT', 'IL', 'WA', 'UT', 'CO']","Chicago, IL",10000+ employees, $5 to $10 billion (USD) per year,0,1,2.8
+60,Capgemini,3.8,"['GA', 'IL', 'TX', 'TX', 'NY', 'CA', 'DC']",Issy-les-Moulineaux (France),10000+ employees, $10+ billion (USD) per year,1,1,2.8
+61,NortonLifeLock,3.7,"['CA', 'CA', 'AZ']","Tempe, AZ",1001 to 5000 employees, $2 to $5 billion (USD) per year,0,1,3
+62,Visa Inc.,3.7,"['UT', 'VA', 'VA', 'TX', 'WA', 'CA', 'CA', 'CO', 'CO', 'CO', 'CA', 'CA', 'VA', 'CO', 'VA', 'FL', 'NY', 'MD', 'CA', 'CA', 'CA', 'CA', 'CA', 'DC']","Foster City, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.8
+63,Infor,3.8,"['GA', 'GA', 'Mexico', 'TX', 'SC', 'TX', 'TX', 'MN', 'NY', 'CA', 'CA', 'OR', 'MN', 'CA']","New York, NY",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.7
+64,Finish Line,3.7,"['FL', 'MD', 'WA', 'MI', 'CA', 'CA', 'CA', 'MN', 'FL', 'IN', 'MD', 'IN', 'CA', 'GA', 'CA', 'MN', 'FL', 'MN', 'NY', 'IN', 'GA', 'WA', 'WA', 'FL', 'KS']","Indianapolis, IN",10000+ employees, $1 to $2 billion (USD) per year,0,0,2.1
+65,Nielsen,3.7,"['GA', 'TX', 'WI', 'PA', 'AR', 'MA', 'NY', 'NJ', 'IL', 'OH', 'FL', 'MD', 'FL', 'TX', 'FL', 'IL', 'NJ', 'WI', 'TX', 'CA', 'NY', 'NJ', 'PA', 'NY', 'VA', 'NY', 'FL', 'NJ', 'NJ', 'FL', 'PA', 'TX', 'KY', 'TX', 'CA', 'CA', 'IL', 'WA', 'MI', 'CA', 'NY', 'FL', 'FL', 'DC', 'NY', 'CT']","New York, NY",10000+ employees, $5 to $10 billion (USD) per year,1,1,2.9
+66,Tech Mahindra,3.7,United States,Pune (India),10000+ employees, $2 to $5 billion (USD) per year,0,1,2.8
+67,eBay,3.6,"['TX', 'WA', 'CA', 'CA', 'CA', 'UT', 'CA', 'CA', 'UT', 'CA', 'CA', 'CA', 'CA', 'UT', 'CA', 'WA', 'CA']","San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+68,Western Digital,3.6,"['CA', 'CA', 'CA', 'CA', 'CA', 'CO', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']","San Jose, CA",10000+ employees, $10+ billion (USD) per year,0,1,2.8
+69,Perficient,3.7,"['VA', 'VA', 'GA', 'MA', 'MA', 'IL', 'CA', 'TX', 'CO', 'MI', 'GA', 'VA', 'MI', 'MA', 'TX', 'TX', 'CA', 'MI', 'CA', 'NY', 'TX', 'MO', 'CA', 'CA']","Saint Louis, MO",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.8
+70,Samsung Electronics,3.6,"['TX', 'TX', 'NJ', 'VA', 'NJ', 'KY', 'Canada', 'NY', 'NJ', 'KS', 'TX', 'NJ', 'NJ', 'NJ', 'CA', 'CA', 'CA', 'Canada']","Suwŏn, Kyonggi (South Korea)",10000+ employees, $10+ billion (USD) per year,0,0,2.9
+71,SAIC,3.6,"['NM', 'VA', 'MA', 'VA', 'IN', 'MD', 'CO', 'MD', 'VA', 'CO', 'TN', 'IN', 'CA', 'VA', 'NJ', 'VA', 'VA', 'MD', 'MD', 'MD', 'SC', 'VA', 'MD', 'AL', 'IN', 'MD', 'VA', 'RI', 'TX', 'SC', 'TN', 'FL', 'FL', 'VA', 'VA', 'MD', 'CA', 'CA', 'CA', 'MD', 'VA', 'VA', 'MD', 'AL', 'MD', 'VA']","Reston, VA",10000+ employees, $5 to $10 million (USD) per year,1,1,2.5
+72,Asurion,3.5,"['TN', 'VA', 'IL', 'IA', 'AZ', 'VA', 'NV', 'TN', 'MI', 'TX', 'KY', 'CA', 'TN', 'TN', 'TN', 'FL', 'AZ', 'CA', 'CA', 'TN', 'AZ', 'VA', 'AZ', 'KY', 'VA']","Nashville, TN",10000+ employees, Unknown / Non-Applicable,0,1,2.6
+73,LTI,3.6,"['CA', 'OH', 'TX', 'NJ', 'CT', 'NJ', 'CT', 'NJ', 'TX', 'CA', 'TX', 'NJ', 'CA', 'WI', 'NJ', 'NJ', 'NY', 'TX', 'MN', 'CA', 'CA', 'CA', 'CA', 'CT', 'CA', 'FL', 'NJ']",Mumbai (India),10000+ employees, Unknown / Non-Applicable,0,1,2.8
+74,Cerner,3.5,"['CA', 'MO', 'KS', 'MO', 'MO', 'KS', 'MO', 'CA', 'PA', 'MO', 'KS', 'KS', 'MO', 'PA', 'PA', 'KS', 'PA', 'KS', 'DC', 'PA']","Kansas City, MO",10000+ employees, $5 to $10 billion (USD) per year,1,1,2.7
+75,athenahealth,3.6,"['GA', 'GA', 'TX', 'ME', 'MA', 'VT', 'WA', 'MA', 'MA']","Watertown, MA",5001 to 10000 employees, Unknown / Non-Applicable,0,1,3.1
+76,Groupon,3.5,"['IL', 'OH', 'KY', 'Canada', 'CA', 'AZ', 'CA', 'AZ', 'WA']","Chicago, IL",5001 to 10000 employees, $2 to $5 billion (USD) per year,1,1,2.8
+77,Glassdoor,4.2,"['IL', 'OH', 'CA', 'CA', 'Canada', 'OH']","Mill Valley, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,3.1
+78,Varsity Tutors,4.1,"['NJ', 'NJ', 'NY', 'IL', 'MO', 'CA', 'NJ', 'CA', 'NY', 'CA', 'NY', 'CA', 'NY', 'NJ', 'NY', 'NJ', 'CA', 'NJ', 'NY', 'WA', 'CA', 'IL', 'NY', 'AZ', 'NJ', 'NY', 'NY', 'NY']","Saint Louis, MO",201 to 500 employees, Unknown / Non-Applicable,0,1,2.5
+79,GitLab,4.9,"['TX', 'CO', 'CA', 'CA', 'DC']","San Francisco, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.9
+80,Everbridge,4.8,"['MA', 'MA', 'CA', 'MI', 'MA', 'CA', 'VA', 'CA', 'CA', 'MA', 'DC']","Burlington, MA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.8
+81,Zoom Video Communications,4.7,"['GA', 'CO', 'KS', 'KS', 'CA', 'CA', 'CA']","San Jose, CA",1001 to 5000 employees, Unknown / Non-Applicable,1,0,2.8
+82,New Relic,4.7,"['GA', 'MA', 'OR', 'CA', 'WA']","San Francisco, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,3
+83,Coupa Software Inc,4.7,"['FL', 'IL', 'NY', 'NV', 'CA', 'CA']","San Mateo, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+84,LiveRamp,4.7,"['MA', 'MA', 'IL', 'AR', 'NY', 'PA', 'CA', 'WA']","San Francisco, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,3
+85,Tanium,4.5,"['NC', 'CA', 'TX', 'NC', 'NY', 'CA', 'DC']","Emeryville, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,3.3
+86,Zscaler,4.6,"['TX', 'MA', 'IL', 'NY', 'NC', 'CA', 'CA', 'Canada', 'DC']","San Jose, CA",1001 to 5000 employees, Unknown / Non-Applicable,1,1,3.3
+87,MongoDB,4.6,"['TX', 'IL', 'NY', 'CA']","New York, NY",1001 to 5000 employees, Unknown / Non-Applicable,1,1,3.1
+88,SurveyMonkey,4.5,"['Canada', 'OR', 'CA', 'CA', 'WA']","San Mateo, CA",501 to 1000 employees, $100 to $500 million (USD) per year,1,1,2.8
+89,Fortinet,4.5,"['VA', 'Canada', 'Mexico', 'TX', 'CA', 'FL', 'CA', 'NY', 'Canada', 'TX', 'CA', 'CA', 'CA', 'FL', 'Canada', 'Canada', 'DC']","Sunnyvale, CA",10000+ employees, $2 to $5 billion (USD) per year,0,1,3.1
+90,AppFolio,4.5,"['MA', 'TX', 'CA', 'CA', 'TX', 'TX', 'CA', 'CA']","Santa Barbara, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,2.8
+91,InterSystems,4.5,One Memorial Dr. ,"Cambridge, MA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3
+92,Cloud Big Data Technologies Group,4.5,United States,"Dallas, TX",1001 to 5000 employees, $50 to $100 million (USD) per year,0,0,2.5
+93,AppDynamics,4.5,"['MA', 'IL', 'TX', 'Canada', 'NY', 'TX', 'TX', 'CA', 'Canada']","San Francisco, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,3.1
+94,Pivotal,4.4,"['GA', 'OR', 'MA', 'MA', 'IL', 'CO', 'NY', 'CA', 'NC', 'CA', 'CA', 'CA', 'Canada', 'DC']","San Francisco, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.8
+95,Dynatrace,4.4,"['TX', 'MA', 'MI', 'NY', 'CA', 'CA', 'WA', 'MA']","Waltham, MA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,3.1
+96,SailPoint Technologies,4.7,"11120 Four Points Dr., Suite 100 ","Austin, TX",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,2.9
+97,iCIMS,4.2,"['NJ', 'NY', 'CA']","Holmdel, NJ",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,2.9
+98,Intermedia,4.4,"['WA', 'CA', 'CA', 'NY', 'CA']","Sunnyvale, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+99,Talend,4.4,"['GA', 'MA', 'IL', 'CA', 'MN', 'MN', 'PA', 'CA', 'CA']","Redwood City, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3.1
+100,Jean Martin,4.4,"['NJ', 'NY', 'NJ']","New York, NY",1001 to 5000 employees, $10 to $25 million (USD) per year,0,0,3.3
+101,Genesys,4.4,"['CA', 'NC', 'IN', 'Canada', 'FL', 'Canada']","Daly City, CA",5001 to 10000 employees, $1 to $2 billion (USD) per year,1,1,2.9
+102,Wind River,4.4,"['CA', 'Canada', 'Canada', 'CA', 'Costa Rica']","Alameda, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+103,Pactera,4.3,United States,"Beijing, Beijing (China)",10000+ employees, $500 million to $1 billion (USD) per year,0,1,2.3
+104,MuleSoft,4.4,"['IL', 'CA']","San Francisco, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,3.1
+105,Blue Yonder,4.3,"['GA', 'MI', 'GA', 'AR', 'MA', 'Mexico', 'Mexico', 'Mexico', 'TX', 'TX', 'FL', 'TX', 'GA', 'WI', 'Mexico', 'Canada', 'CA', 'AZ', 'Canada', 'MD', 'GA', 'CA', 'AZ', 'MI', 'WI']","Scottsdale, AZ",1001 to 5000 employees, $1 to $2 billion (USD) per year,1,1,3
+106,Gentex (Michigan),4.3,"['MI', 'MI']","Zeeland, MI",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.5
+107,Rapid7,4.3,"['VA', 'TX', 'MA', 'CA', 'Canada']","Boston, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+108,Medidata Solutions,4.3,"['OH', 'CA', 'NJ', 'TX', 'NJ', 'NJ', 'NY', 'CA', 'CA']","New York, NY",1001 to 5000 employees, $500 million to $1 billion (USD) per year,1,1,2.8
+109,Atlassian,4.3,"['TX', 'MA', 'CA', 'NY', 'CA']",Sydney (Australia),1001 to 5000 employees, Unknown / Non-Applicable,0,1,3
+110,Digital Realty,4.3,"['VA', 'GA', 'MA', 'VA', 'IL', 'NJ', 'TX', 'IL', 'CA', 'FL', 'MA', 'NY', 'AZ', 'TX', 'CA', 'CA', 'Canada', 'DC']","San Francisco, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.7
+111,Alarm.com,4.3,"['MN', 'MA', 'CO', 'CO', 'FL', 'KS', 'VA', 'VA', 'MN', 'CA', 'VA', 'VA', 'VA']","McLean, VA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+112,8x8,4.2,"['CA', 'MN']","Campbell, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.7
+113,PROS,4.2,United States,"Houston, TX",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+114,Harris Computer,4.3,"['ME', 'Canada', 'MA', 'Canada', 'IL', 'CO', 'FL', 'FL', 'FL', 'Canada', 'NY', 'NY', 'OK', 'Canada', 'PA', 'Canada', 'VA', 'Canada', 'MO', 'FL', 'Canada', 'TX', 'Canada', 'MA']","Ottawa, ON (Canada)",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.6
+115,Daugherty Business Solutions,4.3,"['GA', 'MN', 'IL', 'MO', 'TX', 'NJ', 'MN', 'IL', 'IL', 'MO']","Saint Louis, MO",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+116,Procore Technologies,4.3,"['TX', 'MA', 'CA', 'NY', 'OR', 'CA', 'CA', 'CA', 'Canada', 'Canada', 'MN']","Carpinteria, CA",1001 to 5000 employees, Unknown / Non-Applicable,1,1,2.9
+117,Infoblox,4.3,"['Canada', 'CA', 'CA', 'WA']","Santa Clara, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+118,Wrike,4.0,"['TX', 'CA', 'CA']","San Jose, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.9
+119,Fast Enterprises,4.3,"['CO', 'CO', 'CO', 'CO', 'CO', 'CO']","Centennial, CO",1001 to 5000 employees, $25 to $50 million (USD) per year,1,1,2.7
+120,YouTube,4.2,"['CA', 'CA', 'NY', 'CA', 'CA']","San Bruno, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,3.2
+121,QAD,4.3,"['IL', 'Mexico', 'IL', 'MI', 'MI', 'GA', 'NJ', 'CA', 'CA']","Santa Barbara, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.6
+122,Paylocity,4.3,"['ID', 'FL', 'KY', 'ID', 'NH', 'NY', 'CA', 'IL']","Schaumburg, IL",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,2.9
+123,Jamf,4.2,"['WI', 'MN']","Minneapolis, MN",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.9
+124,Gusto,4.1,"['CO', 'NY', 'CA']","San Francisco, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,3.1
+125,Informatica,4.2,"['TX', 'MA', 'NC', 'IL', 'TX', 'CO', 'IL', 'NY', 'NC', 'CA', 'VA', 'CA', 'Canada']","Redwood City, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,3.2
+126,ThoughtWorks,3.6,"['GA', 'IL', 'TX', 'NY', 'CA']","Chicago, IL",5001 to 10000 employees, $100 to $500 million (USD) per year,0,1,3.4
+127,Cox Enterprises,4.2,"['GA', 'GA', 'TX', 'IL', 'OH', 'TX', 'WA', 'NV', 'FL', 'NY', 'IL', 'FL', 'AZ', 'CA', 'CA', 'CA']","Atlanta, GA",10000+ employees, $10+ billion (USD) per year,0,1,2.7
+128,Eventbrite,4.2,"['TN', 'CA', 'Canada']","San Francisco, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,2.9
+129,Scientific Research,4.2,"['MD', 'VA', 'GA', 'SC', 'CO', 'SC', 'CA', 'SC']","Atlanta, GA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.4
+130,Splunk,4.1,"['GA', 'MD', 'CO', 'CA', 'TX', 'CA', 'CA', 'VA', 'NY', 'TX', 'Canada', 'CA', 'CA', 'CA', 'WA', 'Canada', 'VA', 'Canada', 'DC']","San Francisco, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,1,1,2.9
+131,Kaspersky,4.2,500 Unicorn Park Dr. ,Moscow (Russia),1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.9
+132,Yext,4.2,"['GA', 'IL', 'TX', 'CO', 'VA', 'FL', 'NY', 'CA', 'DC']","New York, NY",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+133,Cadence Design Systems,4.2,"['TX', 'MA', 'MA', 'NC', 'MA', 'MD', 'MA', 'PA', 'CA', 'CA', 'CA']","San Jose, CA",5001 to 10000 employees, $1 to $2 billion (USD) per year,1,1,3
+134,Smartsheet,4.2,"['WA', 'MA', 'WA', 'WA']",NA,NA,NA,NA,NA,NA
+135,DraftKings,4.2,"['MA', 'NJ', 'NJ', 'NV', 'NY', 'CA']","Boston, MA",1001 to 5000 employees, Unknown / Non-Applicable,1,1,2.9
+136,Pluralsight,4.1,"['MA', 'UT', 'UT', 'UT']","Farmington, UT",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+137,CNN,4.2,"['GA', 'CA', 'NY', 'DC']","Atlanta, GA",5001 to 10000 employees, $1 to $2 billion (USD) per year,0,0,2.9
+138,Ceridian,4.2,"['GA', 'GA', 'MN', 'MN', 'GA', 'CA', 'CA', 'CA', 'MN', 'MN', 'GA', 'MN', 'FL', 'FL', 'GA', 'GA', 'FL']","Minneapolis, MN",1001 to 5000 employees, $500 million to $1 billion (USD) per year,1,1,2.9
+139,Mentor Graphics,4.1,"['TX', 'MA', 'CA', 'CO', 'MA', 'OR', 'MA', 'OR']","Wilsonville, OR",5001 to 10000 employees, $1 to $2 billion (USD) per year,0,0,3
+140,Kronos Incorporated,4.2,"['MA', 'GA', 'GA', 'MA', 'MA', 'NJ', 'MA', 'IL', 'IN', 'CA', 'FL', 'CA', 'MA', 'Canada', 'NY', 'NJ', 'MA', 'FL', 'MA', 'MA']","Lowell, MA",5001 to 10000 employees, $1 to $2 billion (USD) per year,1,1,2.8
+141,CARFAX,4.2,"['VA', 'VA', 'MO', 'VA', 'VA', 'VA']","Centreville, VA",501 to 1000 employees, Unknown / Non-Applicable,1,1,3
+142,AppNexus,4.1,"['CO', 'CO', 'NY', 'OR', 'CA']","New York, NY",1001 to 5000 employees, Unknown / Non-Applicable,1,1,3.2
+143,Zendesk,4.1,"['CA', 'WI', 'NY', 'CA']","San Francisco, CA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.8
+144,Robert Bosch,4.1,"['MI', 'CA', 'MI']","Gerlingen, Baden-Württemberg (Germany)",10000+ employees, $10+ billion (USD) per year,0,0,2.9
+145,Kony,4.1,"['TX', 'CA', 'NY', 'FL', 'CA']","Austin, TX",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3.1
+146,CrowdStrike,4.1,"['VA', 'GA', 'TX', 'MD', 'CA', 'CA', 'WA', 'CA', 'MN', 'MO', 'WA', 'CA']","Sunnyvale, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.7
+147,BMW,4.1,United States,"Munich, Bayern (Germany)",10000+ employees, $10+ billion (USD) per year,0,1,2.8
+148,Epicor Software,4.1,"['TX', 'PA', 'CO', 'CA', 'MN', 'PA', 'MN', 'CA', 'CA', 'MN', 'MN', 'Mexico', 'Canada', 'NY', 'NY', 'PA', 'PA', 'MN', 'NY', 'WA', 'Canada', 'Canada', 'CO', 'PA']","Austin, TX",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.8
+149,Orbitz Worldwide,4.1,United States,"Chicago, IL",1001 to 5000 employees, $500 million to $1 billion (USD) per year,1,1,3
+150,Google,4.4,"['CA', 'MI', 'TX', 'CA', 'CA', 'MA', 'IL', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA', 'CA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA']","Mountain View, CA",10000+ employees, $10+ billion (USD) per year,1,1,3.3
+151,Microsoft,4.3,"['WA', 'WA', 'WA', 'MA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'CA', 'NC', 'WA', 'WA', 'WA', 'CA', 'CA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'WA']","Redmond, WA",10000+ employees, $10+ billion (USD) per year,1,1,3.1
+152,Cisco Systems,4.2,"['NC', 'CA', 'CA', 'NC', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']","San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+153,Intel Corporation,4.1,"['OR', 'OR', 'CA', 'AZ', 'CA', 'CA', 'AZ', 'Mexico', 'OR', 'AZ', 'CA', 'CA', 'OR', 'CA', 'AZ', 'OR', 'AZ', 'NM', 'CA', 'CA', 'Costa Rica', 'CA', 'AZ', 'CA', 'AZ']","Santa Clara, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+154,Apple,4.1,"['TX', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'TX', 'CA', 'CA', 'CA', 'CA']","Cupertino, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+155,Amazon,3.9,"['WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'VA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA']","Seattle, WA",10000+ employees, $10+ billion (USD) per year,1,1,3
+156,IBM,3.8,"['VA', 'VA', 'VA', 'MD', 'VA', 'VA', 'VA', 'VA', 'MD', 'MD', 'MD', 'VA', 'MD', 'VA', 'VA', 'MD', 'NY', 'NC', 'VA', 'MD', 'MD', 'VA', 'VA', 'DC', 'VA']","Armonk, NY",10000+ employees, $10+ billion (USD) per year,0,1,2.8
+157,Tata Consultancy Services,3.7,"['GA', 'NJ', 'IL', 'NJ', 'NY', 'NC', 'IL', 'OH', 'OH', 'NJ', 'NJ', 'NJ', 'TX', 'FL', 'NJ', 'NJ', 'NJ', 'MN', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NJ', 'AZ', 'NJ', 'NJ', 'TX', 'CA', 'IL', 'NJ', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ']",Mumbai (India),10000+ employees, $10+ billion (USD) per year,1,1,2.7
+158,Infosys,3.1,"['NY', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'MS', 'PA', 'TN', 'TX', 'NJ', 'NY', 'NY', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'CA', 'NY']",Bengaluru (India),10000+ employees, $10+ billion (USD) per year,1,1,2.6
+159,Wipro,2.9,"['GA', 'MA', 'OH', 'CA', 'OH', 'TX', 'TX', 'CA', 'MN', 'CA', 'NY', 'CA', 'MA', 'MN', 'VA', 'CA', 'CA', 'CA', 'CA', 'CA']",Bengaluru (India),10000+ employees, $5 to $10 billion (USD) per year,1,1,2.8
+160,Box,4.2,"['TX', 'NY', 'CA', 'CA']","Redwood City, CA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3
+161,Dropbox,4.1,"['TX', 'NY', 'CA', 'CA', 'WA']","San Francisco, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,3.1
+162,Elastic,4.0,"['TX', 'IL', 'CO', 'CA', 'NY', 'DC']","Mountain View, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+163,Bullhorn,4.0,"['GA', 'MA', 'FL', 'VA', 'MO', 'Canada']","Boston, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,2.9
+164,Guidewire,4.0,"['CA', 'AL', 'IL', 'SC', 'TX', 'MN', 'PA', 'CA', 'Canada', 'NY', 'CA', 'CA', 'CA', 'Canada']","San Mateo, CA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,1,1,3.1
+165,MOURI Tech,4.0,United States,NA,NA,NA,NA,NA,NA
+166,Brocade,4.0,United States,"San Jose, CA",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1,3.1
+167,Paycor,4.0,"['OH', 'GA', 'TX', 'MD', 'AL', 'MA', 'IN', 'NC', 'IL', 'OH', 'OH', 'OH', 'PA', 'TX', 'CO', 'IL', 'CO', 'FL', 'TX', 'MI', 'TX', 'IN', 'FL', 'KS', 'MO', 'KS', 'MI', 'KY', 'TN', 'NY', 'OH', 'NE', 'FL', 'KS', 'PA', 'AZ', 'NC', 'VA', 'MO', 'CA', 'FL']","Cincinnati, OH",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.7
+168,Toast Inc,4.0,"['MA', 'IL', 'NE', 'MA']","Boston, MA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.8
+169,NBC,4.0,"['CA', 'NY', 'CA']","New York, NY",5001 to 10000 employees, $5 to $10 million (USD) per year,0,0,3
+170,NBC,4.0,"['CA', 'NY', 'CA']","New York, NY",5001 to 10000 employees, $5 to $10 million (USD) per year,0,0,3
+171,Axway,4.0,"['AZ', 'CA', 'AZ']","Phoenix, AZ",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.6
+172,Wix,4.0,"['CO', 'FL', 'NY']",Tel Aviv (Israel),1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,0,2.9
+173,CapTech,4.0,"['GA', 'NC', 'IL', 'OH', 'CO', 'PA', 'VA', 'VA', 'PA']","Richmond, VA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+174,Compass,4.0,"['CO', 'GA', 'TX', 'CA', 'MA', 'NY', 'NY', 'CA', 'MA', 'IL', 'TX', 'CA', 'CO', 'CA', 'CT', 'TX', 'CA', 'CA', 'FL', 'CA', 'TN', 'NY', 'CA', 'PA', 'MD', 'CA', 'CA', 'CA', 'CA', 'WA']","New York, NY",1001 to 5000 employees, $500 million to $1 billion (USD) per year,1,1,2.9
+175,Nutanix,4.0,"['VA', 'GA', 'IL', 'NC', 'TX', 'CA', 'CA', 'VA', 'NY', 'NY', 'NC', 'CA', 'WA', 'VA', 'DC']","San Jose, CA",5001 to 10000 employees, Unknown / Non-Applicable,1,1,3.1
+176,Datto ,4.0,"['MA', 'CA', 'CT', 'NY', 'IL', 'CT']","Norwalk, CT",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+177,Yardi Systems,4.0,"['GA', 'TX', 'MA', 'CO', 'TX', 'CO', 'NY', 'CA', 'MN', 'NC', 'GA', 'CA', 'CA', 'MA']","Santa Barbara, CA",5001 to 10000 employees, $500 million to $1 billion (USD) per year,1,1,2.9
+178,United Space Alliance,4.0,"['FL', 'TX', 'FL', 'FL']","Houston, TX",5001 to 10000 employees, $50 to $100 million (USD) per year,1,1,2.7
+179,Siemens PLM Software,4.0,"['OH', 'CA', 'MI', 'AL', 'MI', 'OH', 'TX', 'MO', 'MN', 'CA', 'MN', 'MI']","Plano, TX",5001 to 10000 employees, $1 to $5 million (USD) per year,0,0,3
+180,Siemens PLM Software,4.0,"['OH', 'CA', 'MI', 'AL', 'MI', 'OH', 'TX', 'MO', 'MN', 'CA', 'MN', 'MI']","Plano, TX",5001 to 10000 employees, $1 to $5 million (USD) per year,0,0,3
+181,[24]7.ai,4.0,United States,"San Jose, CA",10000+ employees, $100 to $500 million (USD) per year,0,1,2.7
+182,Stripe,4.0,510 Townsend St. ,"San Francisco, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,0,3
+183,Pinterest,4.0,"['NY', 'CA', 'CA', 'WA']","San Francisco, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+184,Square,3.9,"['GA', 'Canada', 'NY', 'CA', 'MO', 'CA', 'Canada']","San Francisco, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,1,1,3
+185,Roku,4.0,"['TX', 'IL', 'CA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA']","San Jose, CA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.9
+186,Pyramid Consulting,3.9,"['GA', 'VA', 'GA', 'NJ', 'NJ', 'MD', 'NY', 'CA', 'NC', 'IL', 'TX', 'TX', 'NJ', 'TX', 'NJ', 'CA', 'NJ', 'CA', 'NY', 'NJ', 'PA', 'NJ', 'TX', 'TX', 'VA', 'CA', 'CA', 'NJ']","Alpharetta, GA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+187,American Cybersystems,3.9,"['GA', 'OH', 'TX', 'NC', 'IL', 'CO', 'GA', 'TX', 'CA', 'MN', 'PA', 'CA', 'FL', 'DE']","Duluth, GA",10000+ employees, $500 million to $1 billion (USD) per year,0,1,2.7
+188,Dassault Systemes,4.3,"['MI', 'MA', 'NC', 'MI', 'MI', 'CA', 'MA', 'MI', 'CA', 'MA', 'CA']",Vélizy-Villacoublay (France),10000+ employees, $2 to $5 billion (USD) per year,0,1,2.8
+189,Trend Micro,4.0,"['TX', 'TX', 'CA', 'TX', 'TX', 'TX', 'Canada', 'Canada', 'CA']",Tokyo (Japan),5001 to 10000 employees, $1 to $2 billion (USD) per year,0,0,2.9
+190,American Cybersystems,3.9,"['GA', 'OH', 'TX', 'NC', 'IL', 'CO', 'GA', 'TX', 'CA', 'MN', 'PA', 'CA', 'FL', 'DE']","Duluth, GA",10000+ employees, $500 million to $1 billion (USD) per year,0,1,2.7
+191,Nimble Storage,3.9,"211 River Oaks Pkwy San Jose, California, 95134-1913, United States","San Jose, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+192,EPAM,3.9,"['PA', 'NJ', 'NJ', 'CA', 'NY', 'PA', 'PA', 'CA', 'Canada', 'NJ']","Newtown, PA",10000+ employees, $1 to $2 billion (USD) per year,0,1,3.1
+193,ASML,3.7,"['NY', 'TX', 'ID', 'AZ', 'OR', 'NY', 'AZ', 'CA', 'CA', 'CA', 'AZ', 'CT']",Veldhoven (Netherlands),10000+ employees, $5 to $10 billion (USD) per year,0,0,2.8
+194,Hortonworks,3.9,"['GA', 'NC', 'MD', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']","Palo Alto, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,3.1
+195,Trianz,3.6,"['NH', 'CA', 'CA', 'CA']","Santa Clara, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.8
+196,Sage,4.0,"['GA', 'GA', 'Canada', 'Canada']","Newcastle upon Tyne, England (UK)",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.8
+197,Appian,3.9,"['VA', 'NY', 'VA', 'VA', 'VA', 'DC']","McLean, VA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+198,Qualtrics,3.9,"['MA', 'TX', 'CO', 'CA', 'UT', 'NC', 'UT', 'WA', 'Canada', 'DC']","Provo, UT",1001 to 5000 employees, Unknown / Non-Applicable,1,1,3
+199,Equinix,3.9,"['VA', 'TX', 'CA', 'TX', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'FL', 'NY', 'DC']","Redwood City, CA",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1,2.7
+200,Ansys,3.9,[],"Canonsburg, PA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,3
+201,Appian,3.9,[],"McLean, VA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+202,RELX,3.8,"['GA', 'GA', 'GA', 'OH', 'IL', 'PA', 'TX', 'MO', 'OH', 'NJ', 'NY', 'CT', 'PA', 'PA', 'NC', 'MO', 'CA', 'CT', 'MA']","London, England (UK)",10000+ employees, $10+ billion (USD) per year,0,1,2.8
+203,Acxiom,3.9,[],"Conway, AR",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.7
+204,Rosetta Stone,3.9,[],"Arlington, VA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.9
+205,Criteo,3.9,"['MI', 'MA', 'NY', 'CA']",Paris (France),1001 to 5000 employees, $2 to $5 billion (USD) per year,0,1,3.2
+206,Magic Leap,3.9,"['FL', 'FL', 'FL', 'FL', 'FL', 'CA']","Plantation, FL",1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.9
+207,Axon,3.9,"['AZ', 'AZ', 'WA']","Scottsdale, AZ",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3.1
+208,Workfront,3.9,"['UT', 'UT']","Lehi, UT",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+209,BMC Software,3.9,"['TX', 'NC', 'TX', 'TX', 'NY', 'TX', 'NC', 'CA', 'CA', 'Canada']","Houston, TX",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1,3
+210,Lenovo,3.9,"['NC', 'NC', 'IL', 'NC', 'NC', 'NC', 'NC', 'CA', 'CA']","Morrisville, NC",10000+ employees, $10+ billion (USD) per year,0,1,2.8
+211,BMC Software,3.9,"['TX', 'NC', 'TX', 'TX', 'NY', 'TX', 'NC', 'CA', 'CA', 'Canada']","Houston, TX",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1,3
+212,Software AG,3.9,"['GA', 'CO', 'CO', 'NY', 'WA', 'VA', 'CA', 'CA', 'WA', 'CA']","Reston, VA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3
+213,Tableau Software,3.8,"['VA', 'TX', 'WA', 'NY', 'CA', 'WA', 'WA', 'Canada', 'DC']","Seattle, WA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3.2
+214,ITC Infotech,3.9,"['WA', 'AR', 'IL', 'NJ', 'MN', 'NY', 'NJ', 'CA', 'MI']",Bengaluru (India),5001 to 10000 employees, Unknown / Non-Applicable,0,1,2.8
+215,Medallia,3.9,"['GA', 'TX', 'GA', 'Mexico', 'CA', 'VA', 'CA', 'NY', 'CA', 'CA']","San Mateo, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,3.2
+216,Rubrik,3.9,"['CA', 'CA']","Palo Alto, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,0,3.1
+217,Xilinx,3.8,"['NM', 'CO', 'CA']","San Jose, CA",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1,3
+218,Mozilla,3.9,"['CA', 'OR', 'CA', 'CA', 'Canada', 'Canada']","Mountain View, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+219,Vertex (Pennsylvania),3.8,"['PA', 'PA', 'IL', 'PA', 'FL']","King of Prussia, PA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+220,Vertex (Pennsylvania),3.8,"['PA', 'PA', 'IL', 'PA', 'FL']","King of Prussia, PA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+221,itelligence,3.8,"['IL', 'OH', 'Canada', 'Canada']",Bielefeld (Germany),5001 to 10000 employees, $1 to $2 billion (USD) per year,0,0,2.8
+222,Anaplan,3.9,"['MA', 'IL', 'TX', 'MN', 'NY', 'CA']","San Francisco, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+223,Cornerstone OnDemand,3.8,"['NY', 'UT', 'CA', 'CA']","Santa Monica, CA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,1,1,3
+224,Deltek,3.8,"['MA', 'VA', 'OR', 'VA', 'WA', 'DC', 'MA']","Herndon, VA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+225,Logitech,3.8,"['WA', 'CA', 'CA', 'CA']",Lausanne (Switzerland),1001 to 5000 employees, $2 to $5 billion (USD) per year,0,1,2.6
+226,DealerSocket,3.9,"['UT', 'TX', 'WI', 'CA']","Dallas, TX",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.7
+227,Manhattan Associates,3.8,"['GA', 'GA']","Atlanta, GA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3.1
+228,Trulia,3.8,United States,"San Francisco, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,2.6
+229,Worldwide TechServices,3.8,"['MA', 'CO', 'VA', 'CA', 'NY', 'CA', 'MA']","Tewksbury, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,1.9
+230,Worldwide TechServices,3.8,"['MA', 'CO', 'VA', 'CA', 'NY', 'CA', 'MA']","Tewksbury, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,1.9
+231,L&T Technology Services,3.8,"['GA', 'CA', 'IL', 'IL', 'OH', 'TX', 'MI', 'NJ', 'TX', 'NJ', 'WI', 'NY', 'IL', 'TX', 'CA']",Vadodara (India),10000+ employees, $500 million to $1 billion (USD) per year,0,1,2.9
+232,j2 Global,3.7,"['TX', 'CA', 'CA', 'NY', 'Canada', 'CA']","Los Angeles, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,0,2.4
+233,Trimble,3.8,"['GA', 'CO', 'CO', 'OR', 'OH', 'CO', 'MN', 'CO', 'GA', 'CA', 'MA', 'CA', 'MN', 'CA', 'CA', 'AZ', 'Canada', 'CO']","Sunnyvale, CA",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.8
+234,Progress,3.8,"['GA', 'MA', 'MA', 'MA', 'MA', 'WI', 'NC', 'GA', 'MA']","Bedford, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+235,CallidusCloud,3.8,United States,"Dublin, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+236,Prolifics,3.8,"['NY', 'NJ', 'FL', 'CA']","Calabasas, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3.2
+237,Tata Communications,3.8,"['CA', 'VA', 'NJ', 'Canada', 'NY', 'VA', 'CA', 'DC']",Mumbai (India),5001 to 10000 employees, $10+ billion (USD) per year,0,0,2.9
+238,Aruba Networks,3.8,"['CA', 'Canada', 'NY', 'CA', 'OR', 'CA', 'CA', 'CA', 'CA']","Santa Clara, CA",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1,2.9
+239,Aspire Systems,3.8,United States,Chennai (India),1001 to 5000 employees, $50 to $100 million (USD) per year,0,1,3
+240,OCLC,3.8,"['OH', 'OH', 'WA']","Dublin, OH",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3.3
+241,Samsara,3.8,"['GA', 'CA', 'CA']","San Francisco, CA",1001 to 5000 employees, Unknown / Non-Applicable,1,1,2.6
+242,Tyler Technologies,3.8,"['GA', 'ME', 'TX', 'OH', 'GA', 'ME', 'TX', 'CO', 'NY', 'TX', 'GA', 'NY', 'WA', 'AZ', 'TX', 'ME', 'WA', 'WA', 'ME', 'WA', 'NY', 'AZ', 'MI', 'MA', 'ME']","Plano, TX",5001 to 10000 employees, $100 to $500 million (USD) per year,0,1,2.8
+243,SAS Institute,3.8,"['VA', 'TX', 'MA', 'NC', 'NC', 'IL', 'NC', 'NC', 'MA', 'NY', 'NC', 'MD', 'CA', 'WA', 'Canada', 'TX']","Cary, NC",10000+ employees, $2 to $5 billion (USD) per year,1,1,2.9
+244,Persistent Systems (India),3.8,United States,NA,NA,NA,NA,NA,NA
+245,Cloudflare,3.9,"['TX', 'IL', 'NY', 'CA', 'CA', 'DC']","San Francisco, CA",501 to 1000 employees, Unknown / Non-Applicable,0,0,3
+246,Datadog,3.9,"['MA', 'NY']","New York, NY",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+247,Tavant,3.8,"['CA', 'TX', 'TX', 'CA']","Santa Clara, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+248,Mindtree,3.8,"['GA', 'WA', 'NJ', 'MA', 'IL', 'TX', 'NJ', 'FL', 'TX', 'NJ', 'NY', 'NY', 'NJ', 'AZ', 'WA', 'CA', 'WA', 'NJ', 'NJ']",Bengaluru (India),10000+ employees, $500 million to $1 billion (USD) per year,1,1,2.8
+249,Flexera,3.8,"['NC', 'IL', 'CA', 'CA', 'CA', 'IL', 'MA']","Itasca, IL",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+250,NICE,3.9,"['GA', 'CO', 'NJ', 'TX', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'CA', 'CA', 'TX', 'NJ', 'CA']",Raanana (Israel),1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.9
+251,AgreeYa Solutions,3.8,"['GA', 'GA', 'NJ', 'NJ', 'GA', 'CA', 'CA', 'NJ', 'NY', 'NJ', 'CA', 'NJ', 'CA', 'CA', 'CA', 'CA', 'CA', 'NJ']","Folsom, CA",1001 to 5000 employees, $50 to $100 million (USD) per year,0,1,2.8
+252,Zuora,3.8,"['GA', 'MA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA']","San Mateo, CA",5001 to 10000 employees, $100 to $500 million (USD) per year,1,1,2.9
+253,Pegasystems,3.8,"['GA', 'MA', 'MA', 'IL', 'TX', 'CA', 'NY', 'MA', 'MA', 'DC']","Cambridge, MA",5001 to 10000 employees, $500 million to $1 billion (USD) per year,0,1,3
+254,Airbnb,3.8,"['CA', 'CA', 'FL', 'Canada', 'NY', 'OR', 'CA', 'CA', 'Canada']","San Francisco, CA",5001 to 10000 employees, Unknown / Non-Applicable,1,1,3.1
+255,Secureworks,3.7,"['GA', 'IL', 'RI', 'TX']","Atlanta, GA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+256,Amadeus,4.4,"['TX', 'TX', 'FL', 'NH', 'AZ', 'MA']",Madrid (Spain),10000+ employees, $2 to $5 billion (USD) per year,0,1,2.8
+257,Mailchimp,3.7,"['GA', 'NY', 'CA']","Atlanta, GA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.8
+258,Entrata,3.8,"['UT', 'UT', 'UT', 'UT']","Lehi, UT",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.5
+259,Bottomline Technologies,3.8,"['NH', 'ME', 'NH', 'ME']","Portsmouth, NH",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+260,Spotify,3.8,"['MA', 'MA', 'CA', 'NY', 'CA', 'MA']",NA,NA,NA,NA,NA,NA
+261,Arista Networks,3.8,"['Canada', 'NY', 'NH', 'CA', 'CA', 'CA', 'Canada']","Santa Clara, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,1,1,3
+262,Samsung Research America,3.7,"['MA', 'TX', 'CA', 'CA', 'CA', 'NY', 'TX', 'TX', 'CA', 'CA', 'CA']","Mountain View, CA",1001 to 5000 employees, $50 to $100 million (USD) per year,0,0,2.8
+263,Iris Software,3.8,"['NJ', 'NJ', 'Canada', 'NJ', 'CT', 'NY', 'NJ', 'PA', 'FL', 'Canada', 'NJ']","Edison, NJ",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,3
+264,LogMeIn,3.7,"['MA', 'Mexico', 'Guatemala', 'UT', 'Canada', 'Canada', 'NC', 'CA', 'AZ', 'Canada']","Boston, MA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.8
+265,Ellucian,3.7,"['MA', 'Mexico', 'VA', 'FL', 'FL', 'PA', 'NY', 'FL', 'PA', 'NY', 'TX', 'NY', 'VA', 'VA', 'PA', 'NY', 'CA', 'DC', 'WA']","Reston, VA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.6
+266,Relativity,3.8,231 South LaSalle Street 8th Floor ,"Chicago, IL",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.9
+267,Tata Consultancy Services (North America),3.7,"['GA', 'GA', 'NC', 'IL', 'OH', 'TX', 'IL', 'MI', 'NJ', 'NJ', 'NJ', 'IL', 'CA', 'NJ', 'OH', 'MN', 'NJ', 'NY', 'NJ', 'NJ', 'WA', 'TX', 'CA', 'CA', 'CA', 'IL', 'OH', 'CA']","New York, NY",10000+ employees, $10+ billion (USD) per year,0,1,2.6
+268,Bentley Systems,3.8,"['CA', 'PA', 'AL', 'AL', 'PA', 'PA', 'CA']",NA,NA,NA,NA,NA,NA
+269,Match,3.7,"['TX', 'CA', 'NY', 'CA']","Dallas, TX",1001 to 5000 employees, Unknown / Non-Applicable,0,0,3.2
+270,CSG,3.8,"['GA', 'NJ', 'CO', 'IL', 'FL', 'TX', 'CO', 'Canada', 'CO', 'TX', 'CO', 'NE']","Denver, CO",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.8
+271,F5 Networks,3.8,"['MA', 'WA', 'MA', 'CA', 'WA', 'WA']","Seattle, WA",5001 to 10000 employees, $1 to $2 billion (USD) per year,1,1,3
+272,Zebra Technologies,3.7,"['CA', 'GA', 'AR', 'IL', 'CA', 'IL', 'GA', 'WI', 'NY', 'NY', 'NY', 'RI', 'IL', 'NY', 'NY', 'CA', 'Mexico', 'IL']","Lincolnshire, IL",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,0,2.8
+273,Neustar,3.7,"['VA', 'CA', 'IL', 'CA', 'KY', 'VA', 'NY', 'UT', 'NY', 'CA', 'VA', 'DC']","Sterling, VA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3
+274,Dealer.com,3.6,"['VT', 'KS']","Burlington, VT",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.7
+275,Match,3.7,"['TX', 'CA', 'NY', 'CA']","Dallas, TX",1001 to 5000 employees, Unknown / Non-Applicable,0,0,3.2
+276,ASG Technologies,3.7,"['VA', 'NY', 'NY', 'VA', 'NY']","Naples, FL",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.8
+277,Qlik,3.6,"['MA', 'CA', 'Canada', 'PA', 'NY', 'MA', 'Canada', 'CA', 'PA', 'PA', 'NC', 'IL', 'PA']","King of Prussia, PA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3
+278,Workiva,3.7,"['IA', 'MT', 'IL', 'CO', 'NY', 'AZ', 'AZ']","Ames, IA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+279,SonicWall,3.8,"['TX', 'CA', 'Canada', 'CA', 'CA', 'CA', 'AZ']","Milpitas, CA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,0,2.9
+280,Ivanti,3.9,"['CO', 'MN', 'UT', 'UT']","South Jordan, UT",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+281,PTC,3.7,"['MA', 'MN', 'MN', 'MA', 'PA', 'MN', 'MA', 'MA', 'MA', 'PA', 'PA', 'ME', 'CA', 'WA', 'PA']","Boston, MA",5001 to 10000 employees, $1 to $2 billion (USD) per year,0,1,2.8
+282,Match,3.7,"['TX', 'CA', 'NY', 'CA']","Dallas, TX",1001 to 5000 employees, Unknown / Non-Applicable,0,0,3.2
+283,Neustar,3.7,"['VA', 'CA', 'IL', 'CA', 'KY', 'VA', 'NY', 'UT', 'NY', 'CA', 'VA', 'DC']","Sterling, VA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3
+284,IDC Technologies,3.7,"['GA', 'TX', 'CA', 'IL', 'TX', 'MI', 'TX', 'NJ', 'CA', 'CA', 'NY', 'CA', 'WA', 'CA', 'CA', 'CT']","Milpitas, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.5
+285,Samsung Research America,3.7,"['MA', 'TX', 'CA', 'CA', 'CA', 'NY', 'TX', 'TX', 'CA', 'CA', 'CA']","Mountain View, CA",1001 to 5000 employees, $50 to $100 million (USD) per year,0,0,2.8
+286,ASG Technologies,3.7,"['VA', 'NY', 'NY', 'VA', 'NY']","Naples, FL",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.8
+287,CCC Information Services,3.7,"['TX', 'IL', 'IL', 'IL', 'SD', 'IL']","Chicago, IL",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.7
+288,GlobalLogic,3.7,"['MA', 'MA', 'IL', 'TX', 'IL', 'TX', 'CA', 'CA', 'NJ', 'CA']","San Jose, CA",10000+ employees, $500 million to $1 billion (USD) per year,0,1,2.8
+289,Zebra Technologies,3.7,"['CA', 'GA', 'AR', 'IL', 'CA', 'IL', 'GA', 'WI', 'NY', 'NY', 'NY', 'RI', 'IL', 'NY', 'NY', 'CA', 'Mexico', 'IL']","Lincolnshire, IL",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,0,2.8
+290,Blackbaud,3.7,"['GA', 'TX', 'NH', 'MA', 'SC', 'IL', 'CA', 'SC', 'CA', 'Costa Rica', 'SC', 'NY', 'TX', 'MN', 'CA', 'Canada', 'DC', 'NJ']","Charleston, SC",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.8
+291,IAC,3.7,"['NJ', 'CA', 'NY', 'NY', 'NY', 'NY', 'CA', 'CA', 'CA', 'NY', 'NY']","New York, NY",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1,2.9
+292,Alion,3.7,"['NM', 'VA', 'MD', 'MD', 'VA', 'MA', 'VA', 'OH', 'VA', 'NJ', 'OH', 'VA', 'VA', 'MD', 'HI', 'VA', 'NJ', 'VA', 'FL', 'MS', 'VA', 'CA', 'VA', 'VA', 'MI']","Mc Lean, VA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.5
+293,Tripadvisor,3.7,"['MA', 'CA', 'NJ', 'NV', 'CA', 'MA', 'MA', 'NY', 'MA', 'MA', 'Canada', 'CA', 'MA']","Needham, MA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,3
+294,ECS,3.7,"['VA', 'VA', 'VA', 'VA', 'VA', 'AL', 'VA', 'MD', 'TN', 'VA', 'OK', 'SC', 'FL', 'VA', 'VA', 'VA']","Fairfax, VA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2
+295,Workiva,3.7,"['IA', 'MT', 'IL', 'CO', 'NY', 'AZ', 'AZ']","Ames, IA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+296,Cybage Software,3.7,"['TX', 'GA', 'CA', 'NJ', 'NJ', 'WA', 'Canada']",Pune (India),5001 to 10000 employees, Unknown / Non-Applicable,0,1,2.9
+297,CitiusTech,3.7,"['IL', 'TN', 'CA', 'CA']",Mumbai (India),1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+298,Carbon Black,3.7,"['MA', 'CO', 'OR', 'TX', 'MA']","Waltham, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+299,ServiceNow,3.7,"['MA', 'IL', 'TX', 'WA', 'CA', 'NY', 'FL', 'OR', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'MA', 'DC']","Santa Clara, CA",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.9
+300,Logicalis,3.5,"['MI', 'MI', 'IL', 'OH', 'MI', 'MI', 'NY', 'AZ', 'OH']","Slough, Berkshire, South East England, England (UK)",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.8
+301,Tripadvisor,3.7,"['MA', 'CA', 'NJ', 'NV', 'CA', 'MA', 'MA', 'NY', 'MA', 'MA', 'Canada', 'CA', 'MA']","Needham, MA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,3
+302,ServiceNow,3.7,"['MA', 'IL', 'TX', 'WA', 'CA', 'NY', 'FL', 'OR', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'MA', 'DC']","Santa Clara, CA",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.9
+303,CitiusTech,3.7,"['IL', 'TN', 'CA', 'CA']",Mumbai (India),1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+304,Softchoice,3.7,"['GA', 'IL', 'TX', 'NY', 'GA', 'CA', 'CA', 'WA']","Toronto, ON (Canada)",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.7
+305,Parsons Corporation,3.6,"['MD', 'SC', 'MD', 'VA', 'MD', 'MA', 'VA', 'CA', 'VA', 'NC', 'IL', 'MD', 'CA', 'VA', 'VA', 'MD', 'TX', 'AL', 'SD', 'CA', 'CA', 'NY', 'CA', 'VA', 'TX', 'CA', 'CA', 'NJ', 'VA']","Centreville, VA",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.6
+306,Xoriant,3.7,"['TX', 'MI', 'NJ', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA']","Sunnyvale, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+307,Esri,3.6,"['NC', 'CO', 'MN', 'OR', 'CA', 'TX', 'VA', 'DC']","Redlands, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.9
+308,L.L. Bean,3.7,"['ME', 'MA', 'ME', 'MA', 'IL', 'OH', 'MA', 'NJ', 'ME', 'KS', 'MA', 'NJ', 'VA', 'NJ', 'ME', 'VA', 'PA', 'VA', 'IL', 'IL', 'CT', 'VA', 'VA', 'MA', 'NY']","Freeport, ME",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.3
+309,Cypress Semiconductor,3.6,"['TX', 'MN', 'CO', 'KY', 'WA', 'WA', 'MN', 'CA', 'CA', 'WA']","San Jose, CA",5001 to 10000 employees, $1 to $2 billion (USD) per year,0,1,3.3
+310,PK,3.6,"['GA', 'WA', 'WA', 'CO', 'NE', 'OR', 'WA']","Omaha, NE",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+311,Sirius Computer Solutions,3.7,"['TX', 'IL', 'TX', 'TX', 'CA', 'CA', 'MN', 'NE', 'WA', 'TX', 'IL']","San Antonio, TX",1001 to 5000 employees, $2 to $5 billion (USD) per year,0,1,3.1
+312,Cruise,3.7,"['AZ', 'CA', 'AZ', 'WA']","San Francisco, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.8
+313,Continuum,3.6,"['MA', 'PA', 'PA', 'GA', 'TX', 'PA']","Boston, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+314,Enel X,3.6,"['MD', 'OR', 'ID', 'MA', 'IL', 'OH', 'WA', 'NY', 'Canada', 'Canada', 'NY', 'CA', 'CA', 'WA', 'MA']",Rome (Italy),1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,3
+315,Vrbo,3.6,"['TX', 'CO']","Austin, TX",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+316,Vitech Systems Group,3.7,"['NJ', 'NJ', 'NY', 'OK']","New York, NY",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+317,IAC,3.7,"['NJ', 'CA', 'NY', 'NY', 'NY', 'NY', 'CA', 'CA', 'CA', 'NY', 'NY']","New York, NY",5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1,2.9
+318,Dolby,3.6,"['CA', 'CA', 'CA', 'CA']","San Francisco, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.9
+319,Hexagon,3.6,"['GA', 'GA', 'Canada', 'TX', 'AL', 'AL', 'Canada', 'GA', 'GA', 'RI', 'CA', 'RI', 'VA', 'GA', 'MI']",NA,NA,NA,NA,NA,NA
+320,Avid Technology,3.6,"['MA', 'MA', 'CA', 'Canada', 'NY', 'MA']","Burlington, MA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3
+321,SPS Commerce,3.5,"['Canada', 'NJ', 'MN']","Minneapolis, MN",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+322,Synechron,3.6,"['NC', 'TX', 'FL', 'NJ', 'TN', 'NY', 'NJ', 'NJ', 'CA', 'CA', 'VA', 'FL', 'Canada']","New York, NY",5001 to 10000 employees, $100 to $500 million (USD) per year,0,1,3
+323,Moody's,3.6,"['NY', 'NC', 'NY', 'CA', 'CA']","New York, NY",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.9
+324,FusionStorm,3.6,"['PA', 'MA', 'CA', 'NY', 'CA', 'CA']","San Francisco, CA",10000+ employees, $5 to $10 billion (USD) per year,0,1,2.8
+325,Proofpoint,3.6,"['TX', 'CO', 'UT', 'IN', 'PA', 'UT', 'CA', 'CA', 'UT', 'CA', 'Canada', 'UT']","Sunnyvale, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.7
+326,RSA Security,3.6,"['MA', 'VA', 'KS', 'VA']","Bedford, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+327,Cloudera,3.6,"['GA', 'TX', 'WA', 'MA', 'NY', 'IL', 'Mexico', 'CA', 'VA', 'FL', 'Mexico', 'NH', 'NY', 'CA', 'TX', 'NC', 'CA', 'CA', 'CA', 'Canada', 'VA', 'DC']","Palo Alto, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,3.1
+328,Teradata,3.6,"['GA', 'GA', 'TX', 'WA', 'MA', 'IL', 'TX', 'OH', 'OH', 'OH', 'OH', 'OH', 'GA', 'CA', 'CA', 'IN', 'IN', 'TX', 'NJ', 'CA', 'OH', 'Canada', 'NY', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'Canada', 'DC']","San Diego, CA",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.9
+329,Yash Technologies,3.6,"['MA', 'IL', 'IL', 'IL']","East Moline, IL",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+330,HTC Global Services,3.6,"['IL', 'MI', 'MI', 'CT', 'WI', 'CA', 'MI']","Troy, MI",10000+ employees, Unknown / Non-Applicable,0,0,2.6
+331,Mimecast,3.6,"['IL', 'TX', 'MA', 'CA']","Lexington, MA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.6
+332,Geometric,3.9,"['MI', 'IL', 'TX']",NA,NA,NA,NA,NA,NA
+333,Mindbody,3.5,"['GA', 'TX', 'CA', 'PA', 'NY', 'CA', 'CA', 'CA', 'CA', 'AZ']","San Luis Obispo, CA",1001 to 5000 employees, Unknown / Non-Applicable,1,1,2.7
+334,Verint Systems,3.5,"['GA', 'GA', 'MD', 'MA', 'IL', 'CO', 'GA', 'NY', 'NY', 'KS', 'GA', 'CA', 'CA']","Melville, NY",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,0,2.8
+335,Accruent,3.6,"['TX', 'MA', 'CO', 'MN', 'LA', 'AZ']","Austin, TX",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,2.7
+336,Vonage,3.5,"['GA', 'TX', 'NJ', 'NJ', 'NJ', 'GA', 'NJ', 'NJ', 'NY', 'AZ', 'CA', 'AZ']","Holmdel, NJ",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.7
+337,MediaTek,3.7,"['TX', 'CA', 'MA']",Hsinchu (Taiwan),10000+ employees, $5 to $10 billion (USD) per year,0,0,2.9
+338,Agero,3.7,"['TN', 'MA', 'TN', 'TX', 'MA', 'AZ']","Medford, MA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.7
+339,Hyland,3.6,"['GA', 'MA', 'CA', 'OH', 'MN', 'OH', 'CO', 'CA', 'MI', 'KS', 'NE', 'AZ', 'CA', 'UT', 'FL', 'Canada', 'OH']","Westlake, OH",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.8
+340,Teradata,3.6,"['GA', 'GA', 'TX', 'WA', 'MA', 'IL', 'TX', 'OH', 'OH', 'OH', 'OH', 'OH', 'GA', 'CA', 'CA', 'IN', 'IN', 'TX', 'NJ', 'CA', 'OH', 'Canada', 'NY', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'Canada', 'DC']","San Diego, CA",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.9
+341,HTC Global Services,3.6,"['IL', 'MI', 'MI', 'CT', 'WI', 'CA', 'MI']","Troy, MI",10000+ employees, Unknown / Non-Applicable,0,0,2.6
+342,McAfee,3.6,"['OR', 'TX', 'CO', 'CO', 'VA', 'OR', 'ID', 'TX', 'CA', 'NY', 'TX', 'VA', 'MN', 'CA', 'CA', 'CA', 'DC', 'Canada']","Santa Clara, CA",5001 to 10000 employees, $10+ billion (USD) per year,0,1,3
+343,Veeam Software,3.9,"['GA', 'GA', 'IL', 'OH', 'CA', 'AZ']","Baar, Zug (Switzerland)",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.8
+344,Camber,3.6,"['VA', 'VA', 'VA', 'AL', 'MD', 'FL', 'MD', 'TX']","Huntsville, AL",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.6
+345,Avid Technology,3.6,"['MA', 'MA', 'CA', 'Canada', 'NY', 'MA']","Burlington, MA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3
+346,Cloudera,3.6,"['GA', 'TX', 'WA', 'MA', 'NY', 'IL', 'Mexico', 'CA', 'VA', 'FL', 'Mexico', 'NH', 'NY', 'CA', 'TX', 'NC', 'CA', 'CA', 'CA', 'Canada', 'VA', 'DC']","Palo Alto, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,3.1
+347,NICE inContact,3.6,"['OH', 'UT', 'UT', 'UT', 'UT']","Sandy, UT",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.8
+348,iSoftStone,3.6,"['WA', 'NY']","Beijing, Beijing (China)",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.7
+349,FICO,3.5,"['MN', 'TX', 'IL', 'CO', 'VA', 'MN', 'NY', 'MN', 'MN', 'CA', 'CA', 'CA', 'CA']","San Jose, CA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3
+350,Snap,3.5,"['IL', 'CA', 'CA', 'CA', 'NY', 'CA', 'CA', 'WA', 'Canada', 'CA']","Santa Monica, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,0,3
+351,NICE inContact,3.6,"['OH', 'UT', 'UT', 'UT', 'UT']","Sandy, UT",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.8
+352,Risk Management Solutions,3.8,"['WA', 'Bermuda', 'NJ', 'CO', 'FL', 'CA', 'IL', 'FL']","Newark, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+353,Bristlecone,3.6,"['TX', 'CA', 'NY', 'CA']","San Jose, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+354,FICO,3.5,"['MN', 'TX', 'IL', 'CO', 'VA', 'MN', 'NY', 'MN', 'MN', 'CA', 'CA', 'CA', 'CA']","San Jose, CA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3
+355,Unify,3.6,"['GA', 'FL', 'TX', 'VA', 'Canada', 'Canada']","Munich, Bayern (Germany)",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,1,2.5
+356,iSoftStone,3.6,"['WA', 'NY']","Beijing, Beijing (China)",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.7
+357,Amazon Lab126,3.5,"['MA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA']","Sunnyvale, CA",1001 to 5000 employees, $50 to $100 million (USD) per year,0,1,3.1
+358,NAVEX Global,3.5,"['GA', 'OR', 'NC', 'GA', 'OR', 'GA', 'KS', 'OR', 'ID']","Lake Oswego, OR",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+359,Lexmark International,3.5,"['VA', 'MA', 'CO', 'IL', 'TX', 'KS', 'KY', 'KY', 'CO', 'DC']","Lexington, KY",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.8
+360,Cvent,3.5,"['GA', 'TX', 'IL', 'TX', 'UT', 'Canada', 'MA', 'PA', 'AZ', 'OR', 'CA', 'VA', 'Canada', 'DC']","Tysons, VA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.8
+361,NCI,3.5,"['VA', 'MD', 'CO', 'VA', 'NC', 'AZ', 'MD', 'MD', 'VA', 'MA', 'VA', 'TN', 'VA', 'NY', 'TX', 'AZ']","Reston, VA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.2
+362,Birlasoft,3.5,"['IN', 'NJ', 'CA', 'Canada', 'NC', 'Canada']",Pune (India),5001 to 10000 employees, $100 to $500 million (USD) per year,0,1,3
+363,Lexmark International,3.5,"['VA', 'MA', 'CO', 'IL', 'TX', 'KS', 'KY', 'KY', 'CO', 'DC']","Lexington, KY",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.8
+364,Quinnox,3.5,"['IL', 'TX']","Chicago, IL",1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.9
+365,IDC (International Data Corporation),3.5,"['MA', 'CA']","Framingham, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.6
+366,2U,3.5,"['VA', 'FL', 'NY', 'NC', 'CO', 'MD', 'MD', 'CA', 'AZ', 'DC']","Lanham, MD",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,2.7
+367,TiVo,3.5,"['CA', 'MI', 'MA', 'CA', 'NC', 'CO', 'CA', 'NY', 'TX', 'CA', 'CA', 'CA', 'OK', 'PA']","San Jose, CA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.7
+368,Synchronoss,3.5,"['NJ', 'NJ']","Bridgewater, NJ",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+369,Genpact,3.5,"['GA', 'MI', 'NC', 'IL', 'OH', 'TX', 'OH', 'TX', 'TX', 'CA', 'NY', 'Canada', 'CA', 'VA', 'TX', 'CA', 'NJ', 'PA']","New York, NY",10000+ employees, $2 to $5 billion (USD) per year,0,1,2.8
+370,TiVo,3.5,"['CA', 'MI', 'MA', 'CA', 'NC', 'CO', 'CA', 'NY', 'TX', 'CA', 'CA', 'CA', 'OK', 'PA']","San Jose, CA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.7
+371,Forescout Technologies,3.5,"['CA', 'TX', 'NY', 'CA', 'DC']","San Jose, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.7
+372,Renaissance Learning,3.5,"['MN', 'WI', 'MN', 'CA', 'WI', 'WI', 'WI']","Wisconsin Rapids, WI",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+373,HCL,3.5,"['NC', 'MO', 'NY']",NA,NA,NA,NA,NA,NA
+374,UiPath,3.5,"['GA', 'TX', 'NY', 'Mexico', 'TX', 'NY', 'CA', 'WA', 'Canada', 'VA']","New York, NY",1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.9
+375,Kanbay International,4.7,United States,NA,NA,NA,NA,NA,NA
+376,Slack,4.5,"['IL', 'CO', 'NY', 'CA', 'Canada', 'Canada']","San Francisco, CA",1001 to 5000 employees, Unknown / Non-Applicable,1,1,3
+377,Nextiva,4.4,"['AZ', 'AZ', 'AZ', 'AZ']","Scottsdale, AZ",501 to 1000 employees, Unknown / Non-Applicable,1,1,2.7
+378,Palantir Technologies,3.9,"['CA', 'VA', 'NY', 'Canada', 'CA', 'WA', 'DC']","Palo Alto, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,0,3.2
+379,American Systems,3.9,"['VA', 'VA', 'VA', 'VA', 'VA', 'MD', 'VA', 'FL', 'VA', 'VA', 'CA']","Chantilly, VA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.5
+380,Palantir Technologies,3.9,"['CA', 'VA', 'NY', 'Canada', 'CA', 'WA', 'DC']","Palo Alto, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,0,3.2
+381,Cray,3.8,"['MN', 'WI', 'CA', 'MN', 'MN', 'WA']","Seattle, WA",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,0,2.9
+382,ESPN,3.7,"['CT', 'CA', 'NC', 'IL', 'CA', 'NY', 'WA', 'CT']","Bristol, CT",1001 to 5000 employees, $500 million to $1 billion (USD) per year,1,1,3
+383,GCI,3.7,"['AK', 'AK']","Anchorage, AK",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,0,2.9
+384,Golf Galaxy,3.7,"['MN', 'CO', 'MN', 'FL', 'CO']","Coraopolis, PA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,1.9
+385,Gateway,3.6,"7565 Irvine Center Dr # 150 Irvine, California, 92618-4933, United States","Irvine, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.7
+386,eClinicalWorks,3.5,"['MA', 'MA']","Westborough, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.7
+387,American IT Associates,5.0,United States,NA,NA,NA,NA,NA,NA
+388,Orian Engineers,5.0,United States,NA,NA,NA,NA,NA,NA
+389,Digital Prospectors,4.9,"['MA', 'NH', 'MA', 'MA', 'NH']","Exeter, NH",51 to 200 employees, $50 to $100 million (USD) per year,1,1,2.7
+390,iconsoft,4.9,United States,NA,NA,NA,NA,NA,NA
+391,SalesLoft,4.9,"['GA', 'Mexico', 'IN', 'NY', 'CA']","Atlanta, GA",201 to 500 employees, $25 to $50 million (USD) per year,1,1,3.4
+392,Fabergent USA,4.9,"['NJ', 'NY']","Mahwah, NJ",51 to 200 employees, $5 to $10 million (USD) per year,0,0,2
+393,Pariveda Solutions,4.9,"['GA', 'WA', 'IL', 'TX', 'CA', 'TX', 'CA', 'NY', 'PA', 'CA', 'WA']","Dallas, TX",501 to 1000 employees, $100 to $500 million (USD) per year,1,1,3.2
+394,Sprout Social,4.9,"['IL', 'WA']","Chicago, IL",501 to 1000 employees, $50 to $100 million (USD) per year,1,1,3.1
+395,PayJunction,4.8,"['TX', 'CA', 'CA']","Santa Barbara, CA",51 to 200 employees, Unknown / Non-Applicable,1,1,2.6
+396,Camelot Integrated Solutions,4.8,United States,NA,NA,NA,NA,NA,NA
+397,WillowTree,4.8,"['VA', 'OH', 'NC', 'NY']","Charlottesville, VA",201 to 500 employees, $25 to $50 million (USD) per year,1,1,3.3
+398,Asana,4.8,"['NY', 'CA', 'Canada']","San Francisco, CA",501 to 1000 employees, Unknown / Non-Applicable,1,1,3.1
+399,vCom Solutions,4.8,United States,"San Ramon, CA",51 to 200 employees, $25 to $50 million (USD) per year,1,1,3.1
+400,vCom Solutions,4.8,United States,"San Ramon, CA",51 to 200 employees, $25 to $50 million (USD) per year,1,1,3.1
+401,C3.ai,4.8,"['IL', 'CA', 'CA']","Redwood City, CA",201 to 500 employees, $100 to $500 million (USD) per year,1,1,3.2
+402,Sage Intacct,4.7,United States,"San Jose, CA",501 to 1000 employees, Unknown / Non-Applicable,1,1,2.9
+403,TSheets,4.7,"['ID', 'ID']","Eagle, ID",201 to 500 employees, Unknown / Non-Applicable,0,1,3
+404,411 Locals,4.7,"['NV', 'NV']","Las Vegas, NV",201 to 500 employees, $5 to $10 million (USD) per year,0,1,4.4
+405,Weave,4.7,2000 W Ashton Blvd ,"Lehi, UT",501 to 1000 employees, Unknown / Non-Applicable,1,1,2.5
+406,SADA Systems,4.7,"['GA', 'TX', 'IL', 'CO', 'CA', 'NY', 'CA', 'CA', 'WA']","North Hollywood, CA",201 to 500 employees, $100 to $500 million (USD) per year,0,1,3
+407,WP Engine,4.7,"['TX', 'NE', 'TX', 'CA']","Austin, TX",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.6
+408,Premier IT Solutions,4.6,"['TX', 'TX']",NA,NA,NA,NA,NA,NA
+409,SendGrid,4.6,"['CA', 'CO', 'CO', 'CA', 'CA', 'CA']","Denver, CO",201 to 500 employees, $100 to $500 million (USD) per year,1,1,2.7
+410,Mavenlink,4.6,"['MA', 'CA', 'UT', 'CA']","Irvine, CA",201 to 500 employees, Unknown / Non-Applicable,1,1,2.6
+411,SeatGeek,4.5,"['SC', 'NY', 'OR']","New York, NY",201 to 500 employees, Unknown / Non-Applicable,1,1,2.9
+412,Tekstrom,4.6,United States,"Wilmington, DE",1 to 50 employees, $10 to $25 million (USD) per year,0,0,NA
+413,Ping Identity,4.6,"['TX', 'MA', 'CO', 'CA', 'Canada', 'MA']",NA,NA,NA,NA,NA,3.1
+414,Wonolo,4.6,"['CA', 'TN', 'CA']","Denver, CO",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3
+415,Premier IT Solutions,4.6,"['TX', 'TX']","San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+416,Apolis,4.6,"['MA', 'IL', 'CA', 'NJ', 'CA', 'CA', 'CA', 'FL', 'MN', 'CA', 'NY', 'IL', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,2.4
+417,Health Catalyst,4.6,"['UT', 'UT']","El Segundo, CA",201 to 500 employees, $50 to $100 million (USD) per year,0,0,3
+418,Dotcom Team,4.6,"['MA', 'MA', 'NC', 'MA', 'PA', 'MA']","Salt Lake City, UT",501 to 1000 employees, $100 to $500 million (USD) per year,1,1,3
+419,Surya Systems,4.6,United States,"Braintree, MA",201 to 500 employees, $25 to $50 million (USD) per year,0,0,NA
+420,EAI Technologies,4.5,"1945 Old Gallows Rd, Suite 310 ",NA,NA,NA,NA,NA,2.5
+421,DiscoverOrg,4.6,"['WA', 'MD', 'PA', 'WA']","Vienna, VA",1 to 50 employees, $5 to $10 million (USD) per year,0,0,2.6
+422,Lever,4.6,155 5th St. ,"Vancouver, WA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3.1
+423,Software Pundits,4.6,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,1,1,NA
+424,Turo,4.6,"['AZ', 'CA', 'AZ', 'Canada']",NA,NA,NA,NA,NA,2.8
+425,Duo Security,4.6,"['MI', 'TX', 'MI', 'CA', 'CA']","San Francisco, CA",201 to 500 employees, Unknown / Non-Applicable,1,1,2.8
+426,ScienceLogic,4.5,['VA'],"Ann Arbor, MI",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.9
+427,LogicMonitor,4.5,"['TX', 'MA', 'NY', 'CA']","Reston, VA",201 to 500 employees, $50 to $100 million (USD) per year,0,1,3
+428,AGS,4.5,"['GA', 'TX', 'GA', 'NV', 'Mexico', 'NY', 'OK', 'NV']","Santa Barbara, CA",501 to 1000 employees, Unknown / Non-Applicable,1,1,2.6
+429,TSP,4.4,United States,"Las Vegas, NV",501 to 1000 employees, $100 to $500 million (USD) per year,1,1,2.4
+430,BambooHR,4.5,"['UT', 'UT', 'UT', 'UT']","Dallas, TX",501 to 1000 employees, $25 to $50 million (USD) per year,0,1,3.2
+431,BirdEye,4.5,"['TX', 'TX', 'CA', 'CA']","Lindon, UT",201 to 500 employees, Unknown / Non-Applicable,1,1,2.7
+432,Technology Consultants (Michigan),4.5,United States,"Palo Alto, CA",201 to 500 employees, $25 to $50 million (USD) per year,0,1,NA
+433,FlexTrade Systems Inc.,4.4,"['NY', 'NY']",NA,NA,NA,NA,NA,3
+434,SkillStorm,4.5,"['GA', 'NC', 'IL', 'TX', 'FL', 'OH', 'IN', 'FL', 'TX', 'NY', 'PA', 'TX', 'VA', 'CA', 'AZ']","Great Neck, NY",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.6
+435,Netvision Resources,4.5,United States,"Fort Lauderdale, FL",501 to 1000 employees, Unknown / Non-Applicable,1,1,NA
+436,Demandbase,4.5,"['NY', 'CA', 'WA']",NA,NA,NA,NA,NA,3
+437,Surescripts,4.5,"['VA', 'OR', 'VA', 'OR', 'MN', 'OR', 'NC']","San Francisco, CA",201 to 500 employees, $100 to $500 million (USD) per year,1,1,3
+438,System Soft Technologies,4.5,"['TX', 'FL']","Arlington, VA",501 to 1000 employees, Unknown / Non-Applicable,0,0,NA
+439,CB Insights,4.5,"498 Seventh Avenue, 17th Floor ",NA,NA,NA,NA,NA,3
+440,System Soft Technologies,4.5,"['TX', 'FL']","New York, NY",51 to 200 employees, $25 to $50 million (USD) per year,1,1,NA
+441,TSP,4.4,United States,NA,NA,NA,NA,NA,2.4
+442,CB Insights,4.5,"498 Seventh Avenue, 17th Floor ","Dallas, TX",501 to 1000 employees, $25 to $50 million (USD) per year,0,1,3
+443,ComTec Consultants,4.4,United States,"New York, NY",51 to 200 employees, $25 to $50 million (USD) per year,1,1,3.1
+444,FieldEdge,4.4,"['GA', 'FL', 'NY']","Dallas, TX",51 to 200 employees, $25 to $50 million (USD) per year,0,0,3.4
+445,Liferay,4.4,"['IL', 'CA', 'OH', 'CA', 'Canada', 'NC']","Fort Myers, FL",51 to 200 employees, $25 to $50 million (USD) per year,1,1,2.7
+446,FlexTrade Systems Inc.,4.4,"['NY', 'NY']","Diamond Bar, CA",501 to 1000 employees, Unknown / Non-Applicable,0,1,3
+447,Techstar Consulting,4.4,"['GA', 'TX', 'TX', 'NV']","Great Neck, NY",501 to 1000 employees, Unknown / Non-Applicable,0,1,2
+448,QTS,4.4,"['VA', 'GA', 'TX', 'VA', 'GA', 'TX', 'NJ', 'KS', 'GA']","Irving, TX",201 to 500 employees, $25 to $50 million (USD) per year,0,0,2.4
+449,Conductor,4.4,"['NY', 'CA']","Overland Park, KS",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.9
+450,Greenhouse Software,4.5,"['CO', 'NY', 'CA']","New York, NY",201 to 500 employees, $25 to $50 million (USD) per year,0,1,3.2
+451,QTS,4.4,"['VA', 'GA', 'TX', 'VA', 'GA', 'TX', 'NJ', 'KS', 'GA']","New York, NY",201 to 500 employees, Unknown / Non-Applicable,1,1,2.4
+452,Edifecs,4.5,United States,"Overland Park, KS",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.8
+453,NatSoft,4.4,United States,"Bellevue, WA",501 to 1000 employees, $100 to $500 million (USD) per year,1,1,NA
+454,Techstar Consulting,4.4,"['GA', 'TX', 'TX', 'NV']",NA,NA,NA,NA,NA,2
+455,Hireology,4.4,United States,"Irving, TX",201 to 500 employees, $25 to $50 million (USD) per year,0,0,2.8
+456,Branch,4.1,"['NY', 'CA', 'CA']","Chicago, IL",201 to 500 employees, $25 to $50 million (USD) per year,0,1,3.1
+457,Canopy,4.4,United States,"Redwood City, CA",201 to 500 employees, Unknown / Non-Applicable,0,0,2.7
+458,DigitalOcean,4.3,United States,"Lehi, UT",51 to 200 employees, Unknown / Non-Applicable,1,0,3
+459,Catapult Systems,4.4,"['TX', 'TX', 'CO', 'AZ', 'FL']","New York, NY",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,3.1
+460,Thumbtack,4.4,"['UT', 'UT', 'CA', 'UT']","Austin, TX",201 to 500 employees, $50 to $100 million (USD) per year,1,1,3.1
+461,Outreach,4.4,United States,"San Francisco, CA",501 to 1000 employees, Unknown / Non-Applicable,1,1,2.8
+462,StormWind Studios,4.4,14646 N Kierland Blvd # 120 ,"Seattle, WA",201 to 500 employees, Unknown / Non-Applicable,0,1,3.3
+463,AKT Corp,4.4,United States,"Scottsdale, AZ",51 to 200 employees, Unknown / Non-Applicable,1,1,NA
+464,Lucid Software,4.4,"['UT', 'UT', 'UT', 'UT']",NA,NA,NA,NA,NA,3.1
+465,Applications Software Technology,4.5,"['IL', 'TX', 'IL', 'Canada', 'IL']","South Jordan, UT",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.6
+466,Clarity Insights,4.3,"['IL', 'CA']","Lisle, IL",501 to 1000 employees, $50 to $100 million (USD) per year,0,1,2.6
+467,Sysnet Technology Solutions,4.3,United States,"Chicago, IL",201 to 500 employees, Unknown / Non-Applicable,0,1,NA
+468,Amzur Technologies,4.3,"3030 N Rocky Point Dr W # 810 Tampa, Florida, 33607-6062, United States",NA,NA,NA,NA,NA,3
+469,ChowNow,4.3,"['TX', 'MO', 'CA', 'CA', 'CA']","Tampa, FL",51 to 200 employees, $10 to $25 million (USD) per year,0,1,3.2
+470,ChowNow,4.3,"['TX', 'MO', 'CA', 'CA', 'CA']","Los Angeles, CA",201 to 500 employees, $25 to $50 million (USD) per year,0,0,3.2
+471,Whitepages,4.3,1301 5th Ave Suite 1700 ,"Los Angeles, CA",201 to 500 employees, $25 to $50 million (USD) per year,0,0,3
+472,Roblox,4.4,"['CA', 'CA']","Seattle, WA",1 to 50 employees, $50 to $100 million (USD) per year,1,1,3
+473,Addepar,4.3,"['IL', 'CA', 'NY', 'UT']","San Mateo, CA",201 to 500 employees, Unknown / Non-Applicable,0,1,3
+474,Trintech,4.4,"['TX', 'MD', 'TX']","Mountain View, CA",201 to 500 employees, Unknown / Non-Applicable,0,1,2.8
+475,Taos,4.3,"['ID', 'MA', 'CA', 'NY', 'CA', 'CA', 'CA', 'ID']","Addison, TX",201 to 500 employees, $50 to $100 million (USD) per year,0,1,2.9
+476,Netskope,4.3,"['WA', 'CA', 'CA']","San Jose, CA",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,3
+477,Faithlife,4.3,"['WA', 'AZ', 'AZ']","Santa Clara, CA",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.8
+478,VentureSoftTech,4.3,United States,"Bellingham, WA",201 to 500 employees, Unknown / Non-Applicable,1,1,NA
+479,HCSS,4.3,United States,NA,NA,NA,NA,NA,2.9
+480,PerfectServe,4.3,"['GA', 'IL', 'TN', 'CA']","Sugar Land, TX",201 to 500 employees, $50 to $100 million (USD) per year,0,1,2.7
+481,DigitalOcean,4.3,United States,"Knoxville, TN",201 to 500 employees, $25 to $50 million (USD) per year,0,1,3
+482,DataServ (Missouri),4.3,"1630 Des Peres Rd Ste 301 Saint Louis, Missouri, 63131-1800, United States","New York, NY",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,2.7
+483,Dataprise,4.3,"['MD', 'MD', 'NY', 'MD', 'AZ']","Saint Louis, MO",51 to 200 employees, Unknown / Non-Applicable,0,1,2.9
+484,CarGurus,4.3,2 Canal Park ,"Rockville, MD",201 to 500 employees, $25 to $50 million (USD) per year,0,1,2.9
+485,MemSQL,4.3,"['OR', 'CA', 'WA']","Cambridge, MA",501 to 1000 employees, $500 million to $1 billion (USD) per year,0,1,3.3
+486,Newsela,4.3,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.9
+487,Masergy,4.3,"['TX', 'TX', 'CA', 'NY', 'TX']","New York, NY",201 to 500 employees, Unknown / Non-Applicable,0,1,2.9
+488,ISR INFO WAY,4.3,United States,"Plano, TX",501 to 1000 employees, $100 to $500 million (USD) per year,1,1,NA
+489,Paramount Software Solutions,4.3,"['GA', 'GA', 'NY']",NA,NA,NA,NA,NA,4
+490,Masergy,4.3,"['TX', 'TX', 'CA', 'NY', 'TX']","Alpharetta, GA",51 to 200 employees, $10 to $25 million (USD) per year,0,1,2.9
+491,ObjectWin Technology,4.3,"['TX', 'TX', 'TX']","Plano, TX",501 to 1000 employees, $100 to $500 million (USD) per year,1,1,2.7
+492,Software Technology Group (UT),4.3,"555 S 300 E Salt Lake City, Utah, 84111-3531, United States","Houston, TX",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.8
+493,Graphiq,4.3,"101a Innovation Pl Santa Barbara, California, 93108, United States","Salt Lake City, UT",201 to 500 employees, $10 to $25 million (USD) per year,0,1,3.1
+494,Flatiron Health,4.3,United States,"Santa Barbara, CA",51 to 200 employees, $5 to $10 million (USD) per year,1,0,3
+495,VIVA USA,4.2,"['IL', 'IL', 'TX', 'WI', 'IL', 'IL', 'NC', 'IL', 'NY']","New York, NY",501 to 1000 employees, Unknown / Non-Applicable,0,0,1.9
+496,PerfectServe,4.3,"['GA', 'IL', 'TN', 'CA']","Rolling Meadows, IL",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.7
+497,1stdibs.com,4.2,United States,"Knoxville, TN",201 to 500 employees, $25 to $50 million (USD) per year,0,1,2.8
+498,"First Tek, Inc.",4.2,"['GA', 'TX', 'MA', 'IL', 'CO', 'IL', 'FL', 'NY', 'NJ', 'OR']","New York, NY",201 to 500 employees, $25 to $50 million (USD) per year,0,0,2.1
+499,Strata Decision Technology,4.2,United States,"Piscataway, NJ",201 to 500 employees, $50 to $100 million (USD) per year,0,1,2.9
+500,Skillz,4.2,"['MA', 'OR', 'CA']","Chicago, IL",201 to 500 employees, $25 to $50 million (USD) per year,0,1,3
+501,The CBORD Group,4.2,"['GA', 'NY', 'TX']","San Francisco, CA",201 to 500 employees, Unknown / Non-Applicable,0,1,2.7
+502,Strata Decision Technology,4.2,United States,"Ithaca, NY",201 to 500 employees, $100 to $500 million (USD) per year,0,0,2.9
+503,Magenic,4.2,"['GA', 'MA', 'IL', 'MN', 'CA', 'MN', 'NY', 'MN', 'CA', 'MA']","Chicago, IL",201 to 500 employees, $25 to $50 million (USD) per year,0,1,3.2
+504,iboss Network Security,4.2,"['MA', 'FL', 'CA']","Saint Louis Park, MN",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.9
+505,Reputation.com,4.2,"['IL', 'CA', 'AZ', 'AZ']","San Diego, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,2.9
+506,iTech US,4.2,"['GA', 'MA', 'NC', 'IL', 'TX', 'NJ', 'NJ', 'WI', 'CA', 'NY', 'NJ', 'AZ', 'VT']","Redwood City, CA",201 to 500 employees, $50 to $100 million (USD) per year,0,1,2.3
+507,Moogsoft,4.2,"['CO', 'CO', 'CA', 'CA']","South Burlington, VT",201 to 500 employees, $25 to $50 million (USD) per year,0,1,3
+508,1stdibs.com,4.2,United States,"San Francisco, CA",201 to 500 employees, Unknown / Non-Applicable,1,1,2.8
+509,Classy,4.2,350 10th Ave. Suite 1300 ,"New York, NY",201 to 500 employees, $25 to $50 million (USD) per year,0,0,2.9
+510,Impact Networking,4.2,"['CA', 'IL', 'WI', 'IL', 'IL', 'IN', 'IN', 'IL', 'CA', 'WI', 'IL', 'WI', 'IL']","San Diego, CA",51 to 200 employees, Unknown / Non-Applicable,1,1,2.8
+511,Mobiquity,4.2,"['MA', 'FL', 'NY', 'MA', 'MA']","Lake Forest, IL",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.8
+512,Conga,4.2,13699 Via Varra ,"Waltham, MA",501 to 1000 employees, $50 to $100 million (USD) per year,0,0,2.8
+513,INFOMATICS,4.2,United States,"Broomfield, CO",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,4
+514,DVR Softek,4.2,United States,"Farmington Hills, MI",51 to 200 employees, $10 to $25 million (USD) per year,0,0,NA
+515,"AIM Consulting Group, LLC",4.2,"['WA', 'IL', 'CO', 'MN', 'TX', 'WA']",NA,NA,NA,NA,NA,2.5
+516,Branch,4.1,"['NY', 'CA', 'CA']","Seattle, WA",201 to 500 employees, Unknown / Non-Applicable,0,1,3.1
+517,Zolon Tech,4.2,"['MD', 'VA', 'VA', 'VA', 'MO', 'NY', 'VA', 'VT', 'VA', 'MD']","Redwood City, CA",201 to 500 employees, Unknown / Non-Applicable,0,0,2.5
+518,Pivotal Labs,4.2,"['NY', 'CA', 'CA']","Herndon, VA",201 to 500 employees, $25 to $50 million (USD) per year,0,0,NA
+519,Axis Group,4.2,"['GA', 'NJ']",NA,NA,NA,NA,NA,2.5
+520,Zolon Tech,4.2,"['MD', 'VA', 'VA', 'VA', 'MO', 'NY', 'VA', 'VT', 'VA', 'MD']","Berkeley Heights, NJ",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.5
+521,STONE Resource Group,4.1,United States,"Herndon, VA",201 to 500 employees, $25 to $50 million (USD) per year,0,0,2.6
+522,Axis Group,4.2,"['GA', 'NJ']","Roswell, GA",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.5
+523,PlanSource,4.1,"['SC', 'MI', 'MN', 'FL', 'UT']","Berkeley Heights, NJ",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.7
+524,Cardinal Solutions,4.2,"['GA', 'NC', 'OH', 'OH', 'TN', 'NC', 'FL']","Orlando, FL",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.8
+525,Conga,4.2,13699 Via Varra ,"Cincinnati, OH",201 to 500 employees, $50 to $100 million (USD) per year,0,1,2.8
+526,Avco consulting,4.1,"38 Front St FL 4 Worcester, Massachusetts, 01608-1732, United States","Broomfield, CO",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,NA
+527,Bandwidth,4.1,"['NC', 'CO', 'NC', 'NY']",NA,NA,NA,NA,NA,2.8
+528,BetterCloud,4.1,"['GA', 'NY', 'CA']","Raleigh, NC",201 to 500 employees, $100 to $500 million (USD) per year,1,1,3
+529,Jellyvision Lab,4.0,"848 W Eastman St Ste 104 Chicago, Illinois, 60642-2635, United States","Atlanta, GA",201 to 500 employees, Unknown / Non-Applicable,0,1,3.1
+530,Aequor Technologies,4.1,"['NJ', 'NJ', 'NY', 'NJ']","Chicago, IL",201 to 500 employees, Unknown / Non-Applicable,0,1,2.9
+531,Eateam,4.1,"['NJ', 'NY']","Piscataway, NJ",201 to 500 employees, $25 to $50 million (USD) per year,0,1,NA
+532,Trinus Corporation,4.1,"['CA', 'CA', 'CA']","Edison, NJ",201 to 500 employees, $50 to $100 million (USD) per year,0,0,NA
+533,Cogent Infotech Corp,4.1,"['TX', 'TX', 'FL', 'NY', 'FL', 'PA', 'PA']",NA,NA,NA,NA,NA,2.8
+534,Centro,4.1,"['MA', 'IL', 'TX', 'CO', 'NY', 'CA']",NA,NA,NA,NA,NA,2.9
+535,OSIsoft,4.1,"['TN', 'PA', 'CA', 'CA']","Pittsburgh, PA",201 to 500 employees, $25 to $50 million (USD) per year,0,1,2.9
+536,Numbers Only Inc,4.1,United States,"Chicago, IL",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,NA
+537,Podium,4.1,1650 W Digital Drive ,"San Leandro, CA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3
+538,Pushpay,4.0,"['WA', 'WA']",NA,NA,NA,NA,NA,2.9
+539,Fivestars,4.1,"['TX', 'TX', 'CA', 'FL', 'CA', 'CA', 'CA']","Lehi, UT",201 to 500 employees, Unknown / Non-Applicable,1,1,2.8
+540,Fivestars,4.1,"['TX', 'TX', 'CA', 'FL', 'CA', 'CA', 'CA']","Redmond, WA",201 to 500 employees, Unknown / Non-Applicable,0,1,2.8
+541,Jobvite,4.0,"['CA', 'IN', 'IN', 'CA', 'CA']","San Francisco, CA",201 to 500 employees, $100 to $500 million (USD) per year,0,0,2.9
+542,Celerity,4.1,"['PA', 'PA', 'VA', 'VA', 'PA', 'NY', 'PA', 'VA']","San Francisco, CA",201 to 500 employees, $100 to $500 million (USD) per year,0,0,2.3
+543,"Quora, Inc.",4.1,United States,"San Mateo, CA",201 to 500 employees, $10 to $25 million (USD) per year,0,1,3.3
+544,GolfNow,4.1,United States,"McLean, VA",201 to 500 employees, $50 to $100 million (USD) per year,0,1,2.9
+545,Advaitaa Technologies,4.1,United States,"Mountain View, CA",201 to 500 employees, Unknown / Non-Applicable,0,0,NA
+546,Amtex Systems,4.1,United States,"Orlando, FL",501 to 1000 employees, Unknown / Non-Applicable,0,1,NA
+547,Object Technology Solutions,4.1,"['KS', 'MO', 'KS', 'CA']",NA,NA,NA,NA,NA,3
+548,Practice Fusion,4.1,731 Townsend St Ste 400 ,NA,NA,NA,NA,NA,2.8
+549,The Select Group,4.0,"['GA', 'MA', 'NC', 'OH', 'NC', 'AL', 'TX', 'NC', 'CA', 'CA']","Overland Park, KS",51 to 200 employees, $25 to $50 million (USD) per year,0,0,2.7
+550,ContextMedia,4.1,United States,"San Francisco, CA",201 to 500 employees, $25 to $50 million (USD) per year,0,1,3.2
+551,Mediaocean,4.1,"['IL', 'NJ', 'NY']","Raleigh, NC",201 to 500 employees, $100 to $500 million (USD) per year,0,1,3
+552,Deem,4.1,"['CA', 'CA']","Chicago, IL",501 to 1000 employees, Unknown / Non-Applicable,0,1,3
+553,Webroot,4.0,"['CO', 'CO', 'CA', 'CA']","New York, NY",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.5
+554,Jellyvision Lab,4.0,"848 W Eastman St Ste 104 Chicago, Illinois, 60642-2635, United States","Oakland, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,3.1
+555,iPipeline,4.1,"['KY', 'Canada', 'PA', 'TX', 'PA', 'FL', 'NC', 'CA', 'PA', 'UT']","Broomfield, CO",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.6
+556,The Select Group,4.0,"['GA', 'MA', 'NC', 'OH', 'NC', 'AL', 'TX', 'NC', 'CA', 'CA']","Chicago, IL",201 to 500 employees, Unknown / Non-Applicable,0,1,2.7
+557,Personify,4.0,"['TX', 'MD', 'VA', 'VA']","Exton, PA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.9
+558,XTGlobal,4.0,United States,"Raleigh, NC",201 to 500 employees, $100 to $500 million (USD) per year,0,1,3.5
+559,Care.com,4.0,"['TX', 'MA', 'CA', 'CA', 'MA']","Austin, TX",201 to 500 employees, $50 to $100 million (USD) per year,0,1,2.6
+560,Silverline,4.1,"['MA', 'IL', 'IN', 'MO', 'CA', 'NY', 'CA']","Plano, TX",201 to 500 employees, $10 to $25 million (USD) per year,0,0,3.3
+561,Brightcove,4.0,"['MA', 'Mexico', 'NY', 'AZ', 'WA']","Waltham, MA",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,3.1
+562,HireVue,3.9,"['UT', 'UT', 'UT', 'UT']","New York, NY",201 to 500 employees, Unknown / Non-Applicable,1,1,2.8
+563,Zenefits,3.9,"['NC', 'AZ', 'CA', 'AZ', 'AZ', 'Canada']","Boston, MA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.8
+564,Puppet,4.0,"308 SW 2nd Ave FL 5 Portland, Oregon, 97204-3402, United States","South Jordan, UT",201 to 500 employees, Unknown / Non-Applicable,0,0,3
+565,TechTarget,4.0,"['MA', 'MA', 'MA', 'MA', 'CA']","San Francisco, CA",201 to 500 employees, $50 to $100 million (USD) per year,0,1,2.5
+566,Talkdesk,4.0,"['UT', 'UT', 'CA']","Portland, OR",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.5
+567,Deem,4.1,"['CA', 'CA']","Auburndale, MA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3
+568,Webpass,4.0,"['FL', 'CA', 'CA']","San Francisco, CA",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.1
+569,REI Systems,4.0,"['VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA']","Oakland, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,3
+570,REI Systems,4.0,"['VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA']","San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,3
+571,Webpass,4.0,"['FL', 'CA', 'CA']","Chantilly, VA",201 to 500 employees, $50 to $100 million (USD) per year,0,0,2.1
+572,Turbonomic,4.0,"['MA', 'MA', 'Canada', 'NY', 'NY', 'NY']","Chantilly, VA",201 to 500 employees, $50 to $100 million (USD) per year,0,0,3.1
+573,Zivaro,4.0,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,3.1
+574,Glu Mobile,4.0,"['CA', 'CA', 'CA']","Boston, MA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.8
+575,Datametrics Software Systems,4.0,United States,"Denver, CO",51 to 200 employees, $100 to $500 million (USD) per year,0,0,NA
+576,FinancialForce,4.0,"['IL', 'NY', 'OR', 'CA']","San Francisco, CA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3.1
+577,Mutex Systems,4.0,United States,NA,NA,NA,NA,NA,NA
+578,Zen Infotech,4.0,United States,"San Francisco, CA",501 to 1000 employees, Unknown / Non-Applicable,1,1,NA
+579,Saber Software,4.0,United States,NA,NA,NA,NA,NA,NA
+580,G2,4.0,"['IL', 'IL', 'CA']",NA,NA,NA,NA,NA,3
+581,FinancialForce,4.0,"['IL', 'NY', 'OR', 'CA']",NA,NA,NA,NA,NA,3.1
+582,Credible Behavioral Health Software,4.0,"['MD', 'MD']","Chicago, IL",201 to 500 employees, $50 to $100 million (USD) per year,0,0,2.8
+583,Lytx,4.0,"['MA', 'CA', 'CA']","San Francisco, CA",501 to 1000 employees, Unknown / Non-Applicable,1,1,2.8
+584,Evernote,4.0,"['TX', 'WA', 'CA', 'CA']","Rockville, MD",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.9
+585,ezCater,4.0,"['MA', 'CO']","San Diego, CA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.6
+586,Beeline,4.0,"['CO', 'FL', 'MI', 'MI']","Redwood City, CA",201 to 500 employees, $50 to $100 million (USD) per year,0,1,2.9
+587,Keste,4.0,"6100 W Plano Pkwy # 1800 Plano, Texas, 75093-8230, United States","Boston, MA",201 to 500 employees, Unknown / Non-Applicable,0,1,3
+588,Diverse Lynx,4.0,"['NJ', 'PA', 'NY', 'NJ']","Jacksonville, FL",201 to 500 employees, $50 to $100 million (USD) per year,0,1,NA
+589,Moxie Systems,4.0,United States,"Plano, TX",51 to 200 employees, $25 to $50 million (USD) per year,0,1,NA
+590,Better.com,3.9,"['NC', 'CA', 'CA', 'NY', 'CA']",NA,NA,NA,NA,NA,2.7
+591,Checkr,4.0,"['CO', 'CA']",NA,NA,NA,NA,NA,2.9
+592,Genscape,4.0,"['MA', 'CO', 'KY']","New York, NY",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.7
+593,BlackLine,3.9,"['CA', 'CA']","San Francisco, CA",51 to 200 employees, $100 to $500 million (USD),0,0,2.7
+594,ezCater,4.0,"['MA', 'CO']","Louisville, KY",201 to 500 employees, $50 to $100 million (USD) per year,0,1,2.6
+595,FinancialForce,4.0,"['IL', 'NY', 'OR', 'CA']","Woodland Hills, CA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3.1
+596,Lucid Technologies,3.9,United States,"Boston, MA",201 to 500 employees, Unknown / Non-Applicable,0,1,NA
+597,GitHub,4.1,United States,"San Francisco, CA",501 to 1000 employees, Unknown / Non-Applicable,1,1,2.8
+598,Lytx,4.0,"['MA', 'CA', 'CA']",NA,NA,NA,NA,NA,2.8
+599,G2,4.0,"['IL', 'IL', 'CA']","San Francisco, CA",501 to 1000 employees, Unknown / Non-Applicable,0,1,3
+600,Google,4.4,"['CA', 'MI', 'TX', 'CA', 'CA', 'MA', 'IL', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA', 'CA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA']","San Diego, CA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3.3
+601,Microsoft,4.3,"['WA', 'WA', 'WA', 'MA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'CA', 'NC', 'WA', 'WA', 'WA', 'CA', 'CA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'WA']","Chicago, IL",201 to 500 employees, $50 to $100 million (USD) per year,0,0,3.1
+602,Cisco Systems,4.2,"['NC', 'CA', 'CA', 'NC', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']","Mountain View, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+603,Intel Corporation,4.1,"['OR', 'OR', 'CA', 'AZ', 'CA', 'CA', 'AZ', 'Mexico', 'OR', 'AZ', 'CA', 'CA', 'OR', 'CA', 'AZ', 'OR', 'AZ', 'NM', 'CA', 'CA', 'Costa Rica', 'CA', 'AZ', 'CA', 'AZ']","Redmond, WA",10000+ employees, $10+ billion (USD) per year,1,1,3
+604,Apple,4.1,"['TX', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'TX', 'CA', 'CA', 'CA', 'CA']","San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+605,Amazon,3.9,"['WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'VA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA']","Santa Clara, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+606,IBM,3.8,"['VA', 'VA', 'VA', 'MD', 'VA', 'VA', 'VA', 'VA', 'MD', 'MD', 'MD', 'VA', 'MD', 'VA', 'VA', 'MD', 'NY', 'NC', 'VA', 'MD', 'MD', 'VA', 'VA', 'DC', 'VA']","Cupertino, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.8
+607,Tata Consultancy Services,3.7,"['GA', 'NJ', 'IL', 'NJ', 'NY', 'NC', 'IL', 'OH', 'OH', 'NJ', 'NJ', 'NJ', 'TX', 'FL', 'NJ', 'NJ', 'NJ', 'MN', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NJ', 'AZ', 'NJ', 'NJ', 'TX', 'CA', 'IL', 'NJ', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ']","Seattle, WA",10000+ employees, $10+ billion (USD) per year,1,1,2.7
+608,Infosys,3.1,"['NY', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'MS', 'PA', 'TN', 'TX', 'NJ', 'NY', 'NY', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'CA', 'NY']","Armonk, NY",10000+ employees, $10+ billion (USD) per year,0,1,2.6
+609,Wipro,2.9,"['GA', 'MA', 'OH', 'CA', 'OH', 'TX', 'TX', 'CA', 'MN', 'CA', 'NY', 'CA', 'MA', 'MN', 'VA', 'CA', 'CA', 'CA', 'CA', 'CA']",Mumbai (India),10000+ employees, $10+ billion (USD) per year,1,1,2.8
+610,Coinbase,3.9,"['NY', 'OR', 'CA']",Bengaluru (India),10000+ employees, $10+ billion (USD) per year,1,1,3
+611,AbacusNext,3.9,"['CA', 'CA', 'Canada']",Bengaluru (India),10000+ employees, $5 to $10 billion (USD) per year,1,1,2.6
+612,MarkLogic,3.9,"['VA', 'NY', 'CA', 'CA', 'VA', 'VA', 'DC']","San Francisco, CA",501 to 1000 employees, Unknown / Non-Applicable,0,0,3
+613,ABC Financial,3.9,"['AR', 'TX', 'AR', 'AR', 'AR']","San Diego, CA",201 to 500 employees, Unknown / Non-Applicable,0,1,2.7
+614,Sumo Logic,3.9,"['CO', 'NY', 'CA', 'CA']","San Carlos, CA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3
+615,SirsiDynix,3.9,United States,"Sherwood, AR",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.5
+616,Sisense,3.9,"['NY', 'CA', 'AZ']","Redwood City, CA",501 to 1000 employees, Unknown / Non-Applicable,1,1,3
+617,Softpath System,3.9,"['GA', 'NC', 'TX', 'GA', 'TX', 'NY', 'GA', 'AZ', 'NC', 'VA', 'DE']","Lehi, UT",201 to 500 employees, $50 to $100 million (USD) per year,1,1,NA
+618,Broadly,4.1,"['CA', 'CA']","New York, NY",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.9
+619,Avetta,3.9,"['Canada', 'TX', 'CA', 'UT']",NA,NA,NA,NA,NA,2.6
+620,Sentinel Technologies,3.9,"['MI', 'IL', 'IL', 'MI', 'MI', 'IL', 'AZ']","Oakland, CA",51 to 200 employees, $10 to $25 million (USD) per year,0,1,2.7
+621,SugarCRM,4.0,"['GA', 'Mexico', 'CA', 'CO', 'NC', 'FL']","Orem, UT",201 to 500 employees, $100 to $500 million (USD) per year,0,1,2.8
+622,iPipeline,4.1,"['KY', 'Canada', 'PA', 'TX', 'PA', 'FL', 'NC', 'CA', 'PA', 'UT']","Downers Grove, IL",201 to 500 employees, Unknown / Non-Applicable,0,1,2.6
+623,Emtec,3.9,"['AL', 'GA', 'IL', 'FL', 'Canada', 'NJ', 'PA', 'GA']","Cupertino, CA",201 to 500 employees, $100 to $500 million (USD) per year,0,1,3.2
+624,Toptal,3.9,United States,"Exton, PA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3.1
+625,OneLogin,3.9,"['GA', 'Mexico', 'WA', 'CA']","Jacksonville, FL",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.6
+626,CALIBRE Systems,3.9,"['VA', 'VA', 'VA', 'VA', 'CA', 'VA', 'AL', 'VA', 'TX', 'VA']","Wilmington, DE",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,3
+627,Optima Global Solutions,3.9,"['NJ', 'CA']","San Francisco, CA",201 to 500 employees, Unknown / Non-Applicable,1,1,NA
+628,Digital Air Strike,3.9,United States,"Alexandria, VA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.3
+629,TeleTracking,3.9,"336 4th Ave FL 7 Pittsburgh, Pennsylvania, 15222-2016, United States","Lawrenceville, NJ",1 to 50 employees, $1 to $5 million (USD) per year,0,1,2.9
+630,Pindrop,3.9,817 West Peachtree Street ,NA,NA,NA,NA,NA,2.9
+631,TeleTracking,3.9,"336 4th Ave FL 7 Pittsburgh, Pennsylvania, 15222-2016, United States","Scottsdale, AZ",51 to 200 employees, Unknown / Non-Applicable,0,1,2.9
+632,Virtue Group,3.9,"['GA', 'GA']","Pittsburgh, PA",201 to 500 employees, $50 to $100 million (USD) per year,0,1,NA
+633,Logic Soft,3.9,"['OH', 'OH']","Atlanta, GA",201 to 500 employees, Unknown / Non-Applicable,0,1,NA
+634,Business Intelli Solutions,3.8,United States,"Pittsburgh, PA",201 to 500 employees, $50 to $100 million (USD) per year,0,1,NA
+635,Sagarsoft,3.9,"['CT', 'CT']",NA,NA,NA,NA,NA,2.7
+636,Epson America,3.7,"['CA', 'CA', 'IN', 'CA']",NA,NA,NA,NA,NA,3
+637,OneSource Virtual,4.1,"['TX', 'TX', 'TX', 'AZ']",NA,NA,NA,NA,NA,2.6
+638,Compuware,3.8,United States,Hyderabad (India),201 to 500 employees, $10 to $25 million (USD) per year,0,0,2.8
+639,Pyramid Technology Solutions,3.8,"['TX', 'IN', 'CA']","Long Beach, CA",501 to 1000 employees, $2 to $5 billion (USD) per year,0,1,NA
+640,OneSource Virtual,4.1,"['TX', 'TX', 'TX', 'AZ']","Dallas, TX",501 to 1000 employees, $100 to $500 million (USD) per year,1,1,2.6
+641,Strategic Systems,3.8,"['OH', 'OH', 'OH']","Detroit, MI",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.3
+642,Appriss,3.9,United States,NA,NA,NA,NA,NA,2.5
+643,HostGator.com,3.8,"['TX', 'TX']","Dallas, TX",501 to 1000 employees, $100 to $500 million (USD) per year,1,1,2.3
+644,Saven Tech,3.8,"50 Cragwood Rd, Suite 132 ","Dublin, OH",201 to 500 employees, $10 to $25 million (USD) per year,0,1,2.5
+645,Instart,3.8,"['MA', 'MA', 'UT', 'CA', 'NY', 'CA']","Louisville, KY",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3.1
+646,A9.com,3.8,United States,"Houston, TX",501 to 1000 employees, Unknown / Non-Applicable,0,1,3
+647,Infospan,3.8,United States,"South Plainfield, NJ",201 to 500 employees, $10 to $25 million (USD) per year,0,1,NA
+648,New York Technology Partners,3.8,"['VA', 'MA', 'NJ', 'NJ', 'NY', 'NY', 'NJ']","Palo Alto, CA",51 to 200 employees, $50 to $100 million (USD) per year,1,1,2
+649,Signpost ,3.8,"['TX', 'CO', 'NY']","Palo Alto, CA",201 to 500 employees, Unknown / Non-Applicable,0,0,2.6
+650,Idexcel,4.0,"['TX', 'VA', 'NY', 'NJ', 'NJ', 'FL', 'DC']",NA,NA,NA,NA,NA,2.6
+651,Wisdom Infotech,3.8,"['MD', 'WI', 'WI', 'WI']","Jersey City, NJ",51 to 200 employees, $10 to $25 million (USD) per year,0,0,2.3
+652,Dataminr,3.8,"['VA', 'MT', 'NY', 'WA', 'DC']","New York, NY",201 to 500 employees, $10 to $25 million (USD) per year,1,1,2.9
+653,Parasoft,3.8,"101 E Huntington Dr FL 2 Monrovia, California, 91016-3496, United States","Herndon, VA",501 to 1000 employees, Unknown / Non-Applicable,0,0,2.8
+654,Lead IT,3.8,"['MO', 'IL']","Brookfield, WI",51 to 200 employees, $10 to $25 million (USD) per year,0,0,NA
+655,Adaequare,3.8,United States,"New York, NY",201 to 500 employees, Unknown / Non-Applicable,0,1,2.8
+656,VST Consulting,3.8,"['NJ', 'NJ', 'NJ', 'NY']","Monrovia, CA",51 to 200 employees, $5 to $10 million (USD) per year,0,1,NA
+657,Acquia,3.8,"['TX', 'MA', 'NY', 'OR', 'CA', 'Canada', 'DC']",NA,NA,NA,NA,NA,2.9
+658,CBTS,3.8,"['OH', 'OH', 'OH', 'OH']","Chantilly, VA",201 to 500 employees, $5 to $10 million (USD) per year,0,0,NA
+659,Gigya,3.8,"['CA', 'CA', 'AZ', 'CA']",NA,NA,NA,NA,NA,2.8
+660,eSystems,3.8,"100 Canal Pointe Blvd. , Suite 216 ","Boston, MA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.6
+661,Lifion,3.8,"['NY', 'NY']",NA,NA,NA,NA,NA,2.8
+662,Model N,3.9,"['IL', 'CO', 'ME', 'NJ', 'CA', 'MA']","Mountain View, CA",201 to 500 employees, $10 to $25 million (USD) per year,1,1,3
+663,Lithium Technologies,3.8,"['TX', 'NY', 'OR', 'CA']","Princeton, NJ",51 to 200 employees, $10 to $25 million (USD) per year,0,1,3
+664,Foursquare,3.2,"['IL', 'CA', 'NY', 'CA', 'WA']","New York, NY",201 to 500 employees, Unknown / Non-Applicable,0,1,2.8
+665,OPNET,3.8,"['MD', 'NC']","San Mateo, CA",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,3.3
+666,Forbes,3.8,United States,"San Francisco, CA",201 to 500 employees, $100 to $500 million (USD) per year,1,1,2.6
+667,eGain,3.8,"['CA', 'CA']","New York, NY",201 to 500 employees, Unknown / Non-Applicable,0,1,3.1
+668,Huffington Post,3.8,United States,"Bethesda, MD",501 to 1000 employees, $50 to $100 million (USD) per year,0,0,2.8
+669,Nexus Software,3.8,United States,"Jersey City, NJ",201 to 500 employees, Unknown / Non-Applicable,0,0,NA
+670,Nexus Software,3.8,United States,"Sunnyvale, CA",501 to 1000 employees, $50 to $100 million (USD) per year,0,1,NA
+671,OPNET,3.8,"['MD', 'NC']","New York, NY",201 to 500 employees, $1 to $5 million (USD) per year,0,0,3.3
+672,Rural Sourcing,3.8,"['NM', 'GA', 'GA', 'IN', 'AR', 'AL', 'OK']","Raleigh, NC",1 to 50 employees, $1 to $5 million (USD) per year,0,0,2.3
+673,Huffington Post,3.8,United States,NA,NA,NA,NA,NA,2.8
+674,Unknown Planner,3.8,United States,"Raleigh, NC",1 to 50 employees, $1 to $5 million (USD) per year,0,0,NA
+675,XO Group,3.8,"['TX', 'NY']",NA,NA,NA,NA,NA,2.8
+676,AIT Global,3.8,"['MA', 'NJ', 'NJ', 'NJ', 'NY']","Bethesda, MD",501 to 1000 employees, $50 to $100 million (USD) per year,0,0,3.3
+677,P2 Energy Solutions,3.8,"['Canada', 'CO', 'TX', 'TX', 'LA', 'TX']","Atlanta, GA",501 to 1000 employees, Unknown / Non-Applicable,0,1,3
+678,Opower,3.8,United States,"New York, NY",201 to 500 employees, $1 to $5 million (USD) per year,0,0,3.3
+679,Reliable Software Resources,3.8,"['MA', 'NC', 'NC', 'IL', 'OH', 'TX', 'CO', 'MI', 'MI', 'NY', 'MI', 'MI', 'AZ', 'CA', 'WA', 'FL']",NA,NA,NA,NA,NA,3.2
+680,Google,4.4,"['CA', 'MI', 'TX', 'CA', 'CA', 'MA', 'IL', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA', 'CA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA']","New York, NY",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,3.3
+681,Microsoft,4.3,"['WA', 'WA', 'WA', 'MA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'CA', 'NC', 'WA', 'WA', 'WA', 'CA', 'CA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'WA']","Matawan, NJ",51 to 200 employees, $10 to $25 million (USD) per year,0,1,3.1
+682,Cisco Systems,4.2,"['NC', 'CA', 'CA', 'NC', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']","Denver, CO",501 to 1000 employees, Unknown / Non-Applicable,0,0,3
+683,Intel Corporation,4.1,"['OR', 'OR', 'CA', 'AZ', 'CA', 'CA', 'AZ', 'Mexico', 'OR', 'AZ', 'CA', 'CA', 'OR', 'CA', 'AZ', 'OR', 'AZ', 'NM', 'CA', 'CA', 'Costa Rica', 'CA', 'AZ', 'CA', 'AZ']","Arlington, VA",Unknown, $50 to $100 million (USD) per year,1,1,3
+684,Apple,4.1,"['TX', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'TX', 'CA', 'CA', 'CA', 'CA']","Northville, MI",501 to 1000 employees, $50 to $100 million (USD) per year,0,1,3
+685,Amazon,3.9,"['WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'VA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA']","Mountain View, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+686,IBM,3.8,"['VA', 'VA', 'VA', 'MD', 'VA', 'VA', 'VA', 'VA', 'MD', 'MD', 'MD', 'VA', 'MD', 'VA', 'VA', 'MD', 'NY', 'NC', 'VA', 'MD', 'MD', 'VA', 'VA', 'DC', 'VA']","Redmond, WA",10000+ employees, $10+ billion (USD) per year,1,1,2.8
+687,Tata Consultancy Services,3.7,"['GA', 'NJ', 'IL', 'NJ', 'NY', 'NC', 'IL', 'OH', 'OH', 'NJ', 'NJ', 'NJ', 'TX', 'FL', 'NJ', 'NJ', 'NJ', 'MN', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NJ', 'AZ', 'NJ', 'NJ', 'TX', 'CA', 'IL', 'NJ', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ']","San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.7
+688,Infosys,3.1,"['NY', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'MS', 'PA', 'TN', 'TX', 'NJ', 'NY', 'NY', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'CA', 'NY']","Santa Clara, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.6
+689,Wipro,2.9,"['GA', 'MA', 'OH', 'CA', 'OH', 'TX', 'TX', 'CA', 'MN', 'CA', 'NY', 'CA', 'MA', 'MN', 'VA', 'CA', 'CA', 'CA', 'CA', 'CA']","Cupertino, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.8
+690,ArenaNet,3.7,"['WA', 'WA']","Seattle, WA",10000+ employees, $10+ billion (USD) per year,1,1,3.1
+691,Castlight,3.7,"['CA', 'UT', 'CA', 'CA']","Armonk, NY",10000+ employees, $10+ billion (USD) per year,0,1,2.8
+692,Bazaarvoice,3.7,"['TX', 'IL', 'NY']",Mumbai (India),10000+ employees, $10+ billion (USD) per year,1,1,3.3
+693,Ladders,3.7,United States,Bengaluru (India),10000+ employees, $10+ billion (USD) per year,1,1,2.8
+694,Symbioun Technologies,3.7,United States,Bengaluru (India),10000+ employees, $5 to $10 billion (USD) per year,1,1,NA
+695,Aditi,3.7,"['WA', 'WA', 'WA']","Bellevue, WA",1 to 50 employees, $5 to $10 million (USD) per year,0,1,3
+696,Epson America,3.7,"['CA', 'CA', 'IN', 'CA']","San Francisco, CA",201 to 500 employees, $100 to $500 million (USD) per year,1,1,3
+697,Bronto Software,3.7,United States,"Austin, TX",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3
+698,Global Healthcare Exchange,3.7,"['GA', 'CO', 'CO', 'CO', 'NE']","New York, NY",51 to 200 employees, Unknown / Non-Applicable,0,1,2.8
+699,GSS Infotech,3.7,United States,NA,NA,NA,NA,NA,NA
+700,GSS Infotech,3.7,United States,"Bellevue, WA",201 to 500 employees, $10 to $25 million (USD) per year,0,1,NA
+701,Antra,3.7,"['VA', 'VA', 'VA', 'VA']","Long Beach, CA",501 to 1000 employees, $2 to $5 billion (USD) per year,0,1,2.4
+702,Mixpanel,3.7,"['TX', 'NY', 'CA', 'WA']","Durham, NC",201 to 500 employees, Unknown / Non-Applicable,0,1,3
+703,Akvarr,3.7,"['VA', 'MD', 'MD']","Louisville, CO",501 to 1000 employees, $10 to $25 million (USD) per year,0,0,NA
+704,EVERFI,3.7,"['MA', 'IL', 'Canada', 'CA', 'DC']",NA,NA,NA,NA,NA,2.8
+705,WyzAnt,3.7,United States,NA,NA,NA,NA,NA,2.3
+706,Mythics,3.7,"['VA', 'VA']","Dulles, VA",501 to 1000 employees, $10 to $25 million (USD) per year,0,0,3
+707,Spiceworks,3.7,3700 N Capital of Texas Hwy #100 ,"San Francisco, CA",201 to 500 employees, $50 to $100 million (USD) per year,0,1,3
+708,Highdata Software,3.7,United States,NA,NA,NA,NA,NA,NA
+709,CEI,3.7,"['CO', 'NY', 'FL', 'PA', 'PA', 'PA', 'VA', 'DC']","Washington, DC",501 to 1000 employees, Unknown / Non-Applicable,1,1,2.8
+710,Highdata Software,3.7,United States,"Chicago, IL",51 to 200 employees, Unknown / Non-Applicable per year,0,0,NA
+711,Sita Corp,3.3,"['NJ', 'NJ', 'NY', 'NJ']","Virginia Beach, VA",201 to 500 employees, $1 to $2 billion (USD) per year,0,1,2.9
+712,Percolate,3.7,"['CO', 'NY', 'CA']","Austin, TX",Unknown, Unknown / Non-Applicable,1,1,2.7
+713,Antra,3.7,"['VA', 'VA', 'VA', 'VA']",NA,NA,NA,NA,NA,2.4
+714,Unknown Planner,3.8,United States,"Pittsburgh, PA",501 to 1000 employees, $50 to $100 million (USD) per year,0,1,NA
+715,Trinity Consultants,3.7,United States,NA,NA,NA,NA,NA,2.8
+716,Imprivata,3.6,"['MA', 'MA']","Somerset, NJ",1 to 50 employees, $5 to $10 million (USD) per year,0,0,2.4
+717,SoftRock,3.7,United States,"New York, NY",201 to 500 employees, $25 to $50 million (USD) per year,0,1,2.1
+718,Namely,3.7,"['GA', 'TX', 'CA', 'NY', 'CA']","Dulles, VA",501 to 1000 employees, $10 to $25 million (USD) per year,0,0,2.7
+719,ServiceTitan,3.8,"['GA', 'CA', 'CA']",NA,NA,NA,NA,NA,3
+720,Granicus,3.7,"['CO', 'MN', 'MN', 'DC']","Dallas, TX",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,2.7
+721,Kareo,3.6,"['CA', 'NV', 'FL', 'TX', 'CA', 'NC']","Lexington, MA",201 to 500 employees, Unknown / Non-Applicable,0,1,3
+722,CD-adapco,3.7,United States,"Orlando, FL",501 to 1000 employees, Unknown / Non-Applicable,1,1,3.1
+723,Nutech Information Systems,3.6,United States,"New York, NY",201 to 500 employees, $50 to $100 million (USD) per year,0,1,NA
+724,Shift,3.7,"['VA', 'CA', 'CA', 'CA', 'CA', 'CA']","Glendale, CA",501 to 1000 employees, Unknown / Non-Applicable,0,1,2.4
+725,Client Network Services,3.6,"['TX', 'MD', 'MI', 'WA', 'AZ', 'MD', 'UT']","Denver, CO",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,2.8
+726,Xpedite Technologies,3.6,United States,"Irvine, CA",501 to 1000 employees, $50 to $100 million (USD) per year,1,1,NA
+727,Laserfiche,3.6,"['CA', 'CA', 'CA', 'Canada']","Melville, NY",51 to 200 employees, Unknown / Non-Applicable per year,0,0,2.8
+728,"Plex Systems, Inc.",3.6,"['MI', 'CA', 'VA', 'MI']",NA,NA,NA,NA,NA,2.7
+729,Net Matrix Solutions,3.6,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,NA
+730,Laserfiche,3.6,"['CA', 'CA', 'CA', 'Canada']","Rockville, MD",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,2.8
+731,"Plex Systems, Inc.",3.6,"['MI', 'CA', 'VA', 'MI']",NA,NA,NA,NA,NA,2.7
+732,Net Matrix Solutions,3.6,United States,"Long Beach, CA",201 to 500 employees, $100 to $500 million (USD) per year,0,0,NA
+733,EGlobalTech,3.6,1900 Gallows Road Suite 800 ,"Troy, MI",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.8
+734,Smartek21,3.6,"['WA', 'WA', 'WA', 'WA']",NA,NA,NA,NA,NA,2.7
+735,Quantcast,3.6,"['NY', 'CA', 'WA']","Long Beach, CA",201 to 500 employees, $100 to $500 million (USD) per year,0,0,3.2
+736,Symbioun Technologies,3.7,United States,"Troy, MI",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,NA
+737,Infodat International,3.6,United States,NA,NA,NA,NA,NA,1.7
+738,ISN Software,3.6,3232 McKinney Ave ,"Vienna, VA",201 to 500 employees, Unknown / Non-Applicable,0,1,2.8
+739,PatientPop,3.6,"['CA', 'CA']","Kirkland, WA",501 to 1000 employees, $50 to $100 million (USD) per year,0,1,2.9
+740,Brightree,3.6,"['GA', 'IL', 'KS']","San Francisco, CA",501 to 1000 employees, Unknown / Non-Applicable,1,1,3
+741,Everest Consulting Group,3.6,United States,NA,NA,NA,NA,NA,NA
+742,Client Network Services,3.6,"['TX', 'MD', 'MI', 'WA', 'AZ', 'MD', 'UT']","Houston, TX",51 to 200 employees, $10 to $25 million (USD) per year,0,0,2.8
+743,Intralinks,3.6,"['GA', 'MA', 'IL', 'Mexico', 'NY', 'CA', 'MA']","Dallas, TX",201 to 500 employees, Unknown / Non-Applicable,0,1,2.8
+744,Verisign,3.6,United States,"Santa Monica, CA",201 to 500 employees, Unknown / Non-Applicable,0,1,2.8
+745,Techgene Solutions,3.6,"['NJ', 'TX', 'NY']","Lawrenceville, GA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,NA
+746,Param Consulting Services,3.6,"200 Middlesex Tpke # 110 Iselin, New Jersey, 08830-2033, United States",NA,NA,NA,NA,NA,3
+747,INDUS,3.6,United States,"Rockville, MD",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,2.6
+748,Apex Technology Group,3.6,United States,"New York, NY",501 to 1000 employees, Unknown / Non-Applicable,0,1,NA
+749,Tellabs,3.5,"18583 North Dallas Parkway, Suite 200 ","Reston, VA",501 to 1000 employees, $1 to $2 billion (USD) per year,0,0,2.8
+750,Param Consulting Services,3.6,"200 Middlesex Tpke # 110 Iselin, New Jersey, 08830-2033, United States",NA,NA,NA,NA,NA,3
+751,INDUS,3.6,United States,"Iselin, NJ",201 to 500 employees, $10 to $25 million (USD) per year,0,0,2.6
+752,WhiteHat Security,3.6,"['TX', 'CA', 'CA', 'CA']","Arlington, VA",201 to 500 employees, $50 to $100 million (USD) per year,0,1,2.9
+753,Anblicks,3.6,United States,NA,NA,NA,NA,NA,NA
+754,Mitratech,3.6,"5001 Plaza On The Lake, Suite 111 ","Dallas, TX",51 to 200 employees, $50 to $100 million (USD) per year,0,1,2.6
+755,Marchex,3.7,"['NY', 'WA']","Iselin, NJ",201 to 500 employees, $10 to $25 million (USD) per year,0,0,2.9
+756,Supreme Soft,3.6,United States,"Arlington, VA",201 to 500 employees, $50 to $100 million (USD) per year,0,1,NA
+757,Bite Squad,3.6,"['WA', 'FL', 'TN', 'FL', 'AR', 'WI', 'FL', 'HI', 'HI', 'FL', 'HI', 'HI', 'AR', 'FL', 'TN', 'MN', 'MN', 'FL', 'FL', 'WA', 'MS', 'FL', 'FL', 'FL', 'WI']","San Jose, CA",201 to 500 employees, $50 to $100 million (USD) per year,1,1,1.5
+758,Shift,3.7,"['VA', 'CA', 'CA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,2.4
+759,Seal Consulting,3.6,United States,"Austin, TX",201 to 500 employees, $100 to $500 million (USD) per year,0,1,NA
+760,Spartan Solutions,3.6,United States,"Seattle, WA",201 to 500 employees, $100 to $500 million (USD) per year,0,1,NA
+761,Seal Consulting,3.6,United States,NA,NA,NA,NA,NA,NA
+762,Spireon,3.6,"['GA', 'TX', 'IA', 'CA', 'TX', 'TN', 'AZ']","Minneapolis, MN",201 to 500 employees, Unknown / Non-Applicable,0,0,2.3
+763,Tanisha Systems,3.5,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,NA
+764,Smart Source Technologies,3.6,United States,NA,NA,NA,NA,NA,NA
+765,Business Intelligence Associates,3.6,United States,"Glasgow, Scotland (UK)",1 to 50 employees, Less than $1 million (USD) per year,0,0,NA
+766,Booker,3.6,"['CA', 'NY', 'AZ', 'AZ', 'AZ']",NA,NA,NA,NA,NA,2.6
+767,Prelude Systems,3.7,"['CA', 'CA']",NA,NA,NA,NA,NA,NA
+768,First Object,3.6,United States,"Irvine, CA",201 to 500 employees, $100 to $500 million (USD) per year,0,1,NA
+769,Lucasfilm,3.5,"['CA', 'CA', 'CA']",NA,NA,NA,NA,NA,2.6
+770,uShip,3.6,205 E Riverside Drive ,NA,NA,NA,NA,NA,2.4
+771,Lucasfilm,3.5,"['CA', 'CA', 'CA']",NA,NA,NA,NA,NA,2.6
+772,Listrak,3.6,"['PA', 'PA', 'CA', 'PA']","New York, NY",201 to 500 employees, $25 to $50 million (USD) per year,0,1,3
+773,Cogo Labs,3.6,United States,NA,NA,NA,NA,NA,2.8
+774,Isoftech,3.5,['VA'],NA,NA,NA,NA,NA,NA
+775,Snap! Raise,3.5,"['TX', 'OR', 'WA']","San Francisco, CA",501 to 1000 employees, $50 to $100 million (USD) per year,0,0,2.2
+776,Aurionpro Solutions,3.5,"4000 Executive Pkwy # 250 San Ramon, California, 94583-4257, United States","Austin, TX",201 to 500 employees, Unknown / Non-Applicable,0,1,2.8
+777,Tellabs,3.5,"18583 North Dallas Parkway, Suite 200 ","San Francisco, CA",501 to 1000 employees, $50 to $100 million (USD) per year,0,0,2.8
+778,Fortune Technology,3.5,United States,"Lititz, PA",201 to 500 employees, $50 to $100 million (USD) per year,0,1,NA
+779,Bluebeam,3.5,"['TX', 'CA', 'CA']","Cambridge, MA",51 to 200 employees, Unknown / Non-Applicable,0,0,3.3
+780,Google,4.4,"['CA', 'MI', 'TX', 'CA', 'CA', 'MA', 'IL', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA', 'CA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,3.3
+781,Microsoft,4.3,"['WA', 'WA', 'WA', 'MA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'CA', 'NC', 'WA', 'WA', 'WA', 'CA', 'CA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'WA']","Seattle, WA",201 to 500 employees, Unknown / Non-Applicable,0,1,3.1
+782,Cisco Systems,4.2,"['NC', 'CA', 'CA', 'NC', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']",Mumbai (India),501 to 1000 employees, $1 to $2 billion (USD) per year,0,1,3
+783,Intel Corporation,4.1,"['OR', 'OR', 'CA', 'AZ', 'CA', 'CA', 'AZ', 'Mexico', 'OR', 'AZ', 'CA', 'CA', 'OR', 'CA', 'AZ', 'OR', 'AZ', 'NM', 'CA', 'CA', 'Costa Rica', 'CA', 'AZ', 'CA', 'AZ']","Dallas, TX",51 to 200 employees, $50 to $100 million (USD) per year,0,1,3
+784,Apple,4.1,"['TX', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'TX', 'CA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,3
+785,Amazon,3.9,"['WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'VA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA']","Pasadena, CA",201 to 500 employees, $100 to $500 million (USD) per year,0,1,3
+786,IBM,3.8,"['VA', 'VA', 'VA', 'MD', 'VA', 'VA', 'VA', 'VA', 'MD', 'MD', 'MD', 'VA', 'MD', 'VA', 'VA', 'MD', 'NY', 'NC', 'VA', 'MD', 'MD', 'VA', 'VA', 'DC', 'VA']","Mountain View, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.8
+787,Tata Consultancy Services,3.7,"['GA', 'NJ', 'IL', 'NJ', 'NY', 'NC', 'IL', 'OH', 'OH', 'NJ', 'NJ', 'NJ', 'TX', 'FL', 'NJ', 'NJ', 'NJ', 'MN', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NJ', 'AZ', 'NJ', 'NJ', 'TX', 'CA', 'IL', 'NJ', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ']","Redmond, WA",10000+ employees, $10+ billion (USD) per year,1,1,2.7
+788,Infosys,3.1,"['NY', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'MS', 'PA', 'TN', 'TX', 'NJ', 'NY', 'NY', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'CA', 'NY']","San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.6
+789,Wipro,2.9,"['GA', 'MA', 'OH', 'CA', 'OH', 'TX', 'TX', 'CA', 'MN', 'CA', 'NY', 'CA', 'MA', 'MN', 'VA', 'CA', 'CA', 'CA', 'CA', 'CA']","Santa Clara, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.8
+790,Flexential,3.4,"['NC', 'MN', 'CO', 'FL']","Cupertino, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+791,Frontline Consulting Services,3.5,United States,"Seattle, WA",10000+ employees, $10+ billion (USD) per year,1,1,NA
+792,Virgo,3.5,United States,"Armonk, NY",10000+ employees, $10+ billion (USD) per year,0,1,NA
+793,Apptio,3.5,"['WA', 'NC', 'NC', 'WA']",Mumbai (India),10000+ employees, $10+ billion (USD) per year,1,1,2.9
+794,Trustpilot,3.5,"['CO', 'NY']",Bengaluru (India),10000+ employees, $10+ billion (USD) per year,1,1,2.7
+795,LogRhythm,3.6,United States,Bengaluru (India),10000+ employees, $5 to $10 billion (USD) per year,1,1,3.1
+796,TierPoint,3.5,"['NE', 'PA', 'NY', 'OK', 'PA', 'NC', 'MO']","Charlotte, NC",501 to 1000 employees, Unknown / Non-Applicable,0,0,2.5
+797,Chronicle (CA),5.0,"['CO', 'IL', 'CA', 'NC']",NA,NA,NA,NA,NA,3.3
+798,Inpetro Technologies,4.9,United States,NA,NA,NA,NA,NA,2.3
+799,Hermes i Ticket,4.9,United States,"Bellevue, WA",501 to 1000 employees, Unknown / Non-Applicable,0,1,NA
+800,Databricks,4.8,"['MA', 'VA', 'NY', 'TX', 'CA', 'AZ', 'WA', 'CA', 'Canada']",Copenhagen (Denmark),501 to 1000 employees, Unknown / Non-Applicable,0,1,3.2
+801,Aptris,4.6,75 Tri State International ,"Boulder, CO",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,3
+802,KMS Technology,4.6,1776 Peachtree St NW #200N ,"Saint Louis, MO",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,2.8
+803,Axis Communications,4.9,"['VA', 'MA', 'IL', 'FL', 'CA', 'TX', 'Canada', 'NY']","Mountain View, CA",Unknown, Unknown / Non-Applicable,0,0,2.9
+804,Slalom Build,4.6,United States,"Houston, TX",1001 to 5000 employees, $50 to $100 million (USD) per year,0,0,NA
+805,Cloud Sherpas,4.4,"['GA', 'MA', 'NY']",NA,NA,NA,NA,NA,3
+806,OutSystems,4.4,"['GA', 'MA']","San Francisco, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,3.2
+807,Yandex,4.4,United States,"Lincolnshire, IL",5001 to 10000 employees, $10+ billion (USD) per year,0,1,3.2
+808,Medical Science & Computing,4.4,"['MD', 'MD']","Atlanta, GA",1001 to 5000 employees, $25 to $50 million (USD) per year,0,1,3
+809,Etas,4.4,United States,"Chelmsford, MA",201 to 500 employees, Unknown / Non-Applicable,0,1,2.7
+810,Penske Media,4.4,"['CA', 'NY', 'CA']",NA,NA,NA,NA,NA,2.7
+811,OutSystems,4.4,"['GA', 'MA']","Atlanta, GA",1001 to 5000 employees, $100 to $500 million (USD) per year,1,1,3.2
+812,IFS,4.4,"['WI', 'IL', 'Canada', 'IL', 'AZ']","Boston, MA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.7
+813,Medical Science & Computing,4.4,"['MD', 'MD']",Moscow (Russia),5001 to 10000 employees, $10+ billion (USD) per year,0,0,3
+814,CI&T,4.3,"['PA', 'NY', 'CA', 'NJ', 'Canada']","Rockville, MD",1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.8
+815,Mellanox,4.4,United States,Stuttgart (Germany),1001 to 5000 employees, $50 to $100 million (USD) per year,0,0,3.1
+816,CyberArk,4.4,"['MA', 'MA']","Los Angeles, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,0,3
+817,National Information Solutions Cooperative,4.2,"['IA', 'MO', 'MO', 'ND']","Boston, MA",501 to 1000 employees, $100 to $500 million (USD) per year,0,1,2.9
+818,Systems Limited,4.2,United States,Linköping (Sweden),1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.7
+819,MHP - A Porsche Company,4.3,One Porsche Drive ,"Rockville, MD",1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.7
+820,Pantheon (Virginia),4.2,"['TX', 'VA']","Campinas, São Paulo (Brazil)",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+821,Directi,4.2,United States,"Sunnyvale, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,0,3.3
+822,Thomson Professional And Regulatory,4.2,United States,"Newton Center, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2
+823,Systems Limited,4.2,United States,"Lake Saint Louis, MO",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.7
+824,BairesDev,4.2,"['CA', 'Mexico', 'NY', 'MA', 'VA', 'NY', 'CA', 'Canada']",Lahore (Pakistan),1001 to 5000 employees, Unknown / Non-Applicable,0,1,3
+825,Trigent Software,4.2,"2 Willow Street, Suite #201, Southborough, MA - 01745, USA +1 (508) 490-6000 ","Ludwigsburg, Baden-Württemberg (Germany)",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.6
+826,Icertis,4.2,United States,"Reston, VA",1001 to 5000 employees, $50 to $100 million (USD) per year,0,0,3
+827,National Information Solutions Cooperative,4.2,"['IA', 'MO', 'MO', 'ND']",Mumbai (India),1001 to 5000 employees, $1 to $2 billion (USD) per year,0,0,2.9
+828,Next Level Business Services,4.2,"['GA', 'Canada', 'CO', 'NJ', 'FL', 'GA', 'NY', 'AZ', 'NJ', 'CA', 'CA']","New York, NY",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,0,2.5
+829,Geotab,4.2,"['Mexico', 'Canada', 'NV', 'Canada', 'Canada']",Lahore (Pakistan),1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.7
+830,ByteDance,4.0,"['WA', 'CA', 'CA']",Buenos Aires (Argentina),1001 to 5000 employees, $50 to $100 million (USD) per year,0,1,2.7
+831,Snowflake,4.0,"['GA', 'WA', 'MA', 'IL', 'CO', 'CA', 'TX', 'VA', 'NY', 'PA', 'CA', 'Canada']","Boston, MA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,3
+832,Hitachi Solutions,4.0,"['Canada', 'IL', 'TN', 'CA', 'PA', 'Canada']","Bellevue, WA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,NA
+833,Zomato,4.0,"NexTable, Inc. (c/o Justin Doshi) 601 S. Cedar Street, Suite 111, Charlotte, NC 28202, USA ","Lake Saint Louis, MO",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+834,Numerator,4.0,"['GA', 'IL', 'Canada', 'NY', 'Canada', 'CA', 'OH']","Alpharetta, GA",5001 to 10000 employees, $100 to $500 million (USD) per year,0,0,2.8
+835,OSI Digital,4.0,"['GA', 'MA', 'Canada', 'IL', 'TX', 'CA', 'CA', 'NY', 'PA', 'CA', 'WA', 'CA']","Oakville, ON (Canada)",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,NA
+836,Alphabet,4.0,United States,"Beijing, Beijing (China)",10000+ employees, Unknown / Non-Applicable,0,1,NA
+837,Keyrus,4.0,252 W 37th St 14th Floor ,"San Mateo, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.4
+838,Lightspeed,4.0,United States,NA,NA,NA,NA,NA,2.9
+839,Acronis,3.9,"['MA', 'MA', 'AZ', 'MA']","Gurgaon, Haryana (India)",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.8
+840,Pramati Technologies,3.9,"1975, W. El Camino Real, Suite 301 ","Chicago, IL",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,3
+841,Alibaba Group,4.0,"['CA', 'WA']",NA,NA,NA,NA,NA,NA
+842,Saksoft,3.9,United States,NA,NA,NA,NA,NA,NA
+843,Spoken Communications,3.9,United States,Levallois-Perret (France),1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+844,Swisscom,3.9,United States,"Montreal, QC (Canada)",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.7
+845,BJSS,3.9,United States,Schaffhausen (Switzerland),1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,NA
+846,Skype,3.9,United States,Hyderabad (India),1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.8
+847,Global Edge Software,3.9,"1635A, South Main Street ",NA,NA,NA,NA,NA,3.1
+848,Blue Prism,3.9,"['TX', 'NY']",NA,NA,NA,NA,NA,2.9
+849,ThoughtFocus,3.9,"['GA', 'TX', 'NJ', 'CA', 'WI', 'NY']","Seattle, WA",5001 to 10000 employees, Unknown / Non-Applicable,0,1,3.1
+850,SoftwareONE,3.9,"['IL', 'TX', 'WI', 'NY', 'WI']",Bern-Worblaufen (Switzerland),10000+ employees, $10+ billion (USD) per year,0,1,2.9
+851,GFT Technologies,3.9,"['MA', 'Mexico', 'Costa Rica', 'NY', 'Canada']",NA,NA,NA,NA,NA,2.5
+852,Accion Labs,3.9,"1121 Boyce Rd Ste 1400 Pittsburgh, Pennsylvania, 15241-3935, United States","Redmond, WA",1001 to 5000 employees, $2 to $5 billion (USD) per year,0,0,2.7
+853,Grid Dynamics,3.9,"['CA', 'CA', 'CA']",Bengaluru (India),1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.9
+854,Nagarro,3.9,"['GA', 'MA', 'IL', 'FL', 'NY', 'CA', 'CA', 'Canada']","Warrington, North West England, England (UK)",1001 to 5000 employees, $50 to $100 million (USD) per year,0,0,3.2
+855,Samasource,3.9,2017 Mission St Ste 301 ,"Brookfield, WI",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.8
+856,Datalogic,3.9,"['MN', 'OR', 'SC', 'CA', 'PA']",Stans (Switzerland),1001 to 5000 employees, $5 to $10 billion (USD) per year,0,1,2.8
+857,SAP Business Objects,3.9,United States,Stuttgart (Germany),1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+858,ESET,3.8,610 W Ash St Ste 1700 ,"Pittsburgh, PA",1001 to 5000 employees, $5 to $10 million (USD) per year,0,1,3.1
+859,ABBYY,3.8,United States,"San Ramon, CA",1001 to 5000 employees, $50 to $100 million (USD) per year,0,1,2.7
+860,Cohesity,3.8,"['NC', 'CA', 'CA', 'Canada', 'DC']","Munich, Bayern (Germany)",5001 to 10000 employees, $100 to $500 million (USD) per year,0,0,3
+861,TomTom,3.8,United States,"San Francisco, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.9
+862,Acer America,3.8,"['CA', 'TX']",Bologna (Italy),1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,3.2
+863,NEORIS,3.8,"['NC', 'Mexico', 'Mexico', 'TX', 'Mexico', 'FL', 'Mexico', 'NC', 'TX', 'Mexico']",Levallois-Perret (France),10000+ employees, Unknown / Non-Applicable per year,0,0,2.7
+864,Automation Anywhere,3.6,"['GA', 'TX', 'NY', 'CA']",Bratislava (Slovakia),1001 to 5000 employees, $50 to $100 million (USD) per year,0,1,2.9
+865,Duck Creek Technologies,3.8,"['MO', 'MA', 'IL', 'SC', 'CT', 'NY', 'NH', 'NJ']",Moscow (Russia),1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.6
+866,Zurich Insurance,3.8,"['IL', 'TX', 'TX', 'KS', 'IL', 'Canada']","San Jose, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.9
+867,EMR CPR,3.8,"['CA', 'CA', 'CA']",Amsterdam (Netherlands),5001 to 10000 employees, $500 million to $1 billion (USD) per year,0,0,1
+868,Softtek,3.8,United States,"San Jose, CA",5001 to 10000 employees, Unknown / Non-Applicable,0,0,2.7
+869,NetEase.com,3.8,United States,"Miami, FL",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.7
+870,Elektrobit,3.8,"['WA', 'MI', 'CA']","San Jose, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.8
+871,IBS Software,3.8,"900 Circle 75 Parkway, Suite 550   ","Boston, MA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,NA
+872,Grab,3.8,"['WA', 'WA']",Zürich (Switzerland),10000+ employees, $10+ billion (USD) per year,0,1,2.9
+873,Samsung Strategy and Innovation Center,3.8,2440 Sand Hill Rd ,"San Jose, CA",1001 to 5000 employees, $10 to $25 million (USD) per year,0,1, 3.0
+874,Gett,3.8,United States,"Monterrey, Nuevo León (Mexico)",10000+ employees, Unknown / Non-Applicable,0,0,3.2
+875,SE2,3.8,"['NJ', 'TX', 'NE', 'KS']","Beijing, Beijing (China)",5001 to 10000 employees, $1 to $2 billion (USD) per year,0,0,2.5
+876,everis,3.7,"['AL', 'MA', 'Mexico', 'CT', 'Mexico', 'DC']",Erlangen (Germany),1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.5
+877,Neusoft,3.8,United States,NA,NA,NA,NA,NA,2.5
+878,SRM Technologies,3.7,United States,Singapore (Singapore),1001 to 5000 employees, Unknown / Non-Applicable,0,1,NA
+879,MSC Software,3.7,"['MI', 'CA', 'CA', 'CA', 'CA']","Menlo Park, CA",201 to 500 employees, Unknown / Non-Applicable,0,0,2.7
+880,trivago,3.8,United States,"New York, NY",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,NA
+881,MSC Software,3.7,"['MI', 'CA', 'CA', 'CA', 'CA']","Topeka, KS",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.7
+882,UrbanSitter,3.8,"['IL', 'CA', 'OR', 'CA']",Madrid (Spain),10000+ employees, $1 to $2 billion (USD) per year,0,0,2.4
+883,Reply,3.7,"['MI', 'IL', 'IL', 'MO', 'MO', 'WA']","Shenyang, Zhejiang (China)",10000+ employees, $5 to $10 billion (USD) per year,0,0,NA
+884,Ergon,3.7,United States,NA,NA,NA,NA,NA,2.5
+885,Avast Software,3.7,"['CA', 'CA']","Newport Beach, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.7
+886,Talan,3.7,United States,NA,NA,NA,NA,NA,2.7
+887,Tata Elxsi,3.7,United States,"Newport Beach, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+888,Columbus,3.7,United States,"San Francisco, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.6
+889,Lumentum Operations,3.7,"['CA', 'CA']",NA,NA,NA,NA,NA,2.5
+890,Ramco Systems,3.7,United States,"Jackson, MS",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.6
+891,Oasis Systems,3.7,"['MA', 'MA', 'MA', 'MA', 'MD']",Prague (Czech Republic),1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1, 1.8
+892,eMids Technologies,3.7,"['TN', 'NY']",Paris (France),1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+893,Bitdefender,3.7,"['FL', 'CA']",Bengaluru (India),1001 to 5000 employees, $10+ billion (USD) per year,0,0,3.1
+894,T-Systems,3.7,United States,Ballerup (Denmark),1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.8
+895,Impetus Technologies,3.7,"['TX', 'CA', 'NY']","Milpitas, CA",1001 to 5000 employees, $1 to $2 billion (USD) per year,0,0,3.2
+896,Information Services Group,4.4,2187 Atlantic Street ,Chennai (India),5001 to 10000 employees, $2 to $5 billion (USD) per year,0,1, 2.8
+897,Synamedia,3.7,"['MA', 'CA', 'GA', 'UT', 'Canada']","Burlington, MA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.8
+898,DigiCert,3.7,United States,"Nashville, TN",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,3
+899,PowerObjects,3.7,"718 Washington Avenue North, Suite 101 ",Bucharest (Romania),1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.8
+900,Marco,3.7,"['MN', 'PA', 'MN', 'NE', 'MN', 'MN']",Frankfurt am Main (Germany),10000+ employees, $5 to $10 billion (USD) per year,0,0,2.5
+901,ZT Systems,3.7,"['NJ', 'NJ']","Los Gatos, CA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.8
+902,3Com,3.7,"['MA', 'CA']","Stamford, CT",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+903,Techedge,3.7,United States,"Staines, England (UK)",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.7
+904,Park Place Technologies,3.7,"['OH', 'OH', 'MA', 'OH', 'OH', 'OH']","Lehi, UT",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.7
+905,Farfetch,3.7,"['CA', 'NY']","Minneapolis, MN",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+906,Logica,3.6,United States,"Saint Cloud, MN",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+907,Caresoft Global,3.7,United States,"Secaucus, NJ",1001 to 5000 employees, $2 to $5 billion (USD) per year,0,0,NA
+908,LINE,3.7,United States,"Marlborough, MA",5001 to 10000 employees, $1 to $2 billion (USD) per year,0,0,3
+909,Sapiens,3.6,"['FL', 'NC', 'IA', 'OH', 'CO', 'MT', 'NJ', 'Canada', 'FL', 'IL']",Milan (Italy),1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.8
+910,Sapiens,3.6,"['FL', 'NC', 'IA', 'OH', 'CO', 'MT', 'NJ', 'Canada', 'FL', 'IL']","Mayfield Heights, Cuyahoga, OH",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.8
+911,Playtika,3.6,United States,"London, England (UK)",1001 to 5000 employees, Unknown / Non-Applicable,0,1,2.9
+912,Gympass,3.6,"['Mexico', 'TX', 'CA', 'NY']","Montreal, QC (Canada)",10000+ employees, $10+ billion (USD) per year,0,0,2.7
+913,Shopee,3.6,United States,NA,NA,NA,NA,NA,2.8
+914,Unit4,3.6,"['MA', 'MA', 'MO', 'Canada']",Tokyo (Japan),1001 to 5000 employees, $10+ billion (USD) per year,0,1,2.9
+915,CSR (UK),3.6,"['MI', 'CA', 'AZ']",Holon (Israel),1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.9
+916,Nityo Infotech,3.6,United States,Holon (Israel),1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,NA
+917,Nous Infosystems,3.6,"['NJ', 'NJ', 'NY']",Herzliya (Israel),1001 to 5000 employees, Unknown / Non-Applicable,0,0,2.9
+918,in-tech,3.6,"['SC', 'CA']","New York, NY",501 to 1000 employees, Unknown / Non-Applicable,0,1,2
+919,The Knot Worldwide,3.6,"['TX', 'MD', 'NY', 'CT', 'NE']",Singapore (Singapore),5001 to 10000 employees, Unknown / Non-Applicable,0,0,2.8
+920,Sitecore,3.6,"['TX', 'Canada', 'NH', 'CA', 'Canada', 'TX', 'CA', 'CA']",Utrecht (Netherlands),1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,1,2.9
+921,EVRY India,3.6,United States,"Cambridge, Gloucestershire, South West England, England (UK)",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,0,NA
+922,VDart,3.6,"['GA', 'GA', 'IL', 'TX', 'TX', 'MI', 'NY', 'TX', 'WA']",NA,NA,NA,NA,NA,2.6
+923,FPT Software,3.6,"['CA', 'CO', 'MI', 'CA', 'WA', 'TX']","Edison, NJ",1001 to 5000 employees, $25 to $50 million (USD) per year,0,1,2.7
+924,Abacus Technology,3.6,"['MA', 'FL', 'MD', 'MA', 'FL', 'MA', 'TX', 'VA']","Munich, Bayern (Germany)",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.6
+925,RAD data communications,3.6,United States,"Chevy Chase, MD",1001 to 5000 employees, Unknown / Non-Applicable,0,0,NA
+926,FUJIFILM North America,3.6,"['SC', 'NY']","San Francisco, CA",501 to 1000 employees, $50 to $100 million (USD) per year,0,0,2.4
+927,AVEVA,3.6,"['Canada', 'TX', 'CA', 'PA']",NA,NA,NA,NA,NA,2.9
+928,Tesco Bengaluru,3.6,United States,"Alpharetta, GA",1001 to 5000 employees, $50 to $100 million (USD) per year,0,1,2.9
+929,Sophos,3.6,"['MA', 'MA', 'Canada', 'Canada']",Hanoi (Vietnam),10000+ employees, $500 million to $1 billion (USD) per year,0,1,2.8
+930,Vistex,3.6,"['IL', 'Mexico', 'Canada', 'IL', 'WA', 'CA', 'WA']","Chevy Chase, MD",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,3.1
+931,Basware,3.6,United States,NA,NA,NA,NA,NA, 3.2
+932,Sonata Software,3.6,United States,"Valhalla, NY",1001 to 5000 employees, $500 million to $1 billion (USD) per year,0,0,2.9
+933,Altran Group,3.5,United States,"Cambridge, England (UK)",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.7
+934,Indra,3.5,United States,Bengaluru (India),5001 to 10000 employees, Unknown / Non-Applicable,0,1,2.6
+935,Constellation Software,3.5,United States,"Abingdon, England (UK)",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3.5
+936,HCL Infosystems,3.5,United States,"Hoffman Estates, IL",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,3
+937,Long View Systems,3.5,"['CO', 'TX']",Espoo (Finland),1001 to 5000 employees, $100 to $500 million (USD) per year,0,0, 2.7
+938,INX,3.5,United States,Bengaluru (India),1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.5
+939,Global Crossing,3.5,"['AZ', 'NY', 'MI']",Paris (France),10000+ employees, $2 to $5 billion (USD) per year,0,1,2.7
+940,Hemmersbach,3.5,"['TX', 'FL']",Madrid (Spain),10000+ employees, $2 to $5 billion (USD) per year,0,0,2.1
+941,Zalando,3.5,United States,"Toronto, ON (Canada)",5001 to 10000 employees, $1 to $2 billion (USD) per year,0,0,2.8
+942,Giesecke & Devrient,3.5,"['VA', 'Canada', 'Canada', 'OH']",Noida (India),5001 to 10000 employees, $5 to $10 million (USD) per year,0,0,2.7
+943,Navico,3.5,"['Mexico', 'NH', 'OK']","Calgary, AB (Canada)",1001 to 5000 employees, $50 to $100 million (USD) per year,0,1,2.3
+944,Servion Global Solutions,3.5,United States,"New York, NY",1001 to 5000 employees, $2 to $5 billion (USD) per year,0,0,NA
+945,Genius Sports Group,3.5,"['NY', 'DC']",Hamilton (Bermuda),5001 to 10000 employees, $2 to $5 billion (USD) per year,0,0,NA
+946,Signant Health,3.5,"['VA', 'PA', 'MA', 'PA', 'CA', 'CA']",Nuremberg (Germany),1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.6
+947,DataArt,4.7,United States,Berlin (Germany),10000+ employees, $5 to $10 million (USD) per year,0,1,3.1
+948,iFixit,4.2,United States,"Munich, Bayern (Germany)",10000+ employees, $2 to $5 billion (USD) per year,0,0,NA
+949,SINA,4.0,United States,Lysaker (Norway),1001 to 5000 employees, Unknown / Non-Applicable per year,0,0,2.4
+950,Trigyn Technologies,3.9,"['NJ', 'NY']",NA,NA,NA,NA,NA,NA
+951,Omniture,3.8,"['UT', 'CA']",NA,NA,NA,NA,NA,3.1
+952,Insigma Technology Company,3.8,United States,"Blue Bell, PA",1001 to 5000 employees, Unknown / Non-Applicable,0,1,NA
+953,V2soft,3.8,"['MI', 'MI', 'MI', 'MI', 'MI']","New York, NY",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,2.3
+954,NetSol Technologies,3.8,United States,NA,NA,NA,NA,NA,NA
+955,Artesyn Embedded Technologies,3.8,United States,"Beijing, Beijing (China)",501 to 1000 employees, $100 to $500 million (USD) per year,0,0,NA
+956,BroadSoft,3.7,United States,NA,NA,NA,NA,NA,3
+957,Thirdware Solution,3.7,"['MI', 'MI']","Orem, UT",1001 to 5000 employees, $50 to $100 million (USD) per year,0,0,NA
+958,NDS,3.7,"3500 Hyland Ave Costa Mesa, California, 92626-1469, United States",NA,NA,NA,NA,NA,3.3
+959,SMART Modular,3.7,"['CA', 'CA']","Bloomfield Hills, MI",501 to 1000 employees, $25 to $50 million (USD) per year,0,0,2.3
+960,NYTimes.com,3.7,United States,NA,NA,NA,NA,NA,NA
+961,Hypercom,3.6,United States,NA,NA,NA,NA,NA,3
+962,Kontron,3.6,"['Canada', 'Canada', 'CA', 'CA']","Gaithersburg, MD",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,2.8
+963,Hotels.com,3.6,"['TX', 'TX', 'MO']",NA,NA,NA,NA,NA, 3.2
+964,Rick's Cabaret,3.6,United States,"Feltham, South West England, England (UK)",1001 to 5000 employees, $10 to $25 million (USD) per year,0,0,3
+965,Polaroid,3.5,United States,"Newark, CA",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,1
+966,1&1 IONOS,3.5,"['PA', 'KS', 'PA']","Daytona Beach, FL",1001 to 5000 employees, $50 to $100 million (USD) per year,0,1,2.8
+967,Dhansol Software Solutions,5.0,United States,NA,NA,NA,NA,NA,NA
+968,U.S. Interactive,5.0,United States,"Scottsdale, AZ",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,NA
+969,Networld Online,5.0,United States,"Augsburg, Bayern (Germany)",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,NA
+970,My Tech US,5.0,United States,"Dallas, TX",Unknown, Unknown / Non-Applicable,0,1,NA
+971,Softcom,5.0,United States,"Houston, TX",1001 to 5000 employees, $100 to $500 million (USD) per year,0,1,NA
+972,TVS International,5.0,United States,"Minnetonka, MN",1001 to 5000 employees, $100 to $500 million (USD) per year,0,0,NA
+973,Flow Science,5.0,United States,Montabaur (Germany),Unknown, Unknown / Non-Applicable,0,0,NA
+974,iBusiness Solution,5.0,United States,NA,NA,NA,NA,NA,NA
+975,Nexabyte Consulting Group,5.0,United States,"Sunnyvale, CA",51 to 200 employees, $10 to $25 million (USD) per year,0,0,NA
+976,Spiretech,5.0,United States,NA,NA,NA,NA,NA,NA
+977,Noblesoft Technologies Inc.,5.0,United States,NA,NA,NA,NA,NA,NA
+978,Inspiron,5.0,United States,"Marlborough, MA",1 to 50 employees, $1 to $5 million (USD) per year,0,0,NA
+979,Rite Software Solutions & Services,5.0,United States,NA,NA,NA,NA,NA,NA
+980,Tigera,5.0,"['CA', 'CA']",NA,NA,NA,NA,NA,NA
+981,dv01,5.0,915 Broadway ,NA,NA,NA,NA,NA, 2.7
+982,Cytracom,5.0,450 Century Parkway ,NA,NA,NA,NA,NA,2.7
+983,Buoy Health,5.0,United States,NA,NA,NA,NA,NA,3
+984,Cloud Theory,5.0,United States,NA,NA,NA,NA,NA,3
+985,Koddi,5.0,"['MI', 'TX', 'TX', 'NY', 'CA', 'CA']",NA,NA,NA,NA,NA,2.9
+986,Table XI,5.0,United States,"Irving, TX",1 to 50 employees, $1 to $5 million (USD) per year,0,0,3
+987,CRM Science,5.0,"860 1st Ave, Suite 2 ",NA,NA,NA,NA,NA,3
+988,Gladly,5.0,"['MA', 'CA']",NA,NA,NA,NA,NA,3
+989,Network & Security Technologies,5.0,161 North Middletown Road ,NA,NA,NA,NA,NA,1
+990,Gallery Systems,5.0,United States,NA,NA,NA,NA,NA,NA
+991,ObjectVideo Labs,5.0,United States,"New York, NY",1 to 50 employees, Unknown / Non-Applicable,0,0,1.7
+992,Saram Solutions,5.0,United States,"Allen, TX",1 to 50 employees, Unknown / Non-Applicable,0,1,NA
+993,Kourage,5.0,United States,"Boston, MA",1 to 50 employees, Less than $1 million (USD) per year,0,1,NA
+994,XLsoft,5.0,United States,"New York, NY",1 to 50 employees, Unknown / Non-Applicable,0,0,NA
+995,Sav-On Software,5.0,United States,"Fort Worth, TX",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+996,TellApart,5.0,United States,"Chicago, IL",1 to 50 employees, $5 to $10 million (USD) per year,0,0,3.2
+997,American Information Technology Solutions,5.0,United States,"King of Prussia, PA",1 to 50 employees, Unknown / Non-Applicable,0,1,NA
+998,OpenPages,5.0,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+999,Coventor,5.0,"['NC', 'NC', 'CA', 'MA']","Pearl River, NY",1 to 50 employees, $5 to $10 million (USD) per year,0,1,2.1
+1000,Technisar,5.0,United States,NA,NA,NA,NA,NA,NA
+1001,VamDam Technologies,5.0,United States,"Tysons, VA",1 to 50 employees, $10 to $25 million (USD) per year,0,0,NA
+1002,eTechnosoft,5.0,United States,NA,NA,NA,NA,NA,NA
+1003,Sapot Systems,5.0,United States,NA,NA,NA,NA,NA,NA
+1004,Clovis Team,5.0,United States,NA,NA,NA,NA,NA,NA
+1005,Sapid,5.0,United States,NA,NA,NA,NA,NA,NA
+1006,infowaretech,5.0,United States,"San Francisco, CA",51 to 200 employees, $100 to $500 million (USD) per year,0,0,NA
+1007,Nartal Systems,5.0,United States,"Rockville, MD",Unknown, Unknown / Non-Applicable per year,0,0,NA
+1008,Xpert Technologies,5.0,United States,NA,NA,NA,NA,NA,NA
+1009,MQR Technologies,5.0,United States,"Waltham, MA",51 to 200 employees, Unknown / Non-Applicable per year,0,0,NA
+1010,Google,4.4,"['CA', 'MI', 'TX', 'CA', 'CA', 'MA', 'IL', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA', 'CA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,3.3
+1011,Microsoft,4.3,"['WA', 'WA', 'WA', 'MA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'CA', 'NC', 'WA', 'WA', 'WA', 'CA', 'CA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'WA']","Raleigh, NC",51 to 200 employees, $5 to $10 million (USD) per year,0,1, 3.1
+1012,Cisco Systems,4.2,"['NC', 'CA', 'CA', 'NC', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,3
+1013,Intel Corporation,4.1,"['OR', 'OR', 'CA', 'AZ', 'CA', 'CA', 'AZ', 'Mexico', 'OR', 'AZ', 'CA', 'CA', 'OR', 'CA', 'AZ', 'OR', 'AZ', 'NM', 'CA', 'CA', 'Costa Rica', 'CA', 'AZ', 'CA', 'AZ']",NA,NA,NA,NA,NA,3
+1014,Apple,4.1,"['TX', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'TX', 'CA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,3
+1015,Amazon,3.9,"['WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'VA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA']",NA,NA,NA,NA,NA,3
+1016,IBM,3.8,"['VA', 'VA', 'VA', 'MD', 'VA', 'VA', 'VA', 'VA', 'MD', 'MD', 'MD', 'VA', 'MD', 'VA', 'VA', 'MD', 'NY', 'NC', 'VA', 'MD', 'MD', 'VA', 'VA', 'DC', 'VA']",NA,NA,NA,NA,NA,2.8
+1017,Tata Consultancy Services,3.7,"['GA', 'NJ', 'IL', 'NJ', 'NY', 'NC', 'IL', 'OH', 'OH', 'NJ', 'NJ', 'NJ', 'TX', 'FL', 'NJ', 'NJ', 'NJ', 'MN', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NJ', 'AZ', 'NJ', 'NJ', 'TX', 'CA', 'IL', 'NJ', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ']",NA,NA,NA,NA,NA,2.7
+1018,Infosys,3.1,"['NY', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'MS', 'PA', 'TN', 'TX', 'NJ', 'NY', 'NY', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'CA', 'NY']",NA,NA,NA,NA,NA,2.6
+1019,Wipro,2.9,"['GA', 'MA', 'OH', 'CA', 'OH', 'TX', 'TX', 'CA', 'MN', 'CA', 'NY', 'CA', 'MA', 'MN', 'VA', 'CA', 'CA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,2.8
+1020,Google,4.4,"['CA', 'MI', 'TX', 'CA', 'CA', 'MA', 'IL', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA', 'CA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,3.3
+1021,Microsoft,4.3,"['WA', 'WA', 'WA', 'MA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'CA', 'NC', 'WA', 'WA', 'WA', 'CA', 'CA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'WA']",NA,NA,NA,NA,NA,3.1
+1022,Cisco Systems,4.2,"['NC', 'CA', 'CA', 'NC', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']","Mountain View, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+1023,Intel Corporation,4.1,"['OR', 'OR', 'CA', 'AZ', 'CA', 'CA', 'AZ', 'Mexico', 'OR', 'AZ', 'CA', 'CA', 'OR', 'CA', 'AZ', 'OR', 'AZ', 'NM', 'CA', 'CA', 'Costa Rica', 'CA', 'AZ', 'CA', 'AZ']","Redmond, WA",10000+ employees, $10+ billion (USD) per year,1,1,3
+1024,Apple,4.1,"['TX', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'TX', 'CA', 'CA', 'CA', 'CA']","San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+1025,Amazon,3.9,"['WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'VA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA']","Santa Clara, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+1026,IBM,3.8,"['VA', 'VA', 'VA', 'MD', 'VA', 'VA', 'VA', 'VA', 'MD', 'MD', 'MD', 'VA', 'MD', 'VA', 'VA', 'MD', 'NY', 'NC', 'VA', 'MD', 'MD', 'VA', 'VA', 'DC', 'VA']","Cupertino, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.8
+1027,Tata Consultancy Services,3.7,"['GA', 'NJ', 'IL', 'NJ', 'NY', 'NC', 'IL', 'OH', 'OH', 'NJ', 'NJ', 'NJ', 'TX', 'FL', 'NJ', 'NJ', 'NJ', 'MN', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NJ', 'AZ', 'NJ', 'NJ', 'TX', 'CA', 'IL', 'NJ', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ']","Seattle, WA",10000+ employees, $10+ billion (USD) per year,1,1,2.7
+1028,Infosys,3.1,"['NY', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'MS', 'PA', 'TN', 'TX', 'NJ', 'NY', 'NY', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'CA', 'NY']","Armonk, NY",10000+ employees, $10+ billion (USD) per year,0,1,2.6
+1029,Wipro,2.9,"['GA', 'MA', 'OH', 'CA', 'OH', 'TX', 'TX', 'CA', 'MN', 'CA', 'NY', 'CA', 'MA', 'MN', 'VA', 'CA', 'CA', 'CA', 'CA', 'CA']",Mumbai (India),10000+ employees, $10+ billion (USD) per year,1,1,2.8
+1030,VamDam Technologies,5.0,United States,Bengaluru (India),10000+ employees, $10+ billion (USD) per year,1,1,NA
+1031,MQR Technologies,5.0,United States,Bengaluru (India),10000+ employees, $5 to $10 billion (USD) per year,1,1,NA
+1032,PR3 Systems,5.0,United States,"Mountain View, CA",10000+ employees, $10+ billion (USD) per year,1,1,NA
+1033,Macro Solutions,5.0,['VA'],"Redmond, WA",10000+ employees, $10+ billion (USD) per year,1,1,2.5
+1034,Corpteq,5.0,United States,"San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,NA
+1035,TekAllianz,5.0,United States,"Santa Clara, CA",10000+ employees, $10+ billion (USD) per year,1,1,NA
+1036,NRich Enterprise Solutions,5.0,United States,"Cupertino, CA",10000+ employees, $10+ billion (USD) per year,1,1,NA
+1037,Synergie Tech Solutions,5.0,United States,"Seattle, WA",10000+ employees, $10+ billion (USD) per year,1,1,NA
+1038,500friends,5.0,United States,"Armonk, NY",10000+ employees, $10+ billion (USD) per year,0,1,2.9
+1039,PeopleTalents,5.0,United States,Mumbai (India),10000+ employees, $10+ billion (USD) per year,1,1,NA
+1040,BDSN International,5.0,United States,Bengaluru (India),10000+ employees, $10+ billion (USD) per year,1,1,NA
+1041,RV Infotech,5.0,United States,Bengaluru (India),10000+ employees, $5 to $10 billion (USD) per year,1,1,NA
+1042,AppsIntegration,5.0,United States,NA,NA,NA,NA,NA,NA
+1043,Ibis Tech International,5.0,United States,NA,NA,NA,NA,NA,NA
+1044,NRich Enterprise Solutions,5.0,United States,NA,NA,NA,NA,NA,NA
+1045,You Need A Budget,5.0,United States,"Washington, DC",51 to 200 employees, $25 to $50 million (USD) per year,0,1,3.2
+1046,pMD,5.0,United States,NA,NA,NA,NA,NA,3.4
+1047,Launch Potato,5.0,111 E Atlantic Ave Suite 200 ,NA,NA,NA,NA,NA,3
+1048,Exago,5.0,"['NY', 'CT']",NA,NA,NA,NA,NA,2.5
+1049,Mercury Network,5.0,United States,NA,NA,NA,NA,NA,4
+1050,Idea Tech Soultions,5.0,United States,"San Francisco, CA",1 to 50 employees, $5 to $10 million (USD) per year,0,1,NA
+1051,Alpha Clinical Systems,5.0,"S 420, 15 Corporate Pl South ",NA,NA,NA,NA,NA,NA
+1052,DecisionWave,5.0,United States,NA,NA,NA,NA,NA,NA
+1053,Covetit,5.0,United States,NA,NA,NA,NA,NA,NA
+1054,CSZNet,5.0,"20 F St NW Ste 700 Washington, District of Columbia, 20001-6705, United States","Pleasanton, CA",1 to 50 employees, Less than $1 million (USD) per year,0,0,3
+1055,Wininfosys,5.0,United States,NA,NA,NA,NA,NA,NA
+1056,Smart DW,5.0,United States,NA,NA,NA,NA,NA,NA
+1057,Celer Systems,5.0,United States,NA,NA,NA,NA,NA,NA
+1058,Seascape Consulting,5.0,United States,"Lehi, UT",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1059,Patient Logic,5.0,United States,"San Francisco, CA",1 to 50 employees, $10 to $25 million (USD) per year,0,1,NA
+1060,Advoco Inc.,5.0,United States,"Delray Beach, FL",51 to 200 employees, Unknown / Non-Applicable,0,1,2
+1061,Xinify Technologies,5.0,United States,"Shelton, CT",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1062,Software Quality Leaders,5.0,United States,"Oklahoma City, OK",51 to 200 employees, $10 to $25 million (USD) per year,0,1,NA
+1063,Nexabyte Consulting Group,5.0,United States,NA,NA,NA,NA,NA,NA
+1064,iSEC partners,5.0,United States,NA,NA,NA,NA,NA,NA
+1065,Saxon Infotech,5.0,United States,NA,NA,NA,NA,NA,NA
+1066,Wizcom,5.0,United States,NA,NA,NA,NA,NA,NA
+1067,Nirvana Infotech,5.0,United States,"Washington, DC",1 to 50 employees, $1 to $5 million (USD) per year,0,0,NA
+1068,Flow Science,5.0,United States,NA,NA,NA,NA,NA,NA
+1069,iBusiness Solution,5.0,United States,NA,NA,NA,NA,NA,NA
+1070,Google,4.4,"['CA', 'MI', 'TX', 'CA', 'CA', 'MA', 'IL', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA', 'CA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,3.3
+1071,Microsoft,4.3,"['WA', 'WA', 'WA', 'MA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'CA', 'NC', 'WA', 'WA', 'WA', 'CA', 'CA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'WA']",NA,NA,NA,NA,NA,3.1
+1072,Cisco Systems,4.2,"['NC', 'CA', 'CA', 'NC', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,3
+1073,Intel Corporation,4.1,"['OR', 'OR', 'CA', 'AZ', 'CA', 'CA', 'AZ', 'Mexico', 'OR', 'AZ', 'CA', 'CA', 'OR', 'CA', 'AZ', 'OR', 'AZ', 'NM', 'CA', 'CA', 'Costa Rica', 'CA', 'AZ', 'CA', 'AZ']","Berkeley, CA",51 to 200 employees, $10 to $25 million (USD) per year,0,1,3
+1074,Apple,4.1,"['TX', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'TX', 'CA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,3
+1075,Amazon,3.9,"['WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'VA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA']",NA,NA,NA,NA,NA,3
+1076,IBM,3.8,"['VA', 'VA', 'VA', 'MD', 'VA', 'VA', 'VA', 'VA', 'MD', 'MD', 'MD', 'VA', 'MD', 'VA', 'VA', 'MD', 'NY', 'NC', 'VA', 'MD', 'MD', 'VA', 'VA', 'DC', 'VA']",NA,NA,NA,NA,NA,2.8
+1077,Tata Consultancy Services,3.7,"['GA', 'NJ', 'IL', 'NJ', 'NY', 'NC', 'IL', 'OH', 'OH', 'NJ', 'NJ', 'NJ', 'TX', 'FL', 'NJ', 'NJ', 'NJ', 'MN', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NJ', 'AZ', 'NJ', 'NJ', 'TX', 'CA', 'IL', 'NJ', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ']",NA,NA,NA,NA,NA,2.7
+1078,Infosys,3.1,"['NY', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'MS', 'PA', 'TN', 'TX', 'NJ', 'NY', 'NY', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'CA', 'NY']","Columbia, MD",1 to 50 employees, $1 to $5 million (USD) per year,0,0,2.6
+1079,Wipro,2.9,"['GA', 'MA', 'OH', 'CA', 'OH', 'TX', 'TX', 'CA', 'MN', 'CA', 'NY', 'CA', 'MA', 'MN', 'VA', 'CA', 'CA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,2.8
+1080,Cytracom,5.0,450 Century Parkway ,NA,NA,NA,NA,NA,2.7
+1081,Moveworks,5.0,909 San Rafael Ave ,NA,NA,NA,NA,NA,3.1
+1082,Solv,5.0,144 2nd Street ,NA,NA,NA,NA,NA,3
+1083,Mystery.org,5.0,United States,NA,NA,NA,NA,NA,NA
+1084,Pricefx,5.0,"150 N Riverside Plaza, Suite 4220 ","Mountain View, CA",10000+ employees, $10+ billion (USD) per year,1,1,3.2
+1085,Trove,5.0,United States,"Redmond, WA",10000+ employees, $10+ billion (USD) per year,1,1,3
+1086,PicnicHealth,5.0,United States,"San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+1087,DataFox,5.0,835 Howard Street ,"Santa Clara, CA",10000+ employees, $10+ billion (USD) per year,1,1,3
+1088,Phoenix Operations Group,5.0,"['MD', 'MD', 'SC', 'MD', 'VA']","Cupertino, CA",10000+ employees, $10+ billion (USD) per year,1,1,1
+1089,Gladly,5.0,"['MA', 'CA']","Seattle, WA",10000+ employees, $10+ billion (USD) per year,1,1,3
+1090,Rite Software Solutions & Services,5.0,United States,"Armonk, NY",10000+ employees, $10+ billion (USD) per year,0,1,NA
+1091,Cognition Corp,5.0,24 Hartwell Ave ,Mumbai (India),10000+ employees, $10+ billion (USD) per year,1,1,3.3
+1092,Saram Solutions,5.0,United States,Bengaluru (India),10000+ employees, $10+ billion (USD) per year,1,1,NA
+1093,J P Systems,5.0,"['GA', 'ID', 'IL', 'VA', 'VA', 'FL', 'AZ', 'VA', 'AZ', 'VA', 'UT', 'TX', 'FL']",Bengaluru (India),10000+ employees, $5 to $10 billion (USD) per year,1,1,1
+1094,Ritnoa,5.0,United States,"Allen, TX",1 to 50 employees, Unknown / Non-Applicable,0,1,NA
+1095,Dynamic ITSolutions,5.0,United States,"Mountain View, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,NA
+1096,STORIS,5.0,United States,"San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,2.7
+1097,Guru Technologies,5.0,"['PA', 'PA', 'CA']",NA,NA,NA,NA,NA,2.9
+1098,HRMS Solutions,5.0,United States,Pfaffenhofen a. d. Glonn (Germany),201 to 500 employees, Unknown / Non-Applicable,0,1,1.5
+1099,Triniti Consulting,5.0,United States,"Ann Arbor, MI",1 to 50 employees, Unknown / Non-Applicable,0,0,3
+1100,Koddi,5.0,"['MI', 'TX', 'TX', 'NY', 'CA', 'CA']","San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,1, 2.9
+1101,Rollbar,5.0,['CA'],"San Francisco, CA",1 to 50 employees, $5 to $10 million (USD) per year,0,1,2.9
+1102,GreatHorn,5.0,1075 Main st. Suite 210 ,"Woodbine, MD",1 to 50 employees, $5 to $10 million (USD) per year,0,1,3
+1103,dv01,5.0,915 Broadway ,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.7
+1104,LeanIX,5.0,1 Kingsbury Avenue  ,NA,NA,NA,NA,NA,3.1
+1105,SimpleLegal,5.0,"['TX', 'TX', 'CA']","Lexington, MA",1 to 50 employees, $1 to $5 million (USD) per year,0,0,2.6
+1106,Mya Systems,5.0,United States,NA,NA,NA,NA,NA,2.8
+1107,Stylitics,5.0,United States,"Clifton, VA",1 to 50 employees, $10 to $25 million (USD) per year,0,1,2.8
+1108,OneSignal,5.0,2850 S Delaware St. ,NA,NA,NA,NA,NA,2.6
+1109,CyberCube,5.0,"58 Maiden Lane, 3rd Floor ",NA,NA,NA,NA,NA,3.4
+1110,CobbleStone Software,5.0,"['NJ', 'NJ']","Mount Arlington, NJ",51 to 200 employees, Unknown / Non-Applicable,0,1,3
+1111,VELOX Media,5.0,816 W Bannock St Suite 306 ,"Philadelphia, PA",51 to 200 employees, Unknown / Non-Applicable,1,1,3
+1112,Sandboxx,5.0,United States,"Boulder, CO",1 to 50 employees, $5 to $10 million (USD) per year,0,1,2.5
+1113,Phoenix Operations Group,5.0,"['MD', 'MD', 'SC', 'MD', 'VA']","Atlanta, GA",1 to 50 employees, Unknown / Non-Applicable,0,1,1
+1114,Unite US,5.0,"['NY', 'OR', 'NC']","Fort Worth, TX",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1115,Productive Power,5.0,United States,"San Francisco, CA",1 to 50 employees, $1 to $5 million (USD) per year,0,0,2.4
+1116,Kipsu,5.0,United States,"Waltham, MA",1 to 50 employees, Unknown / Non-Applicable,0,1,2.9
+1117,Buoy Health,5.0,United States,"New York, NY",1 to 50 employees, Unknown / Non-Applicable,0,0,3
+1118,Tigera,5.0,"['CA', 'CA']",Bonn (Germany),51 to 200 employees, $10 to $25 million (USD) per year,0,1,NA
+1119,Guru Technologies,5.0,"['PA', 'PA', 'CA']","Mountain View, CA",51 to 200 employees, $5 to $10 million (USD) per year,0,0,2.9
+1120,Guru Technologies,5.0,"['PA', 'PA', 'CA']","San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,2.9
+1121,Annkissam,5.0,United States,"New York, NY",1 to 50 employees, $5 to $10 million (USD) per year,0,0,2.8
+1122,TruValue Labs,5.0,"660 Mission Street, 4th Floor ","San Mateo, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,NA
+1123,VELOX Media,5.0,816 W Bannock St Suite 306 ,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,3
+1124,Chronicled,5.0,121 Minna St ,"Lindenwold, NJ",51 to 200 employees, Unknown / Non-Applicable,0,1,2.8
+1125,Sandboxx,5.0,United States,"Boise, ID",1 to 50 employees, $10 to $25 million (USD) per year,0,1,2.5
+1126,Tigera,5.0,"['CA', 'CA']","Arlington, VA",1 to 50 employees, Unknown / Non-Applicable,0,0,NA
+1127,Instabase,5.0,"111 Sutter Street, 9th Floor ","Woodbine, MD",1 to 50 employees, $5 to $10 million (USD) per year,0,1,NA
+1128,Fleetsmith,5.0,United States,NA,NA,NA,NA,NA,3.3
+1129,Buoy Health,5.0,United States,"Miami Beach, FL",1 to 50 employees, Less than $1 million (USD) per year,0,0, 3.0
+1130,Fivetran,5.0,"['CO', 'CA', 'CA']","Minneapolis, MN",51 to 200 employees, $5 to $10 million (USD) per year,0,1,3.1
+1131,Network & Security Technologies,5.0,161 North Middletown Road ,"Boston, MA",1 to 50 employees, Less than $1 million (USD) per year,0,1,1
+1132,Ad Victoriam Solutions,5.0,"['GA', 'TN', 'NY', 'PA', 'NC']",NA,NA,NA,NA,NA,3
+1133,Edgewater Federal Solutions,5.0,"['MD', 'MD']","Philadelphia, PA",51 to 200 employees, Unknown / Non-Applicable,1,1,3
+1134,Juniper Square,5.0,"['TX', 'CA']","Philadelphia, PA",51 to 200 employees, Unknown / Non-Applicable,1,1,2.9
+1135,Triniti Consulting,5.0,United States,"Boston, MA",51 to 200 employees, $5 to $10 million (USD) per year,0,1,3
+1136,Table XI,5.0,United States,"San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,3
+1137,Matroid,5.0,3239 El Camino Real #310 ,NA,NA,NA,NA,NA,NA
+1138,YOP IT Solutions,5.0,16 The  Green  ,"Boise, ID",1 to 50 employees, $10 to $25 million (USD) per year,0,1,4
+1139,Superhuman,5.0,"465 California St, Suite 1200 ","San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,1,3.1
+1140,LeanIX,5.0,1 Kingsbury Avenue  ,"Arlington, VA",1 to 50 employees, Unknown / Non-Applicable,0,0,3.1
+1141,Abacus Insights,5.0,"['MA', 'NY']",NA,NA,NA,NA,NA,2.8
+1142,MANTL,5.0,United States,NA,NA,NA,NA,NA,3
+1143,CaptivateIQ,5.0,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1144,Socio,5.0,United States,"Boston, MA",1 to 50 employees, Less than $1 million (USD) per year,0,1,NA
+1145,Airkit,5.0,200 California Ave.  ,"Oakland, CA",201 to 500 employees, $10 to $25 million (USD) per year,0,0,3.5
+1146,Rubica,5.0,"['WA', 'CA']","Pearl River, NY",1 to 50 employees, $5 to $10 million (USD) per year,0,1,3.2
+1147,CyberCube,5.0,"58 Maiden Lane, 3rd Floor ","Alpharetta, GA",51 to 200 employees, Unknown / Non-Applicable,0,1,3.4
+1148,Groove,5.0,United States,"Frederick, MD",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.7
+1149,Instabase,5.0,"111 Sutter Street, 9th Floor ","San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,NA
+1150,Unite US,5.0,"['NY', 'OR', 'NC']","Atlanta, GA",1 to 50 employees, Unknown / Non-Applicable,0,1,NA
+1151,MANTL,5.0,United States,"Chicago, IL",1 to 50 employees, $5 to $10 million (USD) per year,0,0,3
+1152,Socio,5.0,United States,"Palo Alto, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,NA
+1153,CaptivateIQ,5.0,United States,NA,NA,NA,NA,NA,NA
+1154,Rubica,5.0,"['WA', 'CA']","Dover, DE",51 to 200 employees, Unknown / Non-Applicable,0,0, 3.2
+1155,Possible Finance,5.0,United States,"San Francisco, CA",1 to 50 employees, $1 to $5 million (USD) per year,0,0,NA
+1156,Airkit,5.0,200 California Ave.  ,Bonn (Germany),51 to 200 employees, $10 to $25 million (USD) per year,0,1,3.5
+1157,Agiloft,5.0,United States,"Boston, MA",51 to 200 employees, Unknown / Non-Applicable,0,0,3.2
+1158,Front,5.0,"['AZ', 'CA']","New York, NY",1 to 50 employees, Unknown / Non-Applicable,0,0,2.8
+1159,Zilker Partners,5.0,United States,NA,NA,NA,NA,NA,NA
+1160,Google,4.4,"['CA', 'MI', 'TX', 'CA', 'CA', 'MA', 'IL', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA', 'CA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,3.3
+1161,Microsoft,4.3,"['WA', 'WA', 'WA', 'MA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'CA', 'NC', 'WA', 'WA', 'WA', 'CA', 'CA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'WA']","Palo Alto, CA",1 to 50 employees, Unknown / Non-Applicable,0,1,3.1
+1162,Cisco Systems,4.2,"['NC', 'CA', 'CA', 'NC', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']","Kirkland, WA",1 to 50 employees, Unknown / Non-Applicable,0,1,3
+1163,Intel Corporation,4.1,"['OR', 'OR', 'CA', 'AZ', 'CA', 'CA', 'AZ', 'Mexico', 'OR', 'AZ', 'CA', 'CA', 'OR', 'CA', 'AZ', 'OR', 'AZ', 'NM', 'CA', 'CA', 'Costa Rica', 'CA', 'AZ', 'CA', 'AZ']","San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,3
+1164,Apple,4.1,"['TX', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'TX', 'CA', 'CA', 'CA', 'CA']","San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,3
+1165,Amazon,3.9,"['WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'VA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA']",NA,NA,NA,NA,NA,3
+1166,IBM,3.8,"['VA', 'VA', 'VA', 'MD', 'VA', 'VA', 'VA', 'VA', 'MD', 'MD', 'MD', 'VA', 'MD', 'VA', 'VA', 'MD', 'NY', 'NC', 'VA', 'MD', 'MD', 'VA', 'VA', 'DC', 'VA']",NA,NA,NA,NA,NA, 2.8
+1167,Tata Consultancy Services,3.7,"['GA', 'NJ', 'IL', 'NJ', 'NY', 'NC', 'IL', 'OH', 'OH', 'NJ', 'NJ', 'NJ', 'TX', 'FL', 'NJ', 'NJ', 'NJ', 'MN', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NJ', 'AZ', 'NJ', 'NJ', 'TX', 'CA', 'IL', 'NJ', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ']","New York, NY",1 to 50 employees, Unknown / Non-Applicable,0,0,2.7
+1168,Infosys,3.1,"['NY', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'MS', 'PA', 'TN', 'TX', 'NJ', 'NY', 'NY', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'CA', 'NY']",NA,NA,NA,NA,NA,2.6
+1169,Wipro,2.9,"['GA', 'MA', 'OH', 'CA', 'OH', 'TX', 'TX', 'CA', 'MN', 'CA', 'NY', 'CA', 'MA', 'MN', 'VA', 'CA', 'CA', 'CA', 'CA', 'CA']",NA,NA,NA,NA,NA,2.8
+1170,AppsChopper,5.0,"['MA', 'CA', 'NY', 'MA']","Kirkland, WA",1 to 50 employees, Unknown / Non-Applicable,0,1,NA
+1171,XOR,5.0,"540 Howard Street, 2nd Floor #11 ","Seattle, WA",1 to 50 employees, Unknown / Non-Applicable,0,0,2.3
+1172,Byteware,5.0,United States,NA,NA,NA,NA,NA,NA
+1173,Neverware,5.0,United States,"Palo Alto, CA",1 to 50 employees, Unknown / Non-Applicable,0,1,3.7
+1174,CollabraSpace,5.0,['MD'],"Redwood City, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,2
+1175,Bravo Pawn Systems,5.0,United States,"San Francisco, CA",201 to 500 employees, Unknown / Non-Applicable,1,0,NA
+1176,AIS (NV),5.0,United States,"Austin, TX",1 to 50 employees, Unknown / Non-Applicable,0,0,3
+1177,Capacity,5.0,"['NY', 'MO']",NA,NA,NA,NA,NA,NA
+1178,Fleetio,5.0,"1900 2nd Ave North, Suite 300 ","Mountain View, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.6
+1179,Scalyr,5.0,"101 S San Mateo Drive, 4th Floor ","Redmond, WA",10000+ employees, $10+ billion (USD) per year,1,1,2.7
+1180,LogicGate,5.0,United States,"San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.6
+1181,Blueshift,5.0,"['NC', 'CA']","Santa Clara, CA",10000+ employees, $10+ billion (USD) per year,1,1,2
+1182,Harness,5.0,"['TX', 'CA', 'CA']","Cupertino, CA",10000+ employees, $10+ billion (USD) per year,1,1,3.4
+1183,Configure One,5.0,United States,"Seattle, WA",10000+ employees, $10+ billion (USD) per year,1,1,3.1
+1184,DealCloud,5.0,"['NC', 'IL', 'NJ', 'NJ', 'CA']","Armonk, NY",10000+ employees, $10+ billion (USD) per year,0,1,3
+1185,Flockjay,5.0,United States,Mumbai (India),10000+ employees, $10+ billion (USD) per year,1,1,1
+1186,rideOS,5.0,United States,Bengaluru (India),10000+ employees, $10+ billion (USD) per year,1,1,2.9
+1187,Computronix,5.0,United States,Bengaluru (India),10000+ employees, $5 to $10 billion (USD) per year,1,1,2.9
+1188,Counterpoint Consulting,5.0,United States,"New York, NY",51 to 200 employees, Less than $1 million (USD) per year,0,0,2.8
+1189,Atrilogy Solutions Group,4.9,"['CO', 'CA', 'CA', 'AZ', 'WA']",NA,NA,NA,NA,NA,2.9
+1190,Computronix,5.0,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,2.9
+1191,FrogSlayer,4.9,"['TX', 'TX']",NA,NA,NA,NA,NA,3
+1192,AlertMedia,5.0,901 S MoPac Expy building 3 suite 400 ,"New York, NY",1 to 50 employees, $1 to $5 million (USD) per year,0,1,2.8
+1193,Aptonet,4.9,"1140 Hightower trail, Suite 200  ","Annapolis Junction, MD",51 to 200 employees, $10 to $25 million (USD) per year,0,1,-
+1194,Red Alpha,4.9,"['MD', 'MD']",NA,NA,NA,NA,NA,3
+1195,Grammarly,5.0,United States,"North Las Vegas, NV",51 to 200 employees, $25 to $50 million (USD) per year,0,0,2.9
+1196,Rigor,4.9,United States,"Saint Louis, MO",51 to 200 employees, Unknown / Non-Applicable,0,0, 3.1
+1197,Modern Tribe,5.0,United States,NA,NA,NA,NA,NA,3
+1198,J2 Interactive,5.0,2 Thirteenth Street ,"Birmingham, AL",51 to 200 employees, $5 to $10 million (USD) per year,0,0,3.3
+1199,Simpplr,5.0,"100 Marine Pkwy, Ste 250 ","San Mateo, CA",1 to 50 employees, Unknown / Non-Applicable,0,1,3.4
+1200,Simpplr,5.0,"100 Marine Pkwy, Ste 250 ","Chicago, IL",51 to 200 employees, Unknown / Non-Applicable,0,0, 3.4
+1201,RFMS,5.0,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1202,Nova Credit,4.9,United States,"San Francisco, CA",201 to 500 employees, Unknown / Non-Applicable,0,0,2.9
+1203,GitPrime,4.9,835 Main Ave ,"Oak Brook, IL",51 to 200 employees, Unknown / Non-Applicable,0,0,2.7
+1204,KirkpatrickPrice,4.9,United States,"Jersey City, NJ",51 to 200 employees, Unknown / Non-Applicable,0,0,4
+1205,Chili Piper,4.9,United States,"San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,3.3
+1206,Brilliant Infotech,4.9,"['NJ', 'NJ']","San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,3.5
+1207,Seeq,4.9,United States,"Edmonton, AB (Canada)",51 to 200 employees, $25 to $50 million (USD) per year,0,0,2.5
+1208,Backblaze,4.9,United States,"Vienna, VA",1 to 50 employees, Unknown / Non-Applicable,0,0,NA
+1209,SweetLabs,4.9,United States,"Irvine, CA",51 to 200 employees, $25 to $50 million (USD) per year,0,0,2.9
+1210,Chili Piper,4.9,United States,"Edmonton, AB (Canada)",51 to 200 employees, $25 to $50 million (USD) per year,0,0,3.3
+1211,GitPrime,4.9,835 Main Ave ,"College Station, TX",51 to 200 employees, $5 to $10 million (USD) per year,0,1,2.7
+1212,Nova Credit,4.9,United States,"Austin, TX",51 to 200 employees, Unknown / Non-Applicable,0,1,2.9
+1213,Backblaze,4.9,United States,"Atlanta, GA",201 to 500 employees, Unknown / Non-Applicable,0,0,NA
+1214,Zudy,4.9,"['FL', 'MA']","Annapolis Junction, MD",51 to 200 employees, Unknown / Non-Applicable,0,0,2.3
+1215,Hotjar,4.9,United States,"San Francisco, CA",201 to 500 employees, Unknown / Non-Applicable,0,1,3.5
+1216,Expel,4.9,"12950 Worldgate Drive, Suite 200 ","Atlanta, GA",1 to 50 employees, Unknown / Non-Applicable,0,1,2.8
+1217,NeuraFlash,4.9,"['MA', 'MA']","Santa Cruz, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,NA
+1218,Corporate Tools,4.9,784 South Clearwater Loop ,"Charlestown, MA",51 to 200 employees, $10 to $25 million (USD) per year,0,1,2.5
+1219,Opex Analytics,4.9,"['GA', 'IL', 'NY', 'CA']","Redwood City, CA",51 to 200 employees, $10 to $25 million (USD) per year,0,0,3.3
+1220,Stackla,4.9,"['TX', 'NY', 'CA']","Redwood City, CA",51 to 200 employees, $10 to $25 million (USD) per year,0,0,3
+1221,NeuraFlash,4.9,"['MA', 'MA']","Tuscaloosa, AL",51 to 200 employees, $10 to $25 million (USD) per year,0,0,NA
+1222,Corporate Tools,4.9,784 South Clearwater Loop ,NA,NA,NA,NA,NA,2.5
+1223,Zennify,4.9,"['ID', 'ID', 'CA']","San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,2.6
+1224,Opex Analytics,4.9,"['GA', 'IL', 'NY', 'CA']","Durango, CO",51 to 200 employees, Unknown / Non-Applicable,0,1,3.3
+1225,Avlino,4.9,United States,"Nashville, TN",51 to 200 employees, Unknown / Non-Applicable,0,0,2.3
+1226,Zudy,4.9,"['FL', 'MA']","Brooklyn, NY",1 to 50 employees, $1 to $5 million (USD) per year,0,0,2.3
+1227,Hotjar,4.9,United States,"Edison, NJ",51 to 200 employees, $5 to $10 million (USD) per year,0,0,3.5
+1228,ChartIQ,4.9,"['VA', 'NY']","Seattle, WA",51 to 200 employees, $1 to $5 million (USD) per year,0,1,2
+1229,RevUnit,4.9,"['AR', 'NV']","San Mateo, CA",51 to 200 employees, $25 to $50 million (USD) per year,0,0, 2.8
+1230,Zennify,4.9,"['ID', 'ID', 'CA']",NA,NA,NA,NA,NA,2.6
+1231,RevUnit,4.9,"['AR', 'NV']","San Diego, CA",1 to 50 employees, $25 to $50 million (USD) per year,0,1,2.8
+1232,CoNetrix,4.9,United States,"Brooklyn, NY",1 to 50 employees, $1 to $5 million (USD) per year,0,0,4
+1233,Plum Group,4.9,United States,"Durango, CO",51 to 200 employees, Unknown / Non-Applicable,0,1, 2.0
+1234,Numetric,4.9,14183 Minuteman Drive #100 ,"San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,2.7
+1235,SchoolAdmin,4.9,United States,"San Mateo, CA",51 to 200 employees, $25 to $50 million (USD) per year,0,0, 4.0
+1236,LogiSolve,4.9,United States,NA,NA,NA,NA,NA,3
+1237,Mavens,4.9,"['MA', 'IL']","Miami Beach, FL",51 to 200 employees, Unknown / Non-Applicable,0,0,3.9
+1238,AXIA Consulting,4.9,"1391 W 5th Ave Ste 320 Columbus, Ohio, 43212-2902, United States",San Ġiljan (Malta),51 to 200 employees, Unknown / Non-Applicable,0,1,2.5
+1239,Wiredrive,4.9,United States,"Herndon, VA",51 to 200 employees, $25 to $50 million (USD) per year,0,1,3.3
+1240,Data Masons Software,4.9,United States,"Boston, MA",51 to 200 employees, Unknown / Non-Applicable,0,0,3
+1241,Airtame,4.9,"['NY', 'NY']",NA,NA,NA,NA,NA,3.2
+1242,Torrent Consulting,4.9,"['MI', 'VA', 'NC', 'MO']","Post Falls, ID",51 to 200 employees, Unknown / Non-Applicable,0,0,3
+1243,Cognistx,4.9,625 Liberty Ave ,"Chicago, IL",51 to 200 employees, Unknown / Non-Applicable,0,1,2.8
+1244,Chatbooks,4.9,382 Park Circle ,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.9
+1245,ENAVATE,4.9,United States,"Boston, MA",51 to 200 employees, Unknown / Non-Applicable,0,0, 3.2
+1246,Directly,4.9,333 Bryant Street ,NA,NA,NA,NA,NA,3
+1247,Zylo,4.9,55 Monument Circle ,"Post Falls, ID",51 to 200 employees, Unknown / Non-Applicable,0,0,3
+1248,Apprenda,4.9,United States,"Meridian, ID",51 to 200 employees, Unknown / Non-Applicable,0,0,3.8
+1249,GoCo.io,4.9,United States,"Chicago, IL",51 to 200 employees, Unknown / Non-Applicable,0,1,2.8
+1250,Google,4.4,"['CA', 'MI', 'TX', 'CA', 'CA', 'MA', 'IL', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA', 'CA', 'CA', 'NY', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'WA', 'CA', 'CA', 'CA']","Holmdel, NJ",1 to 50 employees, Less than $1 million (USD) per year,0,1,3.3
+1251,Microsoft,4.3,"['WA', 'WA', 'WA', 'MA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'CA', 'NC', 'WA', 'WA', 'WA', 'CA', 'CA', 'WA', 'WA', 'WA', 'WA', 'CA', 'WA', 'WA']","Miami Beach, FL",51 to 200 employees, Unknown / Non-Applicable,0,0,3.1
+1252,Cisco Systems,4.2,"['NC', 'CA', 'CA', 'NC', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'CA', 'CA', 'CA', 'NC', 'NC', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA']",San Ġiljan (Malta),51 to 200 employees, Unknown / Non-Applicable,0,1,3
+1253,Intel Corporation,4.1,"['OR', 'OR', 'CA', 'AZ', 'CA', 'CA', 'AZ', 'Mexico', 'OR', 'AZ', 'CA', 'CA', 'OR', 'CA', 'AZ', 'OR', 'AZ', 'NM', 'CA', 'CA', 'Costa Rica', 'CA', 'AZ', 'CA', 'AZ']","Charlottesville, VA",1 to 50 employees, Unknown / Non-Applicable,0,0,3
+1254,Apple,4.1,"['TX', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'CA', 'TX', 'CA', 'CA', 'CA', 'CA']","Bentonville, AR",51 to 200 employees, Unknown / Non-Applicable,0,0,3
+1255,Amazon,3.9,"['WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'VA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'Canada', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'WA', 'Canada', 'Canada', 'WA']","Meridian, ID",51 to 200 employees, Unknown / Non-Applicable,0,0,3
+1256,IBM,3.8,"['VA', 'VA', 'VA', 'MD', 'VA', 'VA', 'VA', 'VA', 'MD', 'MD', 'MD', 'VA', 'MD', 'VA', 'VA', 'MD', 'NY', 'NC', 'VA', 'MD', 'MD', 'VA', 'VA', 'DC', 'VA']","Bentonville, AR",51 to 200 employees, Unknown / Non-Applicable,0,0,2.8
+1257,Tata Consultancy Services,3.7,"['GA', 'NJ', 'IL', 'NJ', 'NY', 'NC', 'IL', 'OH', 'OH', 'NJ', 'NJ', 'NJ', 'TX', 'FL', 'NJ', 'NJ', 'NJ', 'MN', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NJ', 'AZ', 'NJ', 'NJ', 'TX', 'CA', 'IL', 'NJ', 'NJ', 'NJ', 'NJ', 'NY', 'NJ', 'NJ']","Lubbock, TX",51 to 200 employees, $10 to $25 million (USD) per year,0,1,2.7
+1258,Infosys,3.1,"['NY', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'MS', 'PA', 'TN', 'TX', 'NJ', 'NY', 'NY', 'NJ', 'NJ', 'NY', 'NJ', 'NJ', 'NY', 'CA', 'NY']","New York, NY",1 to 50 employees, $10 to $25 million (USD) per year,0,0,2.6
+1259,Wipro,2.9,"['GA', 'MA', 'OH', 'CA', 'OH', 'TX', 'TX', 'CA', 'MN', 'CA', 'NY', 'CA', 'MA', 'MN', 'VA', 'CA', 'CA', 'CA', 'CA', 'CA']","Draper, UT",1 to 50 employees, Unknown / Non-Applicable,0,0,2.8
+1260,Appcast,4.9,10 Water Street ,"Austin, TX",1 to 50 employees, Unknown / Non-Applicable,0,0,3
+1261,MindTickle,4.9,United States,"Oakdale, MN",51 to 200 employees, $10 to $25 million (USD) per year,0,0,NA
+1262,Informed.co,4.9,"['NJ', 'NJ']","Chicago, IL",51 to 200 employees, $10 to $25 million (USD) per year,0,1,2.8
+1263,Button,4.9,United States,"Columbus, OH",51 to 200 employees, $25 to $50 million (USD) per year,0,1,3.2
+1264,United Global Technologies,4.9,"['NC', 'NY']","Playa Vista, CA",1 to 50 employees, Unknown / Non-Applicable,0,1,NA
+1265,Silicon Staff IT Services,4.9,"['CA', 'CA']","Sarasota, FL",201 to 500 employees, $25 to $50 million (USD) per year,0,1,3
+1266,IDx (Iowa),4.9,United States,Copenhagen (Denmark),51 to 200 employees, Unknown / Non-Applicable,0,1,2.4
+1267,Shyft Technologies,4.9,3131 Western Ave #403 ,"Ann Arbor, MI",51 to 200 employees, $10 to $25 million (USD) per year,0,0,3.3
+1268,CampMinder,4.9,United States,"Pittsburgh, PA",1 to 50 employees, Unknown / Non-Applicable,0,0,NA
+1269,98point6,4.9,United States,"Provo, UT",51 to 200 employees, Unknown / Non-Applicable,0,1,3.3
+1270,Verkada,4.9,405 E 4th Ave ,"Denver, CO",201 to 500 employees, $10 to $25 million (USD) per year,0,0,2.8
+1271,United Global Technologies,4.9,"['NC', 'NY']","San Francisco, CA",51 to 200 employees, $5 to $10 million (USD) per year,0,1,NA
+1272,Security Innovation,4.9,"['WA', 'MA']","Indianapolis, IN",51 to 200 employees, Unknown / Non-Applicable,0,1,3.7
+1273,SARA SOFTWARE SYSTEMS,4.9,United States,"Troy, NY",51 to 200 employees, Unknown / Non-Applicable,0,1,4
+1274,Elite Technical,4.9,"['MD', 'NY', 'FL', 'NY']","Houston, TX",1 to 50 employees, Unknown / Non-Applicable,0,0,NA
+1275,Yummly,4.9,833-835 Main Street  ,"Mountain View, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.8
+1276,6sense,4.9,United States,"Redmond, WA",10000+ employees, $10+ billion (USD) per year,1,1,3.1
+1277,Highmark Companies,4.9,United States,"San Jose, CA",10000+ employees, $10+ billion (USD) per year,1,1,NA
+1278,Reaktor,4.9,"30 W 21st street, 14th floor ","Santa Clara, CA",10000+ employees, $10+ billion (USD) per year,1,1,2.9
+1279,Next Century,4.9,"['MD', 'MD', 'VA', 'VA']","Cupertino, CA",10000+ employees, $10+ billion (USD) per year,1,1,3.1
+1280,GSquared Group,4.9,United States,"Seattle, WA",10000+ employees, $10+ billion (USD) per year,1,1,NA
+1281,Storyblocks,4.9,"['VA', 'VA']","Armonk, NY",10000+ employees, $10+ billion (USD) per year,0,1,3.7
+1282,15Five,4.9,"['NY', 'NC', 'CA']",Mumbai (India),10000+ employees, $10+ billion (USD) per year,1,1,3
+1283,Club Automation,4.9,"['IL', 'IL']",Bengaluru (India),10000+ employees, $10+ billion (USD) per year,1,1,NA
+1284,Instapage,4.9,118 king st. ,Bengaluru (India),10000+ employees, $5 to $10 billion (USD) per year,1,1,2.6
+1285,Epic!,4.9,702 Marshall Street  ,"Lebanon, NH",51 to 200 employees, Unknown / Non-Applicable,0,1,3.7
+1286,Webby Central,4.9,United States,NA,NA,NA,NA,NA,NA
+1287,Andhus,4.9,United States,"Jersey City, NJ",1 to 50 employees, $5 to $10 million (USD) per year,0,1,NA
+1288,IGEL,4.9,540 Howard Street ,"New York, NY",51 to 200 employees, Unknown / Non-Applicable,0,1,3.3
+1289,"TCG, Inc.",4.9,"['VA', 'VA']",NA,NA,NA,NA,NA,2.9
+1290,"TCG, Inc.",4.9,"['VA', 'VA']","Troy, MI",1 to 50 employees, Less than $1 million (USD) per year,0,0,2.9
+1291,Cargas Systems,4.9,101 North Queen Street ,"Iowa City, IA",1 to 50 employees, Less than $1 million (USD) per year,0,0,3.3
+1292,CSEngineering,4.9,"['MD', 'GA']","Seattle, WA",1 to 50 employees, Unknown / Non-Applicable,0,0,NA
+1293,Nylas,4.9,United States,NA,NA,NA,NA,NA,2.9
+1294,August Schell,4.9,United States,"Seattle, WA",51 to 200 employees, Unknown / Non-Applicable,0,1,2
+1295,YCharts,4.9,United States,"San Mateo, CA",201 to 500 employees, Unknown / Non-Applicable,0,0,NA
+1296,Justuno,4.9,"['TX', 'CA']",NA,NA,NA,NA,NA,3
+1297,Gradelink,4.9,United States,"Wilmington, MA",51 to 200 employees, $25 to $50 million (USD) per year,0,0,3
+1298,Celect,4.9,United States,"Olathe, KS",1 to 50 employees, Unknown / Non-Applicable,0,0,3
+1299,Classy Llama,4.9,2215 W Chesterfield Street ,"Ronkonkoma, NY",51 to 200 employees, $5 to $10 million (USD) per year,0,0,2.9
+1300,Justuno,4.9,"['TX', 'CA']",NA,NA,NA,NA,NA,3
+1301,Aurora Innovation,4.9,"['MT', 'CA', 'PA', 'CA']","Redwood City, CA",51 to 200 employees, $1 to $5 million (USD) per year,0,1,3
+1302,Fetch Rewards,4.9,"['IL', 'WI']","San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.3
+1303,TechRev,4.9,United States,NA,NA,NA,NA,NA,2.8
+1304,dscout,4.9,"222 North LaSalle Street, Suite 650 ","Helsinki, Southern Finland (Finland)",501 to 1000 employees, $50 to $100 million (USD) per year,0,1,2.9
+1305,Networking For Future,4.9,"1023 15th St NW Ste 500 Washington, District of Columbia, 20005-2602, United States","Annapolis Junction, MD",51 to 200 employees, $25 to $50 million (USD) per year,1,1,3.2
+1306,Unish Corp,4.9,United States,"Alpharetta, GA",1 to 50 employees, $5 to $10 million (USD) per year,0,1,NA
+1307,Q Consulting,4.9,United States,NA,NA,NA,NA,NA,NA
+1308,Business Technology Partners,4.9,"['IL', 'IL']","Arlington, VA",51 to 200 employees, $10 to $25 million (USD) per year,0,1,3
+1309,ASCII Group,4.9,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,1,1,2.4
+1310,Even,4.9,1440 Broadway ,NA,NA,NA,NA,NA,3.3
+1311,Tempered Networks,4.9,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,2
+1312,ClearlyRated,4.9,United States,"Redwood City, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1313,Cybrary,4.9,"['MD', 'MD']","Walpole, MA",1 to 50 employees, Unknown / Non-Applicable,0,0,2
+1314,Allego,4.9,"['MA', 'MA']",NA,NA,NA,NA,NA,2.5
+1315,Very Good Security,4.9,207 Powell St.  ,NA,NA,NA,NA,NA,3
+1316,AndPlus,4.9,"['NJ', 'MA']","Bremen, Bremen (Germany)",201 to 500 employees, $25 to $50 million (USD) per year,0,1,NA
+1317,Quantum Workplace,4.9,United States,"Washington, DC",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.5
+1318,Poshmark,4.9,"203 Redwood Shores Pkwy, Floor 8 ","Washington, DC",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.6
+1319,Quick Left,4.9,"902 Pearl St Boulder, Colorado, 80302-5109, United States","Lancaster, PA",51 to 200 employees, $10 to $25 million (USD) per year,0,1,3
+1320,Sphere Consulting (Chicago),4.9,"['IL', 'FL', 'NY']",NA,NA,NA,NA,NA,2.8
+1321,Quantum Workplace,4.9,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.5
+1322,BTI360,4.9,"['VA', 'VA']","Rockville, MD",1 to 50 employees, $5 to $10 million (USD) per year,0,1,2.9
+1323,Quick Left,4.9,"902 Pearl St Boulder, Colorado, 80302-5109, United States",NA,NA,NA,NA,NA,3
+1324,Poshmark,4.9,"203 Redwood Shores Pkwy, Floor 8 ","San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,2.6
+1325,BeenVerified.com,4.9,48 W. 38th St ,"Foothill Ranch, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,2.8
+1326,Teachers Pay Teachers,4.9,United States,"Boston, MA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.9
+1327,Quartzy,4.9,United States,"Springfield, MO",51 to 200 employees, Unknown / Non-Applicable,0,0,2.8
+1328,"Visionist, Inc.",4.9,"6700 Alexander Bell Dr # 440 Columbia, Maryland, 21046-2122, United States","San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,0,2.3
+1329,Bened Software,4.9,United States,"Palo Alto, CA",201 to 500 employees, Unknown / Non-Applicable,0,1,NA
+1330,Remesh,4.9,"['OH', 'NY']","Madison, WI",51 to 200 employees, Unknown / Non-Applicable,0,1,3
+1331,Valimail,4.9,"180 Montgomery Street, 20th FL ","Melbourne, FL",1 to 50 employees, Unknown / Non-Applicable,0,0,3
+1332,June,4.9,United States,"Chicago, IL",51 to 200 employees, Unknown / Non-Applicable,0,1,2.5
+1333,Periscope Data,4.9,1125 Mission Street ,"Washington, DC",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.6
+1334,Bizible,4.9,United States,NA,NA,NA,NA,NA,2.5
+1335,Praadis Technologies,4.9,United States,"Minneapolis, MN",51 to 200 employees, $10 to $25 million (USD) per year,0,1,NA
+1336,DeepMap,4.9,United States,NA,NA,NA,NA,NA,3
+1337,Kleiner Perkins Caufield & Byers,4.8,United States,"Deerfield, IL",1 to 50 employees, $5 to $10 million (USD) per year,0,1,2.7
+1338,3Sharp,4.9,United States,"Farmington, MI",201 to 500 employees, $10 to $25 million (USD) per year,0,1,2.7
+1339,Zumasys,4.8,United States,"Oakland, CA",51 to 200 employees, $25 to $50 million (USD) per year,0,0,3.3
+1340,CalTech (Texas),4.8,United States,"Seattle, WA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.9
+1341,MicroNet IT Solutions,4.8,United States,"Portland, OR",1 to 50 employees, $1 to $5 million (USD) per year,0,0,NA
+1342,HOVER,4.9,"['NY', 'CA']",NA,NA,NA,NA,NA,2.6
+1343,MindPoint Group,4.9,"['VA', 'VA']","College Park, MD",51 to 200 employees, $5 to $10 million (USD) per year,0,0,2.9
+1344,Kimble Applications,4.9,United States,"Needham, MA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.8
+1345,Onapsis,4.8,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1346,HoneyBook,4.9,United States,"Southborough, MA",51 to 200 employees, $5 to $10 million (USD) per year,0,0, 2.9
+1347,SmashFly Technologies,4.9,"['MA', 'MA']",NA,NA,NA,NA,NA,2.8
+1348,Marxent,4.9,"['OH', 'OH', 'FL']","Omaha, NE",51 to 200 employees, $5 to $10 million (USD) per year,0,0,3.2
+1349,Cloudinary,4.9,United States,"Redwood City, CA",201 to 500 employees, $100 to $500 million (USD) per year,0,1,2.2
+1350,HoneyBook,4.9,United States,"Boulder, CO",1 to 50 employees, $5 to $10 million (USD) per year,0,1,2.9
+1351,Corelight,4.9,United States,"Chicago, IL",51 to 200 employees, $10 to $25 million (USD) per year,0,0,3.2
+1352,Merge IT,4.8,One Financial Plaza Suite 808 ,"Omaha, NE",51 to 200 employees, $5 to $10 million (USD) per year,0,0,3
+1353,percona,4.8,United States,"Ashburn, VA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.9
+1354,G2 Inc.,4.8,"302 Sentinel Dr Ste 300 Annapolis Junction, Maryland, 20701-1061, United States","Boulder, CO",1 to 50 employees, $5 to $10 million (USD) per year,0,1,2.8
+1355,Online Business Systems,4.8,8500 Normandale Lake Blvd. Ste 350 ,"Redwood City, CA",201 to 500 employees, $100 to $500 million (USD) per year,0,1,3
+1356,Intevity,4.8,United States,"New York, NY",51 to 200 employees, Unknown / Non-Applicable,0,0,2
+1357,Khoj Information Technology,4.8,United States,"New York, NY",51 to 200 employees, Unknown / Non-Applicable,0,0, 4.0
+1358,Contactually,4.8,United States,"Hayward, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,2.7
+1359,VALiNTRY,4.8,"['TX', 'TN', 'FL', 'FL', 'FL']","Columbia, MD",51 to 200 employees, $10 to $25 million (USD) per year,0,1,2.5
+1360,IGNW,4.8,"['OR', 'OR', 'OR', 'WA']",NA,NA,NA,NA,NA,2.5
+1361,Mudrasys,4.8,United States,"New York, NY",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1362,Synaptic Advisory Partners,4.8,"41 Old Solomons Island Rd Annapolis, Maryland, 21401-3853, United States","San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,3
+1363,Contactually,4.8,United States,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.7
+1364,Orbital Insight,4.8,"['VA', 'MA', 'CA', 'NY', 'CA']","San Francisco, CA",51 to 200 employees, $10 to $25 million (USD) per year,0,1,3
+1365,SecureLink (TX),4.8,"['TX', 'TX']","Seattle, WA",51 to 200 employees, Unknown / Non-Applicable,1,1,3.1
+1366,DigitalCrafts,4.8,"['GA', 'TX']",NA,NA,NA,NA,NA,NA
+1367,ARCOS,4.8,United States,"Palo Alto, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.7
+1368,Plaid,4.8,"['NY', 'UT', 'CA']","Menlo Park, CA",51 to 200 employees, $50 to $100 million (USD) per year,0,0,2.8
+1369,First Orion,4.8,"['TX', 'WA', 'AR']","Redmond, WA",1 to 50 employees, $5 to $10 million (USD) per year,0,1,3
+1370,Plus3 IT Systems,4.8,"['VA', 'CO', 'VA', 'FL']","San Clemente, CA",1 to 50 employees, $5 to $10 million (USD) per year,0,1,3.5
+1371,VALiNTRY,4.8,"['TX', 'TN', 'FL', 'FL', 'FL']","San Angelo, TX",51 to 200 employees, $10 to $25 million (USD) per year,0,1,2.5
+1372,Homebot,4.8,"1660 17th St, Suite 400 ",NA,NA,NA,NA,NA,2.5
+1373,Shield AI,4.8,"['PA', 'CA']","San Francisco, CA",51 to 200 employees, $5 to $10 million (USD) per year,0,0,3.6
+1374,SimplePractice,4.8,"['CA', 'CA']","Alexandria, VA",51 to 200 employees, $10 to $25 million (USD) per year,0,1,2.6
+1375,Sezzle,4.8,251 N 1st Ave ,"Boston, MA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.7
+1376,Select Resources,4.8,"['MI', 'MI', 'MI']",NA,NA,NA,NA,NA,1
+1377,Powersolv,4.8,"1801, Robert Fulton Drive #550, Reston, Virginia ","San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1378,AEGIS.net,4.8,"['VA', 'VA', 'MD']","Boston, MA",51 to 200 employees, Unknown / Non-Applicable,0,1,3
+1379,Vyzer,4.8,United States,"Miamisburg, OH",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1380,Powersolv,4.8,"1801, Robert Fulton Drive #550, Reston, Virginia ","Santa Clara, CA",51 to 200 employees, $50 to $100 million (USD) per year,0,1,NA
+1381,Select Resources,4.8,"['MI', 'MI', 'MI']","San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,1
+1382,BlueModus,4.8,1641 California Street #400 ,"San Francisco, CA",51 to 200 employees, Unknown / Non-Applicable per year,0,0,3.1
+1383,Zerion Software,4.8,United States,"Fort Lauderdale, FL",51 to 200 employees, Unknown / Non-Applicable,0,0,3
+1384,Mozenda,4.8,"1064 North Country Blvd, Ste 400 ","Raleigh, NC",51 to 200 employees, $10 to $25 million (USD) per year,0,1,NA
+1385,PRINCETON IT SERVICES INC.,4.8,United States,"Annapolis Junction, MD",51 to 200 employees, $25 to $50 million (USD) per year,0,1,3
+1386,TechnoGen,4.8,United States,"Winnipeg, MB (Canada)",201 to 500 employees, $25 to $50 million (USD) per year,0,1,NA
+1387,Karat,4.8,United States,"Altamont, NY",51 to 200 employees, Unknown / Non-Applicable,0,0,2.8
+1388,SimplePractice,4.8,"['CA', 'CA']","Ramsey, NJ",1 to 50 employees, $1 to $5 million (USD) per year,0,0,2.6
+1389,GoFormz,4.8,United States,"Washington, DC",51 to 200 employees, $5 to $10 million (USD) per year,0,1,3
+1390,mobileforming,4.8,United States,"Winter Park, FL",51 to 200 employees, $5 to $10 million (USD) per year,0,1, 2.9
+1391,SimplePractice,4.8,"['CA', 'CA']","Lake Oswego, OR",201 to 500 employees, $25 to $50 million (USD) per year,1,0,2.6
+1392,Bluewave Resource Partners,4.8,United States,NA,NA,NA,NA,NA,2
+1393,Alation,4.8,"3 Lagoon Drive, #300 ","Annapolis, MD",51 to 200 employees, Unknown / Non-Applicable,0,1,2.9
+1394,TechnoGen,4.8,United States,"Washington, DC",51 to 200 employees, $5 to $10 million (USD) per year,0,1,NA
+1395,Sezzle,4.8,251 N 1st Ave ,"Palo Alto, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.7
+1396,Mailgun Technologies,4.8,112 E Pecan St #1135 ,"Austin, TX",51 to 200 employees, Unknown / Non-Applicable,1,1,3.5
+1397,Real-Time Innovations,4.8,United States,"Atlanta, GA",1 to 50 employees, $1 to $5 million (USD) per year,0,1,3
+1398,CIC Plus,4.8,"['IN', 'WA', 'IL']",NA,NA,NA,NA,NA,NA
+1399,VedaInfo,4.8,United States,"Columbus, OH",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1400,Entelo,4.8,United States,"San Francisco, CA",201 to 500 employees, Unknown / Non-Applicable,0,0,2.9
+1401,Hotel Internet Services,4.8,"['CA', 'CA']","Little Rock, AR",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1402,Geopointe,4.8,"['CA', 'CA']","Reston, VA",51 to 200 employees, Unknown / Non-Applicable,0,1,2.5
+1403,Bushel,4.8,United States,"Winter Park, FL",51 to 200 employees, $5 to $10 million (USD) per year,0,1,NA
+1404,Solution Design Group,4.8,"['MN', 'MN', 'MN']","Denver, CO",1 to 50 employees, Unknown / Non-Applicable per year,0,0,3.1
+1405,MessageGears,4.8,United States,"San Diego, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,1.7
+1406,Rithmio,4.8,United States,"Los Angeles, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,2.5
+1407,Color Genomics,4.8,831 Mitten Road ,"Minneapolis, MN",51 to 200 employees, $10 to $25 million (USD) per year,0,1,2.9
+1408,Kyra Solutions,4.8,"['FL', 'FL', 'FL']","Grandville, MI",51 to 200 employees, $5 to $10 million (USD) per year,0,0,NA
+1409,Source Allies,4.8,"['IA', 'IA']","Reston, VA",1 to 50 employees, $10 to $25 million (USD) per year,0,1,2.9
+1410,Source Allies,4.8,"['IA', 'IA']",NA,NA,NA,NA,NA,2.9
+1411,SurfMerchants,4.8,"41 West St FL 5 Boston, Massachusetts, 02111-1267, United States","New Castle, DE",1 to 50 employees, $10 to $25 million (USD) per year,0,0,3
+1412,Kyra Solutions,4.8,"['FL', 'FL', 'FL']",NA,NA,NA,NA,NA,NA
+1413,TigerGraph,4.8,United States,"Reston, VA",1 to 50 employees, $10 to $25 million (USD) per year,0,1,3
+1414,Vied Technologies,4.8,United States,NA,NA,NA,NA,NA,3
+1415,Asymmetrik ,4.8,"308 Sentinel Drive, Suite 400 ","Grandville, MI",51 to 200 employees, $5 to $10 million (USD) per year,0,0,2.8
+1416,Winning Edge Solutions,4.8,"6751 Columbia Gateway Dr, Suite 300 ","Denver, CO",51 to 200 employees, $10 to $25 million (USD) per year,0,1,NA
+1417,FastSpring,4.8,United States,"Herndon, VA",1 to 50 employees, $5 to $10 million (USD) per year,0,0,2.8
+1418,Keyhole Software,4.8,"['KS', 'NE', 'MO']",NA,NA,NA,NA,NA,NA
+1419,iGlobal,4.8,United States,"Hamilton, NJ",1 to 50 employees, $1 to $5 million (USD) per year,0,0,NA
+1420,Vied Technologies,4.8,United States,NA,NA,NA,NA,NA,3
+1421,Workato,4.8,United States,"Seattle, WA",51 to 200 employees, Unknown / Non-Applicable,0,0,3.1
+1422,V12 Group,4.8,United States,"Los Angeles, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,3.1
+1423,Tigerpaw Software,4.8,United States,"San Diego, CA",1 to 50 employees, $5 to $10 million (USD) per year,0,0,3.2
+1424,FastSpring,4.8,United States,"Glendale, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,2.8
+1425,ActivTrak,4.8,"['TX', 'TX']","Los Angeles, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,2.7
+1426,Engagio,4.8,United States,"Orlando, FL",1 to 50 employees, Unknown / Non-Applicable,0,0,3.5
+1427,MIM Software,4.8,United States,"Redwood City, CA",201 to 500 employees, $25 to $50 million (USD) per year,0,1,NA
+1428,PhotoShelter,4.8,"33 Union Square West, 2nd Floor  ",NA,NA,NA,NA,NA,2
+1429,Dwelo,4.8,"['UT', 'TX', 'UT', 'UT', 'CA']","Minneapolis, MN",51 to 200 employees, $10 to $25 million (USD) per year,0,1,NA
+1430,Allen Institute for AI,4.8,United States,"San Antonio, TX",51 to 200 employees, Unknown / Non-Applicable,0,0,3.1
+1431,AKA Enterprise Solutions,4.8,United States,"Sunnyvale, CA",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.8
+1432,Culture Amp,4.8,United States,"Skokie, IL",51 to 200 employees, $25 to $50 million (USD) per year,0,1,3
+1433,AdbaKx,4.8,"['NJ', 'NJ', 'NY']",NA,NA,NA,NA,NA,3
+1434,TechProjects,4.8,United States,NA,NA,NA,NA,NA,NA
+1435,MIM Software,4.8,United States,"San Francisco, CA",51 to 200 employees, $10 to $25 million (USD) per year,1,1,NA
+1436,ImagineX Consulting,4.8,"['VA', 'GA', 'CO', 'NC', 'GA']",NA,NA,NA,NA,NA,NA
+1437,Dwelo,4.8,"['UT', 'TX', 'UT', 'UT', 'CA']","Irvine, CA",1 to 50 employees, $5 to $10 million (USD) per year,0,0,3
+1438,PhotoShelter,4.8,"33 Union Square West, 2nd Floor  ","Fargo, ND",51 to 200 employees, $10 to $25 million (USD) per year,0,1,2
+1439,Waggl,4.8,"3 Harbor Drive, Suite 200 ",NA,NA,NA,NA,NA,2
+1440,PhotoShelter,4.8,"33 Union Square West, 2nd Floor  ","Golden Valley, MN",201 to 500 employees, $25 to $50 million (USD) per year,0,1,2
+1441,Gravyty Technologies,4.8,United States,"Atlanta, GA",1 to 50 employees, Unknown / Non-Applicable,0,1,NA
+1442,GRIN,4.8,United States,"Chicago, IL",1 to 50 employees, Unknown / Non-Applicable,0,1,3
+1443,ServiceCentral Technologies,4.8,"['GA', 'OK']","Burlingame, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,NA
+1444,Sectra,4.8,"2 Enterprise Drive, Suite 507 ",NA,NA,NA,NA,NA,3.3
+1445,"MicroNet Systems, Inc.",4.8,United States,"Urbandale, IA",51 to 200 employees, $10 to $25 million (USD) per year,0,0,NA
+1446,Amnet inc,4.8,"219 W Colo Ave Ste 200 Colorado Springs, Colorado, 80903, United States","Urbandale, IA",51 to 200 employees, $10 to $25 million (USD) per year,0,0,3
+1447,BoxTone,4.8,United States,"Boston, MA",1 to 50 employees, Unknown / Non-Applicable,0,0,NA
+1448,Sertifi,4.8,"222 W. Merchandise Mart Plaza, Suite 1270  ",NA,NA,NA,NA,NA,2.6
+1449,Buildium,4.8,"3 Center Plaza, Suite 400 ","Redwood City, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,3.2
+1450,Clari,4.8,1154 Sonora Court ,"Chantilly, VA",51 to 200 employees, $5 to $10 million (USD) per year,0,0,3.1
+1451,BoxTone,4.8,United States,"Annapolis Junction, MD",51 to 200 employees, $10 to $25 million (USD) per year,0,1,NA
+1452,Cartegraph,4.8,3600 Digital Dr ,"Columbia, MD",1 to 50 employees, $1 to $5 million (USD) per year,0,0,NA
+1453,Sertifi,4.8,"222 W. Merchandise Mart Plaza, Suite 1270  ",NA,NA,NA,NA,NA,2.6
+1454,Buildium,4.8,"3 Center Plaza, Suite 400 ","Santa Barbara, CA",51 to 200 employees, $25 to $50 million (USD) per year,0,1,3.2
+1455,Liventus,4.8,"['IL', 'IL']","Leawood, KS",51 to 200 employees, Unknown / Non-Applicable,0,0,2.6
+1456,ARMATURE,4.8,United States,NA,NA,NA,NA,NA,NA
+1457,PrecisionLender,4.8,"['NC', 'NC']",NA,NA,NA,NA,NA,3.5
+1458,NimbleUser,4.8,United States,"Chantilly, VA",51 to 200 employees, $5 to $10 million (USD) per year,0,0, 2.7
+1459,Impact Advisors,4.8,"['IL', 'IL']","Mountain View, CA",201 to 500 employees, Unknown / Non-Applicable,0,1,3.3
+1460,Crypsis Group,4.8,"['TX', 'IL', 'CA', 'VA', 'NY']","Red Bank, NJ",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2.8
+1461,Robin Powered,4.8,"11 Farnsworth St, Floor 2 ","Bellevue, NE",1 to 50 employees, $5 to $10 million (USD) per year,0,1,2.8
+1462,MeridianSoft,4.8,United States,"Santa Barbara, CA",51 to 200 employees, $25 to $50 million (USD) per year,0,1,NA
+1463,Knowledge Anywhere,4.8,"['WA', 'WA']","Austin, TX",1 to 50 employees, Unknown / Non-Applicable,0,1,2.5
+1464,Curata,4.8,United States,"San Mateo, CA",51 to 200 employees, $5 to $10 million (USD) per year,0,0,2.5
+1465,VSCO,4.8,"['IL', 'CA']",NA,NA,NA,NA,NA, 2.8
+1466,PayTrace,4.8,United States,"New York, NY",1 to 50 employees, $1 to $5 million (USD) per year,0,1,NA
+1467,GameChanger,4.8,United States,NA,NA,NA,NA,NA,2.3
+1468,Docmation,4.8,"3295 River Exchange Dr., Suite 522-107 ","Seattle, WA",51 to 200 employees, Unknown / Non-Applicable,0,1,3.3
+1469,BetterDoctor,4.8,United States,"New York, NY",51 to 200 employees, $25 to $50 million (USD) per year,0,1,2
+1470,eCreations,4.8,United States,Melbourne (Australia),201 to 500 employees, Unknown / Non-Applicable,0,0,3.5
+1471,BetterDoctor,4.8,United States,"Monmouth Junction, NJ",51 to 200 employees, $10 to $25 million (USD) per year,0,0,2
+1472,Docmation,4.8,"3295 River Exchange Dr., Suite 522-107 ",NA,NA,NA,NA,NA,NA
+1473,OneCause,4.8,8440 Woodfield Ste 500 ,NA,NA,NA,NA,NA,2.4
+1474,PayTrace,4.8,United States,"Atlanta, GA",51 to 200 employees, Unknown / Non-Applicable,0,1,NA
+1475,Smarking,4.8,United States,NA,NA,NA,NA,NA,3.4
+1476,Cedar,4.8,United States,"Bluffdale, UT",1 to 50 employees, $1 to $5 million (USD) per year,0,0,NA
+1477,Quantum Metric,4.8,,"New York, NY",1 to 50 employees, $1 to $5 million (USD) per year,0,1,
+1478,,,,"Sausalito, CA",51 to 200 employees, Unknown / Non-Applicable,0,1,
+1479,,,,"New York, NY",1 to 50 employees, $1 to $5 million (USD) per year,0,1,
+1480,,,,NA,NA,NA,NA,NA,
+1481,,,,"Sacramento, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,
+1482,,,,"Atlanta, GA",51 to 200 employees, $10 to $25 million (USD) per year,0,0,
+1483,,,,NA,NA,NA,NA,NA,
+1484,,,,Linköping (Sweden),501 to 1000 employees, $500 million to $1 billion (USD) per year,0,1,
+1485,,,,NA,NA,NA,NA,NA,
+1486,,,,"Colorado Springs, CO",1 to 50 employees, $1 to $5 million (USD) per year,0,0,
+1487,,,,NA,NA,NA,NA,NA,
+1488,,,,"Chicago, IL",51 to 200 employees, $10 to $25 million (USD) per year,0,0,
+1489,,,,"Boston, MA",51 to 200 employees, Unknown / Non-Applicable,0,1,
+1490,,,,"Sunnyvale, CA",51 to 200 employees, $25 to $50 million (USD) per year,0,1,
+1491,,,,NA,NA,NA,NA,NA,
+1492,,,,NA,NA,NA,NA,NA,
+1493,,,,"Chicago, IL",51 to 200 employees, $10 to $25 million (USD) per year,0,0,
+1494,,,,"Boston, MA",51 to 200 employees, Unknown / Non-Applicable,0,1,
+1495,,,,"Northbrook, IL",51 to 200 employees, $5 to $10 million (USD) per year,0,0,
+1496,,,,NA,NA,NA,NA,NA,
+1497,,,,"Charlotte, NC",51 to 200 employees, $25 to $50 million (USD) per year,0,1,
+1498,,,,"Pittsford, NY",1 to 50 employees, Unknown / Non-Applicable,0,0,
+1499,,,,"Naperville, IL",201 to 500 employees, $50 to $100 million (USD) per year,0,1,
+1500,,,,"McLean, VA",51 to 200 employees, $25 to $50 million (USD) per year,0,1,
+1501,,,,"Boston, MA",51 to 200 employees, Unknown / Non-Applicable,0,0,
+1502,,,,NA,NA,NA,NA,NA,
+1503,,,,"Kirkland, WA",1 to 50 employees, $5 to $10 million (USD) per year,0,0,
+1504,,,,"Boston, MA",1 to 50 employees, Unknown / Non-Applicable,0,1,
+1505,,,,"Oakland, CA",51 to 200 employees, Unknown / Non-Applicable,0,0,
+1506,,,,NA,NA,NA,NA,NA,
+1507,,,,"New York, NY",51 to 200 employees, Unknown / Non-Applicable,0,0,
+1508,,,,"Atlanta, GA",51 to 200 employees, $10 to $25 million (USD) per year,0,0,
+1509,,,,"San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,1,
+1510,,,,"Phoenix, AZ",1 to 50 employees, Unknown / Non-Applicable,0,0,
+1511,,,,"San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,1,
+1512,,,,NA,NA,NA,NA,NA,
+1513,,,,"Indianapolis, IN",201 to 500 employees, Unknown / Non-Applicable,0,1,
+1514,,,,NA,NA,NA,NA,NA,
+1515,,,,"San Francisco, CA",1 to 50 employees, Unknown / Non-Applicable,0,1,
+1516,,,,NA,NA,NA,NA,NA,
